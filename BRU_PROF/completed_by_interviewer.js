@@ -3,7 +3,7 @@ let completed_by_interviewer = `[
         "InterviewerID": 1,
         "Interview_Date": "2023-04-03",
         "completed_interviews": 51,
-        "download_time": "02-08-2023 16:33:44"
+        "download_time": "02-08-2023 16:48:53"
     },
     {
         "InterviewerID": 1,
@@ -53,7 +53,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 1,
         "Interview_Date": "2023-05-17",
-        "completed_interviews": 84
+        "completed_interviews": 83
     },
     {
         "InterviewerID": 1,
@@ -483,12 +483,12 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 4,
         "Interview_Date": "2023-04-01",
-        "completed_interviews": 56
+        "completed_interviews": 39
     },
     {
         "InterviewerID": 4,
         "Interview_Date": "2023-04-02",
-        "completed_interviews": 87
+        "completed_interviews": 77
     },
     {
         "InterviewerID": 4,
@@ -713,7 +713,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 4,
         "Interview_Date": "2023-06-14",
-        "completed_interviews": 89
+        "completed_interviews": 73
     },
     {
         "InterviewerID": 4,
@@ -1128,7 +1128,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 8,
         "Interview_Date": "2023-05-18",
-        "completed_interviews": 80
+        "completed_interviews": 79
     },
     {
         "InterviewerID": 8,
@@ -1318,7 +1318,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 10,
         "Interview_Date": "2023-05-16",
-        "completed_interviews": 49
+        "completed_interviews": 48
     },
     {
         "InterviewerID": 10,
@@ -1493,7 +1493,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 11,
         "Interview_Date": "2023-05-18",
-        "completed_interviews": 87
+        "completed_interviews": 86
     },
     {
         "InterviewerID": 11,
@@ -1528,7 +1528,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 11,
         "Interview_Date": "2023-06-14",
-        "completed_interviews": 106
+        "completed_interviews": 74
     },
     {
         "InterviewerID": 11,
