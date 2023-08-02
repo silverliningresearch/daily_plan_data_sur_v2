@@ -6,7 +6,7 @@ let shift_statistics = `[
         "Finish": "14:35:50",
         "Number of interviews": 58,
         "Shift time (hours)": 6.6427777778,
-        "download_time": "02-08-2023 08:25:52"
+        "download_time": "02-08-2023 08:38:14"
     },
     {
         "InterviewDate": "2023-03-31",
