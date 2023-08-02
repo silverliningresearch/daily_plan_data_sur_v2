@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-03-01",
         "quota_id": "AMS - KLM Royal Dutch Airlines",
         "Number of interviews": 13,
-        "download_time": "02-08-2023 17:47:51"
+        "download_time": "02-08-2023 18:02:57"
     },
     {
         "InterviewDate": "2023-03-01",
@@ -6659,6 +6659,11 @@ let interview_statistics = `[
         "InterviewDate": "2023-08-02",
         "quota_id": "DOH - Qatar Airways",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-08-02",
+        "quota_id": "JFK - Norse Atlantic Airways",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-08-02",
