@@ -5,7 +5,7 @@ let survey_statistics = `[
         "Dest": "Doha (DOH)",
         "Start": "08:19:33",
         "Finish": "08:46:09",
-        "download_time": "02-08-2023 08:20:48"
+        "download_time": "02-08-2023 08:25:52"
     },
     {
         "InterviewDate": "2023-03-31",
