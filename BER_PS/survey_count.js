@@ -5,7 +5,7 @@ let survey_count = `[
         "Dest": "Mailand (LIN)",
         "Start": "06:49:24",
         "Finish": "07:14:11",
-        "download_time": "11-08-2023 10:28:28"
+        "download_time": "11-08-2023 10:43:23"
     },
     {
         "InterviewDate": "2023-03-01",
@@ -77559,6 +77559,48 @@ let survey_count = `[
         "Dest": "New York (JFK)",
         "Start": "09:18:35",
         "Finish": "09:25:54"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "09:20:47",
+        "Finish": "10:34:41"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "09:23:43",
+        "Finish": "10:28:55"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "09:26:01",
+        "Finish": "10:34:16"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "09:29:04",
+        "Finish": "10:37:15"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "10:25:01",
+        "Finish": "10:39:20"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "10:29:03",
+        "Finish": "10:40:26"
     }
 ]    
 
