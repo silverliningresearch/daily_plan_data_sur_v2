@@ -5,7 +5,7 @@ let survey_count = `[
         "Dest": "Mailand (LIN)",
         "Start": "06:49:24",
         "Finish": "07:14:11",
-        "download_time": "11-08-2023 10:43:23"
+        "download_time": "11-08-2023 10:58:19"
     },
     {
         "InterviewDate": "2023-03-01",
@@ -77601,6 +77601,13 @@ let survey_count = `[
         "Dest": "Br\u00fcssel (BRU)",
         "Start": "10:29:03",
         "Finish": "10:40:26"
+    },
+    {
+        "InterviewDate": "2023-08-11",
+        "InterviewerID": 23,
+        "Dest": "Br\u00fcssel (BRU)",
+        "Start": "10:34:48",
+        "Finish": "10:46:17"
     }
 ]    
 
