@@ -5,7 +5,7 @@ let survey_count = `[
         "Dest": "Mailand (LIN)",
         "Start": "06:49:24",
         "Finish": "07:14:11",
-        "download_time": "12-08-2023 08:20:20"
+        "download_time": "12-08-2023 08:35:19"
     },
     {
         "InterviewDate": "2023-03-01",
@@ -77797,6 +77797,41 @@ let survey_count = `[
         "Dest": "Edinburgh (EDI)",
         "Start": "07:45:39",
         "Finish": "08:04:53"
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "InterviewerID": 2,
+        "Dest": "Edinburgh (EDI)",
+        "Start": "08:04:47",
+        "Finish": "08:21:59"
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "InterviewerID": 2,
+        "Dest": "Edinburgh (EDI)",
+        "Start": "08:04:59",
+        "Finish": "08:26:08"
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "InterviewerID": 2,
+        "Dest": "Edinburgh (EDI)",
+        "Start": "08:05:26",
+        "Finish": "08:27:13"
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "InterviewerID": 2,
+        "Dest": "Edinburgh (EDI)",
+        "Start": "08:06:21",
+        "Finish": "08:23:17"
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "InterviewerID": 2,
+        "Dest": "Edinburgh (EDI)",
+        "Start": "08:13:06",
+        "Finish": "08:35:08"
     }
 ]    
 
