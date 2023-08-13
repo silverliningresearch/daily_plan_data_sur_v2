@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-04-01",
         "quota_id": "HU492-PEK",
         "Number of interviews": 7,
-        "download_time": "12-08-2023 12:53:36"
+        "download_time": "13-08-2023 02:36:05"
     },
     {
         "InterviewDate": "2023-04-01",
@@ -22607,6 +22607,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-08-12",
+        "quota_id": "A3623-ATH",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-08-12",
         "quota_id": "AC833-YUL",
         "Number of interviews": 10
     },
@@ -22619,6 +22624,16 @@ let interview_statistics = `[
         "InterviewDate": "2023-08-12",
         "quota_id": "EI631-DUB",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "FR2921-BCN",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "FR3083-FCO",
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-08-12",
@@ -22637,6 +22652,26 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-08-12",
+        "quota_id": "HV9015-ALC",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "LH1017-FRA",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "LH2289-MUC",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "LO234-WAW",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-08-12",
         "quota_id": "ME216-BEY",
         "Number of interviews": 5
     },
@@ -22647,8 +22682,58 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-08-12",
+        "quota_id": "SN2265-CPH",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "SN3243-KGS",
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "SN3325-HRG",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "SN3773-ALC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "TB161-PUJ",
+        "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "TB1941-FAO",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "TB2751-NBE",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "TB2861-VAR",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-08-12",
         "quota_id": "TK7849-AYT",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "TP643-LIS",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-08-12",
+        "quota_id": "VY8983-BCN",
+        "Number of interviews": 5
     }
 ]    
 
