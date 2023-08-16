@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "16-08-2023 13:36:03"
+        "download_time": "16-08-2023 13:51:07"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -43,6 +43,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-08-14",
         "quota_id": "WH Smith - Premises D (Air)\u2666TERMINAL 2\u2666Airside\u2666026-055-02A\u2666OW\u2666Min6",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-08-16",
+        "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min6",
         "Number of interviews": 1
     },
     {
