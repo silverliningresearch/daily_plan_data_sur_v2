@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "07-09-2023 12:51:12"
+        "download_time": "07-09-2023 13:12:48"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -847,6 +847,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-07",
+        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min9",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-09-07",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
         "Number of interviews": 13
     },
@@ -857,18 +862,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-07",
+        "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-07",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min20",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-09-07",
         "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-07",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     }
 ]    
 
