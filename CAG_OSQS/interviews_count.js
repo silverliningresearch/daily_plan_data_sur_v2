@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-09-2023 14:21:14"
+        "download_time": "08-09-2023 14:36:34"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -947,6 +947,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "Archipelago Craft Brew House\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min9",
         "Number of interviews": 1
     },
@@ -958,7 +963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-08",
@@ -998,7 +1003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-08",
@@ -1028,7 +1033,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "Ya Kun\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-09-08",
