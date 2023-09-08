@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-09-2023 13:36:11"
+        "download_time": "08-09-2023 13:51:14"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -948,7 +948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-08",
@@ -968,7 +968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-08",
@@ -1007,8 +1007,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-08",
