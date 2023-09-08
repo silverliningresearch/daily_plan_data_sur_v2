@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-09-2023 14:51:24"
+        "download_time": "08-09-2023 15:06:22"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -948,7 +948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-08",
         "quota_id": "Archipelago Craft Brew House\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-08",
@@ -982,6 +982,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K8\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA\u2666Min9",
         "Number of interviews": 10
     },
@@ -1002,8 +1007,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-08",
@@ -1022,6 +1032,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min9",
         "Number of interviews": 11
     },
@@ -1029,6 +1044,16 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-08",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-09-08",
+        "quota_id": "UOB T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-08",
+        "quota_id": "UOB T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-08",
