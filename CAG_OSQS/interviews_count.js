@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-09-2023 11:51:21"
+        "download_time": "08-09-2023 12:06:11"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -947,8 +947,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "Crave The Original Adam Rd Nasi Lemak by Selera Rasa\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-09-08",
+        "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-08",
@@ -957,8 +967,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-08",
+        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-08",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2023-09-08",
@@ -969,6 +984,16 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-08",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#02-095-06\u2666FBA\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-09-08",
+        "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-09-08",
+        "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-08",
