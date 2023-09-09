@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-09-2023 16:21:18"
+        "download_time": "09-09-2023 16:36:21"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1088,12 +1088,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "Beyond Fruit\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-09-09",
@@ -1148,7 +1148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-09",
@@ -1163,7 +1163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-09",
@@ -1178,7 +1178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min9",
-        "Number of interviews": 9
+        "Number of interviews": 10
     }
 ]    
 
