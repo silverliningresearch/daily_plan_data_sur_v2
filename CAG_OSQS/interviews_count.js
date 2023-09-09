@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-09-2023 15:36:17"
+        "download_time": "09-09-2023 15:51:21"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1108,12 +1108,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "CHUTNEY MARY INDIAN FAST FOOD\u2666TERMINAL 2\u2666Landside\u2666#03-26 &27\u2666FBL\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-09",
@@ -1123,7 +1123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-09",
         "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-09",
@@ -1134,6 +1134,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-09",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min9",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-09",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min9",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-09",
