@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-09-2023 11:51:34"
+        "download_time": "10-09-2023 12:06:16"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1183,7 +1183,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-10",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-09-10",
@@ -1208,7 +1208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-10",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-10",
@@ -1234,6 +1234,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-10",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-10",
+        "quota_id": "THE DIGITAL GADGETS\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-10",
