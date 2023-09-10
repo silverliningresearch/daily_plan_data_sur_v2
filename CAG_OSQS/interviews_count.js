@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-09-2023 15:36:50"
+        "download_time": "10-09-2023 15:51:30"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1197,6 +1197,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-10",
+        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-10",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min9",
         "Number of interviews": 1
     },
@@ -1243,7 +1248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-10",
         "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-10",
@@ -1253,7 +1258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-10",
         "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-10",
