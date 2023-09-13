@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-09-2023 18:51:50"
+        "download_time": "13-09-2023 19:06:50"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1478,7 +1478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-13",
         "quota_id": "Changi Recommends\u2666TERMINAL 2\u2666Airside\u2666#02-K18\u2666CR\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-13",
@@ -1488,7 +1488,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-13",
         "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-13",
@@ -1563,7 +1563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-13",
         "quota_id": "UOB T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-03\u2666MC\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-13",
