@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-09-2023 18:51:54"
+        "download_time": "14-09-2023 19:07:02"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1583,7 +1583,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-14",
@@ -1613,7 +1613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min9",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-09-14",
@@ -1633,7 +1633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162\u2666CT\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-14",
@@ -1648,7 +1648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     }
 ]    
 
