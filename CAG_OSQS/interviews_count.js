@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-09-2023 17:06:55"
+        "download_time": "14-09-2023 17:21:46"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1588,7 +1588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-14",
@@ -1602,8 +1602,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-14",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-14",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-14",
@@ -1618,7 +1623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-14",
         "quota_id": "Guardian (Premises A) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-155\u2666PH\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-14",
