@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "17-09-2023 10:21:24"
+        "download_time": "17-09-2023 10:36:16"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1868,7 +1868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-17",
@@ -1879,6 +1879,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-17",
         "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-09-17",
+        "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-17",
@@ -1902,6 +1907,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-17",
+        "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-09-17",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min9",
         "Number of interviews": 4
     },
@@ -1913,7 +1923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-17",
