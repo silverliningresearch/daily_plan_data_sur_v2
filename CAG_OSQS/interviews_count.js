@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "17-09-2023 11:51:18"
+        "download_time": "17-09-2023 12:06:17"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -1878,7 +1878,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-09-17",
+        "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666JW\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-17",
@@ -1908,12 +1913,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-09-17",
+        "quota_id": "The Cocoa Trees (Premises A2) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-62\u2666CCD\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-17",
@@ -1928,12 +1938,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-17",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-17",
