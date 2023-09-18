@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-09-2023 16:06:26"
+        "download_time": "18-09-2023 16:21:28"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2038,7 +2038,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Baggage Storage\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2098,22 +2098,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min9",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "2023-09-18",
-        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min9",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-18",
+        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min9",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-09-18",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-18",
