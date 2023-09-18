@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-09-2023 16:36:40"
+        "download_time": "18-09-2023 16:51:29"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2043,7 +2043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2053,7 +2053,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2068,7 +2068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2078,7 +2078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2088,7 +2088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-18",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-18",
@@ -2099,6 +2099,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-18",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-09-18",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-18",
