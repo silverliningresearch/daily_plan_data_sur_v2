@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-09-2023 15:21:37"
+        "download_time": "19-09-2023 15:36:20"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2168,7 +2168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2183,7 +2183,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2248,7 +2248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2258,7 +2258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-19",
