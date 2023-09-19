@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-09-2023 14:06:49"
+        "download_time": "19-09-2023 14:21:20"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2173,7 +2173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2188,12 +2188,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-09-19",
+        "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2218,7 +2223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-19",
         "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-19",
@@ -2234,6 +2239,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-19",
         "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min9",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-19",
+        "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
