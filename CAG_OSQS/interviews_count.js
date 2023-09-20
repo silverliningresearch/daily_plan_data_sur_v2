@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "20-09-2023 15:21:43"
+        "download_time": "20-09-2023 15:36:22"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2308,12 +2308,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-20",
         "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2023-09-20",
         "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-20",
@@ -2328,7 +2328,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-20",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-20",
@@ -2353,7 +2353,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-20",
         "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-20",
