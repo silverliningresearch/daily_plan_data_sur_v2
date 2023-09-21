@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-09-2023 15:22:18"
+        "download_time": "21-09-2023 15:36:48"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2383,7 +2383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-21",
         "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-21",
@@ -2408,7 +2408,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-21",
         "quota_id": "Maison de Chronus (Premises A2) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-09-21",
+        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-21",
@@ -2429,6 +2434,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-21",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-09-21",
+        "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-21",
