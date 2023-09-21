@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-09-2023 13:22:05"
+        "download_time": "21-09-2023 13:36:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2372,6 +2372,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-21",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-21",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min20",
         "Number of interviews": 1
     },
@@ -2398,12 +2403,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-21",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-09-21",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-09-21",
