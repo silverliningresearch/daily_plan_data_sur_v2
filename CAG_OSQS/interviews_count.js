@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-09-2023 13:40:30"
+        "download_time": "23-09-2023 13:55:36"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2593,7 +2593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "Liquor & Tobacco\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min20",
-        "Number of interviews": 9
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2023-09-23",
@@ -2608,12 +2608,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min20",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 21
+        "Number of interviews": 22
     },
     {
         "InterviewDate": "2023-09-23",
@@ -2627,8 +2627,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-23",
+        "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-23",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-23",
