@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-09-2023 10:06:35"
+        "download_time": "23-09-2023 10:21:39"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2583,12 +2583,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "LT T2 Duplex (lower floor)\u2666TERMINAL 2\u2666Airside\u2666#02-167\u2666LT\u2666Min20",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "Liquor & Tobacco\u2666TERMINAL 2\u2666Airside\u2666#02-201/202/203\u2666LT\u2666Min25",
-        "Number of interviews": 24
+        "Number of interviews": 26
     },
     {
         "InterviewDate": "2023-09-23",
@@ -2603,7 +2603,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 10
+        "Number of interviews": 13
+    },
+    {
+        "InterviewDate": "2023-09-23",
+        "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-23",
@@ -2613,7 +2618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-23",
