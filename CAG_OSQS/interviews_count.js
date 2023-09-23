@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-09-2023 12:25:39"
+        "download_time": "23-09-2023 12:40:36"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2577,6 +2577,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-23",
+        "quota_id": "Hudsons (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-209 (beside Travelex)\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-23",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min9",
         "Number of interviews": 4
     },
@@ -2623,7 +2628,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-23",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-23",
