@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-09-2023 12:55:52"
+        "download_time": "24-09-2023 13:12:09"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2753,7 +2753,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-24",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-24",
@@ -2763,7 +2763,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-24",
         "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-24",
@@ -2793,12 +2793,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-24",
         "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-24",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#026-84-3)\u2666OW\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
