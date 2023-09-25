@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "25-09-2023 16:10:44"
+        "download_time": "25-09-2023 16:26:24"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2863,7 +2863,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-25",
         "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2023-09-25",
@@ -2877,13 +2877,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-25",
+        "quota_id": "Liquor & Tobacco\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-25",
+        "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-25",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min9",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-09-25",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-25",
@@ -2903,7 +2913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-25",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-09-25",
