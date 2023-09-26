@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-09-2023 15:40:56"
+        "download_time": "26-09-2023 15:55:46"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2958,7 +2958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-26",
@@ -2993,7 +2993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min25",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2023-09-26",
@@ -3027,6 +3027,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-26",
+        "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-26",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min25",
         "Number of interviews": 1
     },
@@ -3057,13 +3062,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-26",
+        "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-26",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min9",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093\u2666PC\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-26",
