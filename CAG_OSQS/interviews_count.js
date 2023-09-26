@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-09-2023 14:55:14"
+        "download_time": "26-09-2023 15:10:16"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -2973,7 +2973,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Gassan Watches\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-09-26",
@@ -2983,7 +2983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-26",
@@ -3028,12 +3028,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-09-26",
@@ -3043,7 +3043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-09-26",
@@ -3078,7 +3078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-26",
         "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     }
 ]    
 
