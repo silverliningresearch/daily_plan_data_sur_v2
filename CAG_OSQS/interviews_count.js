@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "27-09-2023 14:40:53"
+        "download_time": "27-09-2023 14:56:04"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3148,7 +3148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-27",
         "quota_id": "KidzTime\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666CT\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-27",
@@ -3203,7 +3203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-27",
         "quota_id": "Sunglass Hut (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-09-27",
@@ -3217,8 +3217,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-27",
-        "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min9",
+        "quota_id": "WH Smith - Premises A (Air) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666OW\u2666Min9",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-27",
+        "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min9",
+        "Number of interviews": 2
     }
 ]    
 
