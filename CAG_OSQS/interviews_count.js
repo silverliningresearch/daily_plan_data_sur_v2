@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "27-09-2023 13:26:04"
+        "download_time": "27-09-2023 13:39:43"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3137,6 +3137,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-09-27",
+        "quota_id": "KidzTime\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666CT\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-27",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
         "Number of interviews": 4
     },
@@ -3144,6 +3149,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-09-27",
         "quota_id": "Pazzion\u2666TERMINAL 1\u2666Airside\u2666#02-30AF\u2666MP\u2666Min9",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-09-27",
+        "quota_id": "Pedro\u2666TERMINAL 1\u2666Airside\u2666#02-74\u2666MP\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-09-27",
@@ -3158,6 +3168,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-09-27",
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-09-27",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min9",
         "Number of interviews": 1
     }
 ]    
