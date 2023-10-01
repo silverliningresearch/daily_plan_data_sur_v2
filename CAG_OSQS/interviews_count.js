@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "01-10-2023 14:21:40"
+        "download_time": "01-10-2023 14:36:36"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3537,6 +3537,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-01",
+        "quota_id": "CTE T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-01",
         "quota_id": "Crave The Original Adam Rd Nasi Lemak by Selera Rasa\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min9",
         "Number of interviews": 4
     },
@@ -3552,13 +3557,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-01",
+        "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-01",
         "quota_id": "GODIVA Chocolatier\u2666TERMINAL 3\u2666Landside\u2666#02-94\u2666LS\u2666Min9",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3607,6 +3617,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-01",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-01",
         "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min9",
         "Number of interviews": 2
     },
@@ -3638,7 +3653,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3653,7 +3668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3668,12 +3683,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-01",
