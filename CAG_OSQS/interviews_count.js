@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "01-10-2023 13:36:37"
+        "download_time": "01-10-2023 13:51:38"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3562,6 +3562,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-01",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-01",
         "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min9",
         "Number of interviews": 1
     },
@@ -3569,6 +3574,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-01",
         "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-01",
+        "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3593,7 +3603,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "Pezzo\u2666TERMINAL 1\u2666Airside\u2666#02-K09N\u2666FBA\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3608,7 +3618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3634,6 +3644,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-01",
         "quota_id": "Starbucks Coffee (Premises B)\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-01",
+        "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-01",
