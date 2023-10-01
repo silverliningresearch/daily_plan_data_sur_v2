@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "01-10-2023 18:36:25"
+        "download_time": "01-10-2023 18:51:23"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3528,7 +3528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3548,6 +3548,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "CTE T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min9",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-01",
+        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-01",
+        "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA\u2666Min9",
         "Number of interviews": 4
     },
     {
@@ -3648,7 +3658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-10-01",
@@ -3668,7 +3678,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-01",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-01",
