@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "02-10-2023 14:36:57"
+        "download_time": "02-10-2023 14:51:46"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3837,6 +3837,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-02",
+        "quota_id": "CTE T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-02",
         "quota_id": "CTE T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min9",
         "Number of interviews": 4
     },
@@ -3844,6 +3849,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-02",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-02",
+        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-02",
@@ -3863,7 +3873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-02",
         "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-02",
@@ -3874,6 +3884,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-02",
         "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-02",
+        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
