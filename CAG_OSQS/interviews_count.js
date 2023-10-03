@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "03-10-2023 17:06:50"
+        "download_time": "03-10-2023 17:22:06"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3923,7 +3923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Baggage Storage\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-03",
@@ -3964,6 +3964,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-03",
         "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-03",
+        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4037,6 +4042,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-03",
+        "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-03",
         "quota_id": "Salvatore Ferragamo\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666LX\u2666Min9",
         "Number of interviews": 1
     },
@@ -4078,12 +4088,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-02\u2666MC\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-03",
+        "quota_id": "UOB T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-03",
