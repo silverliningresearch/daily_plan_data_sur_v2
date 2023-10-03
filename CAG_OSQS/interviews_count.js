@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "03-10-2023 18:36:57"
+        "download_time": "03-10-2023 18:51:57"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3923,7 +3923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Baggage Storage\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-03",
@@ -3933,7 +3933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4013,7 +4013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min20",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4043,12 +4043,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min20",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4078,7 +4078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4093,7 +4093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-03",
