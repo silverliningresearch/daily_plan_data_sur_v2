@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "03-10-2023 15:22:06"
+        "download_time": "03-10-2023 15:36:52"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -3943,7 +3943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-03",
@@ -3958,7 +3958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4008,7 +4008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-03",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-03",
@@ -4017,7 +4017,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-03",
+        "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-03",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-03",
+        "quota_id": "Sprint-Cass (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666EL\u2666Min9",
         "Number of interviews": 1
     },
     {
