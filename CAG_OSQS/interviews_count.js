@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "04-10-2023 18:21:38"
+        "download_time": "04-10-2023 18:36:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4207,6 +4207,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH\u2666Min9",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min9",
         "Number of interviews": 1
     },
@@ -4218,7 +4223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4328,7 +4333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4368,7 +4373,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#026-84-3)\u2666OW\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-04",
