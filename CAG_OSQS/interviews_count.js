@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "04-10-2023 16:36:41"
+        "download_time": "04-10-2023 16:51:40"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4163,7 +4163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4189,6 +4189,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-04",
         "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min9",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4223,7 +4228,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4248,7 +4253,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4313,6 +4318,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "TWG Tea Company (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-26\u2666CCD\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min9",
         "Number of interviews": 3
     },
     {
