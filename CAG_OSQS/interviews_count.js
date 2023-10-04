@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "04-10-2023 15:37:43"
+        "download_time": "04-10-2023 15:51:58"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4147,6 +4147,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min9",
         "Number of interviews": 1
     },
@@ -4163,7 +4168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4188,7 +4193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4208,7 +4213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "O' COFFEE CLUB\u2666TERMINAL 4\u2666Landside\u2666#02-13\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4234,6 +4239,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-04",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min9",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "Rimowa\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666MP\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4263,7 +4273,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-04",
