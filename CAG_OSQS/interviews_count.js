@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "04-10-2023 12:36:55"
+        "download_time": "04-10-2023 12:51:55"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4147,8 +4147,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4174,6 +4189,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-04",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min9",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
