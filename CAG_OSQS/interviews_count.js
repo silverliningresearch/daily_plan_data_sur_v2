@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "04-10-2023 16:06:44"
+        "download_time": "04-10-2023 16:21:41"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4137,6 +4137,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min9",
         "Number of interviews": 1
     },
@@ -4182,6 +4187,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "LIHO TEA\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666LS\u2666Min9",
         "Number of interviews": 2
     },
@@ -4208,12 +4218,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "Montblanc\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4252,8 +4262,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-04",
+        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-04",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-04",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-04",
@@ -4293,7 +4313,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-04",
         "quota_id": "The Cocoa Trees (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-04",
