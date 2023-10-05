@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-10-2023",
         "quota_id": "T1_QR_DOH",
         "Number of interviews": 5,
-        "download_time": "05-10-2023 19:52:32"
+        "download_time": "05-10-2023 20:07:43"
     },
     {
         "InterviewDate": "01-10-2023",
@@ -117,33 +117,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "04-10-2023",
-        "quota_id": "T2_QR_DAC",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "04-10-2023",
         "quota_id": "T2_SQ_BKK",
         "Number of interviews": 6
     },
     {
         "InterviewDate": "04-10-2023",
         "quota_id": "T2_SQ_DAC",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "04-10-2023",
         "quota_id": "T2_SQ_KUL",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "04-10-2023",
         "quota_id": "T2_SQ_PEN",
         "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "04-10-2023",
-        "quota_id": "T2_TR_KUL",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "04-10-2023",
@@ -206,39 +196,19 @@ let interview_statistics  = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "04-10-2023",
-        "quota_id": "T4_SQ_DAC",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "05-10-2023",
-        "quota_id": "T1_SQ_DEL",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "05-10-2023",
         "quota_id": "T3_GA_CGK",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "05-10-2023",
-        "quota_id": "T3_SG_DEL",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "05-10-2023",
-        "quota_id": "T3_SG_HND",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "05-10-2023",
         "quota_id": "T3_SQ_DEL",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "05-10-2023",
         "quota_id": "T3_SQ_HND",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "05-10-2023",
@@ -248,11 +218,6 @@ let interview_statistics  = `[
     {
         "InterviewDate": "05-10-2023",
         "quota_id": "T3_SQ_INC",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "05-10-2023",
-        "quota_id": "T4_SI_SIN ",
         "Number of interviews": 1
     }
 ]    
