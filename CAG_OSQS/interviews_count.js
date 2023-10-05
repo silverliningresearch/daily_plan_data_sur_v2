@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "05-10-2023 16:22:06"
+        "download_time": "05-10-2023 16:37:00"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4413,7 +4413,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-05",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2023-10-05",
@@ -4443,7 +4443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-05",
         "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-05",
@@ -4453,7 +4453,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-05",
         "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-05",
@@ -4493,7 +4493,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-05",
         "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-05",
