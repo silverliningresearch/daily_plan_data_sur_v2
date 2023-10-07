@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "07-10-2023 14:36:35"
+        "download_time": "07-10-2023 14:51:35"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4727,6 +4727,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-07",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-07",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
         "Number of interviews": 12
     },
@@ -4739,6 +4744,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-07",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2023-10-07",
+        "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-07",
@@ -4758,7 +4768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-07",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-07",
