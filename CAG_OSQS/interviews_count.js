@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-10-2023 14:52:06"
+        "download_time": "08-10-2023 15:07:14"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4857,6 +4857,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-08",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-08",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min9",
         "Number of interviews": 1
     },
@@ -4902,6 +4907,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-08",
+        "quota_id": "LIHO TEA\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-08",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
         "Number of interviews": 10
     },
@@ -4938,7 +4948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-08",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-10-08",
@@ -4954,6 +4964,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-08",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-08",
+        "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min9",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-08",
