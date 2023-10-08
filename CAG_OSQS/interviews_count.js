@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-10-2023 12:22:21"
+        "download_time": "08-10-2023 12:37:09"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -4853,7 +4853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-08",
         "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-08",
@@ -4868,7 +4868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-08",
         "quota_id": "MCM\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-08",
@@ -4883,12 +4883,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-08",
         "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX\u2666Min9",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-10-08",
+        "quota_id": "Premises G (Jewel) - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Landside\u2666#01-302\u2666BS\u2666Min9",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-08",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-08",
