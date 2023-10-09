@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-10-2023 16:07:20"
+        "download_time": "09-10-2023 16:21:54"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5092,6 +5092,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-09",
+        "quota_id": "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-09",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
         "Number of interviews": 9
     },
@@ -5142,6 +5147,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-09",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-09",
         "quota_id": "TGM & ROOT98\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min9",
         "Number of interviews": 4
     },
@@ -5159,6 +5169,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-09",
         "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-09",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
