@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-10-2023 13:36:45"
+        "download_time": "09-10-2023 13:51:45"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5027,6 +5027,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-09",
+        "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-09",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u2666#02-32\u2666OS\u2666Min9",
         "Number of interviews": 1
     },
@@ -5039,6 +5044,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-09",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-09",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-09",
@@ -5063,7 +5073,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-09",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-10-09",
@@ -5083,7 +5093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-09",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-10-09",
