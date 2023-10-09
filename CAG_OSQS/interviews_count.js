@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-10-2023 10:37:09"
+        "download_time": "09-10-2023 10:52:17"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5027,13 +5027,28 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-09",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-09",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-09",
-        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min9",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-09",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min9",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-09",
+        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min9",
+        "Number of interviews": 3
     }
 ]    
 
