@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-10-2023 11:37:10"
+        "download_time": "10-10-2023 11:52:13"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5187,6 +5187,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-10",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-10",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min9",
         "Number of interviews": 2
     },
@@ -5204,6 +5209,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-10",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-10",
@@ -5228,6 +5238,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-10",
         "quota_id": "Kenangan Coffee\u2666TERMINAL 2\u2666Landside\u2666#02-12\u2666FBL\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-10",
+        "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min9",
         "Number of interviews": 1
     },
     {
@@ -5248,7 +5263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-10",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-10",
