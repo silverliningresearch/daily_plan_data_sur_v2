@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-10-2023 14:07:11"
+        "download_time": "10-10-2023 14:21:53"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5202,6 +5202,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-10",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min9",
         "Number of interviews": 1
     },
@@ -5277,6 +5282,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-10",
+        "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-10",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min9",
         "Number of interviews": 4
     },
@@ -5288,6 +5298,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-10",
         "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-10",
+        "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min9",
         "Number of interviews": 1
     },
     {
