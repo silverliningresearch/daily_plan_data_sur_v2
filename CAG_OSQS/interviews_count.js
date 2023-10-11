@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-10-2023 12:37:29"
+        "download_time": "11-10-2023 12:52:27"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5373,7 +5373,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-11",
         "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-10-11",
@@ -5383,7 +5383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-11",
         "quota_id": "Pedro\u2666TERMINAL 1\u2666Airside\u2666#02-74\u2666MP\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-11",
@@ -5393,12 +5393,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-11",
         "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-11",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-11",
@@ -5413,7 +5413,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-11",
         "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
