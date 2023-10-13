@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-10-2023 14:52:36"
+        "download_time": "13-10-2023 15:07:38"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5627,6 +5627,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-13",
+        "quota_id": "8 BY BOTTLES & BOTTLES\u2666TERMINAL 3\u2666Landside\u2666#B2-51A\u2666LS\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-13",
         "quota_id": "ANJIE INTERNATIONAL EXPRESS\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min9",
         "Number of interviews": 3
     },
@@ -5682,6 +5687,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-13",
+        "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-13",
         "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min9",
         "Number of interviews": 2
     },
@@ -5702,13 +5712,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-13",
+        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-13",
         "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min9",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-13",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-13",
