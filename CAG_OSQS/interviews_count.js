@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-10-2023 13:36:50"
+        "download_time": "13-10-2023 13:51:51"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5632,6 +5632,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-13",
+        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-13",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K1\u2666CR\u2666Min9",
         "Number of interviews": 4
     },
@@ -5659,6 +5664,16 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-13",
         "quota_id": "CTE T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-13",
+        "quota_id": "CTE T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-13",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-13",
@@ -5733,7 +5748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-13",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-13",
