@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-10-2023 13:52:18"
+        "download_time": "14-10-2023 14:07:32"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5863,7 +5863,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-14",
@@ -5878,11 +5878,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-14",
+        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA\u2666Min9",
         "Number of interviews": 1
     },
     {
