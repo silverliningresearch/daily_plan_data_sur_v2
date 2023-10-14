@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-10-2023 11:37:19"
+        "download_time": "14-10-2023 11:52:20"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5842,6 +5842,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-14",
+        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-14",
         "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min9",
         "Number of interviews": 3
     },
@@ -5858,7 +5863,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-14",
@@ -5868,7 +5873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-14",
