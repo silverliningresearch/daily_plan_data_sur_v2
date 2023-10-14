@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-10-2023 12:07:24"
+        "download_time": "14-10-2023 12:22:15"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5853,7 +5853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-14",
@@ -5868,7 +5868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-14",
@@ -5878,7 +5878,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "UOB T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     }
 ]    
 
