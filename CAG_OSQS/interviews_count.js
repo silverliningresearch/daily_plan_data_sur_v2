@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-10-2023 17:07:29"
+        "download_time": "14-10-2023 17:22:34"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5918,7 +5918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-10-14",
@@ -5938,12 +5938,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-10-14",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
         "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2023-10-14",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-14",
