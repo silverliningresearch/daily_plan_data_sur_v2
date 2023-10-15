@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "15-10-2023 13:07:08"
+        "download_time": "15-10-2023 13:21:59"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5963,7 +5963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-15",
@@ -5988,7 +5988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "Beyond Fruit\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666FBL\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-15",
@@ -6018,7 +6018,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-15",
@@ -6053,12 +6053,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "UOB T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min9",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-15",
+        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
