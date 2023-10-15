@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "15-10-2023 13:51:48"
+        "download_time": "15-10-2023 14:06:53"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -5963,7 +5963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-15",
@@ -5973,7 +5973,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-15",
@@ -6048,7 +6048,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-15",
@@ -6063,7 +6063,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-15",
         "quota_id": "UOB T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-15",
