@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-10-2023 13:52:43"
+        "download_time": "18-10-2023 14:07:50"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6348,7 +6348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-18",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-18",
@@ -6358,7 +6358,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-18",
         "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-18",
@@ -6373,7 +6373,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-18",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-18",
@@ -6388,7 +6388,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-18",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-18",
