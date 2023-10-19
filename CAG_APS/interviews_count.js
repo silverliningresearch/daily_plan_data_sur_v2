@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-10-2023",
         "quota_id": "T1_QR_DOH",
         "Number of interviews": 5,
-        "download_time": "20-10-2023 00:23:29"
+        "download_time": "20-10-2023 00:38:14"
     },
     {
         "InterviewDate": "01-10-2023",
@@ -977,23 +977,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "18-10-2023",
-        "quota_id": "T1_TG_IST",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-10-2023",
         "quota_id": "T1_TK_IST",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "18-10-2023",
-        "quota_id": "T1_TR_DAV",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-10-2023",
         "quota_id": "T1_TR_DVO",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "18-10-2023",
@@ -1002,13 +992,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "18-10-2023",
-        "quota_id": "T1_TR_KTN",
+        "quota_id": "T1_TR_IST",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "18-10-2023",
         "quota_id": "T1_TR_KUA",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "18-10-2023",
@@ -1182,38 +1172,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "19-10-2023",
-        "quota_id": "T3_CHINA EASTERN_PVG",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "19-10-2023",
         "quota_id": "T3_GF_BAH",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "19-10-2023",
-        "quota_id": "T3_GF_BHA",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "19-10-2023",
-        "quota_id": "T3_MU_PUD",
-        "Number of interviews": 1
+        "quota_id": "T3_MU_PVG",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "19-10-2023",
         "quota_id": "T3_OD_KUL",
         "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "19-10-2023",
-        "quota_id": "T3_S2_PER",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "19-10-2023",
-        "quota_id": "T3_SA_PRT",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "19-10-2023",
@@ -1233,7 +1203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "19-10-2023",
         "quota_id": "T3_SQ_PER",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "19-10-2023",
