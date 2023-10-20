@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-10-2023",
         "quota_id": "T1_QR_DOH",
         "Number of interviews": 5,
-        "download_time": "21-10-2023 00:53:32"
+        "download_time": "21-10-2023 01:08:13"
     },
     {
         "InterviewDate": "01-10-2023",
@@ -978,7 +978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "18-10-2023",
         "quota_id": "T1_TK_IST",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "18-10-2023",
@@ -988,11 +988,6 @@ let interview_statistics  = `[
     {
         "InterviewDate": "18-10-2023",
         "quota_id": "T1_TR_HKT",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-10-2023",
-        "quota_id": "T1_TR_IST",
         "Number of interviews": 1
     },
     {
@@ -1067,7 +1062,7 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "19-10-2023",
-        "quota_id": "T1_CA_TFZ",
+        "quota_id": "T1_CA_TFU",
         "Number of interviews": 2
     },
     {
@@ -1117,7 +1112,7 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "19-10-2023",
-        "quota_id": "T1_TR_KEV",
+        "quota_id": "T1_TR_KBV",
         "Number of interviews": 3
     },
     {
@@ -1168,27 +1163,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "19-10-2023",
         "quota_id": "T3_SQ_MEL",
-        "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "19-10-2023",
-        "quota_id": "T3_SQ_MEL ",
-        "Number of interviews": 1
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "19-10-2023",
         "quota_id": "T3_SQ_PER",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "19-10-2023",
         "quota_id": "T3_SQ_SFO",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "19-10-2023",
-        "quota_id": "T3_SQ _PER",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "20-10-2023",
