@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-10-2023 14:22:49"
+        "download_time": "21-10-2023 14:37:45"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6623,7 +6623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-21",
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-10-21",
@@ -6644,6 +6644,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-21",
         "quota_id": "HEAVENLY WANG\u2666TERMINAL 3\u2666Landside\u2666#01-25\u2666FBL\u2666Min9",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-21",
+        "quota_id": "House of Samsonite\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666MP\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-21",
@@ -6668,7 +6673,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-21",
         "quota_id": "PARADISE DYNASTY\u2666TERMINAL 3\u2666Landside\u2666#03-32\u2666FBL\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-10-21",
@@ -6688,7 +6693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-21",
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-21",
