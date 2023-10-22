@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "22-10-2023 12:52:51"
+        "download_time": "22-10-2023 13:08:15"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6727,8 +6727,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-22",
-        "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min9",
+        "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min9",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-22",
+        "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-22",
@@ -6743,7 +6748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-22",
         "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-10-22",
@@ -6772,6 +6777,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-22",
+        "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-22",
         "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP\u2666Min9",
         "Number of interviews": 2
     },
@@ -6788,7 +6798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-22",
         "quota_id": "TGM & ROOT98\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-22",
