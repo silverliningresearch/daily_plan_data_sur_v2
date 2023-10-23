@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-10-2023 12:07:57"
+        "download_time": "23-10-2023 12:22:49"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6844,6 +6844,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-23",
         "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-23",
+        "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-23",
