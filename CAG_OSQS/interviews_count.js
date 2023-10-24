@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-10-2023 12:06:58"
+        "download_time": "24-10-2023 12:22:00"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6947,6 +6947,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-24",
+        "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-24",
         "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min9",
         "Number of interviews": 2
     },
@@ -6959,6 +6964,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-24",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12R\u2666LX\u2666Min9",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-24",
+        "quota_id": "CTE T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-24",
@@ -6993,7 +7003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-24",
         "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-24",
@@ -7024,6 +7034,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-24",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-10-24",
+        "quota_id": "UOB T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-24",
