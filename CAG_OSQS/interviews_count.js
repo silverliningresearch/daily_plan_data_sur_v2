@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-10-2023 19:23:35"
+        "download_time": "24-10-2023 19:37:57"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -6987,6 +6987,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-24",
+        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-24",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min9",
         "Number of interviews": 1
     },
@@ -6999,6 +7004,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-24",
         "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-24",
+        "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-24",
@@ -7073,6 +7083,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-24",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-24",
+        "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min9",
         "Number of interviews": 2
     },
     {
