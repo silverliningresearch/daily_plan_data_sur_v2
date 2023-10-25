@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "25-10-2023 15:22:14"
+        "download_time": "25-10-2023 15:37:02"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7213,7 +7213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-25",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-10-25",
@@ -7248,7 +7248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-25",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-25",
