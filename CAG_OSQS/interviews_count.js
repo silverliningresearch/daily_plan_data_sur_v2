@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "25-10-2023 10:37:14"
+        "download_time": "25-10-2023 10:52:29"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7162,6 +7162,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-25",
+        "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-25",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min9",
         "Number of interviews": 2
     },
@@ -7188,7 +7193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-25",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-10-25",
@@ -7199,6 +7204,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-25",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min9",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-25",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-25",
