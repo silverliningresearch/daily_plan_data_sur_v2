@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-10-2023 12:08:09"
+        "download_time": "26-10-2023 12:23:06"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7287,6 +7287,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-26",
+        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-26",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min9",
         "Number of interviews": 4
     },
@@ -7294,6 +7299,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-26",
         "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP\u2666Min9",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7308,12 +7318,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 15
+        "Number of interviews": 17
     },
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7338,7 +7348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 24
+        "Number of interviews": 25
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7357,7 +7367,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-10-26",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-26",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "Swarovski\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min9",
         "Number of interviews": 1
     },
     {
