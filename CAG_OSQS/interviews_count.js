@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-10-2023 11:37:48"
+        "download_time": "26-10-2023 11:52:50"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7308,7 +7308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 12
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7319,6 +7319,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-10-26",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-201/202/203\u2666LT\u2666Min15",
         "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7333,7 +7338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 18
+        "Number of interviews": 21
     },
     {
         "InterviewDate": "2023-10-26",
@@ -7343,7 +7348,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-26",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min9",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-10-26",
+        "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-10-26",
