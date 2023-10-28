@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "28-10-2023 15:22:59"
+        "download_time": "28-10-2023 15:38:03"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7693,7 +7693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-28",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-28",
@@ -7783,7 +7783,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-28",
         "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-28",
@@ -7798,7 +7798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-28",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-10-28",
@@ -7823,7 +7823,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-10-28",
         "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-10-28",
