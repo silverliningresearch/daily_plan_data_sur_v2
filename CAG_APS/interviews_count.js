@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-11-2023",
         "quota_id": "T1_CA_PEK",
         "Number of interviews": 7,
-        "download_time": "01-11-2023 19:06:37"
+        "download_time": "01-11-2023 19:22:05"
     },
     {
         "InterviewDate": "01-11-2023",
@@ -22,23 +22,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "01-11-2023",
-        "quota_id": "T1_SC_BPN",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "01-11-2023",
-        "quota_id": "T1_SC_KTN",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "01-11-2023",
         "quota_id": "T1_TR_BKK",
         "Number of interviews": 13
     },
     {
         "InterviewDate": "01-11-2023",
         "quota_id": "T1_TR_BPN",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "01-11-2023",
@@ -52,13 +42,8 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "01-11-2023",
-        "quota_id": "T1_TR_KIX ",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "01-11-2023",
         "quota_id": "T1_TR_KUA",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "01-11-2023",
@@ -87,8 +72,8 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "01-11-2023",
-        "quota_id": "T1_Tr_KUA",
-        "Number of interviews": 1
+        "quota_id": "T2_AI_BOM",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "01-11-2023",
@@ -118,22 +103,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "01-11-2023",
         "quota_id": "T2_TR_KIX",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "01-11-2023",
-        "quota_id": "T2_TR_KIXx",
+        "quota_id": "T2_TR_KIX ",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "01-11-2023",
         "quota_id": "T2_TR_MDC",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "01-11-2023",
-        "quota_id": "T3_SQ_SFO",
-        "Number of interviews": 1
     }
 ]    
 
