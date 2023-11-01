@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "01-11-2023 14:21:00"
+        "download_time": "01-11-2023 14:36:01"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -7948,12 +7948,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-01",
         "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-01",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-01",
@@ -7982,6 +7982,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-01",
+        "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA\u2666Min9",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-01",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
         "Number of interviews": 1
     },
@@ -7994,6 +7999,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-01",
         "quota_id": "O' COFFEE CLUB\u2666TERMINAL 4\u2666Landside\u2666#02-13\u2666FBL\u2666Min9",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-11-01",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-01",
@@ -8013,7 +8023,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-01",
         "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-01",
