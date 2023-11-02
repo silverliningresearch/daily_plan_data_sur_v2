@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "02-11-2023 17:06:04"
+        "download_time": "02-11-2023 17:21:28"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8088,7 +8088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8103,7 +8103,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8129,6 +8129,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-02",
         "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-11-02",
+        "quota_id": "Ya Kun\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min9",
+        "Number of interviews": 1
     }
 ]    
 
