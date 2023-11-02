@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "02-11-2023 15:51:02"
+        "download_time": "02-11-2023 16:06:02"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8068,7 +8068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "GUARDIAN HEALTH & BEAUTY\u2666TERMINAL 3\u2666Landside\u2666#B2-24\u2666LS\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8098,7 +8098,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "Pontian Wanton Noodle\u2666TERMINAL 1\u2666Airside\u2666#02-K10N\u2666FBA\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8118,12 +8118,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-02",
