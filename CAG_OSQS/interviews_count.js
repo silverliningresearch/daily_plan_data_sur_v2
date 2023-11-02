@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "02-11-2023 17:51:03"
+        "download_time": "02-11-2023 18:06:04"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8068,7 +8068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "Crave The Original Adam Rd Nasi Lemak by Selera Rasa\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8083,7 +8083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "Ippudo Express\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8093,7 +8093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "KIDZTIME\u2666TERMINAL 3\u2666Landside\u2666#B2-20/21\u2666LS\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8103,7 +8103,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-02",
@@ -8143,7 +8143,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-02",
         "quota_id": "Ya Kun\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min9",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
