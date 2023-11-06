@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "06-11-2023 13:51:29"
+        "download_time": "06-11-2023 14:06:09"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8333,7 +8333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-06",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-06",
@@ -8353,7 +8353,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-06",
         "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-06",
@@ -8368,7 +8368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-06",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-06",
@@ -8383,7 +8383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-06",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-06",
@@ -8403,7 +8403,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-06",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-06",
