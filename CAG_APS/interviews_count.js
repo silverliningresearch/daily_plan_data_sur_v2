@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-11-2023",
         "quota_id": "T1_CA_PEK",
         "Number of interviews": 7,
-        "download_time": "06-11-2023 18:21:41"
+        "download_time": "06-11-2023 18:36:41"
     },
     {
         "InterviewDate": "01-11-2023",
@@ -462,11 +462,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "06-11-2023",
-        "quota_id": "T2_QZ_IND",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "06-11-2023",
         "quota_id": "T3_GA_CGK",
         "Number of interviews": 8
     },
@@ -487,11 +482,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "06-11-2023",
-        "quota_id": "T3_SA_LHR",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "06-11-2023",
         "quota_id": "T3_SQ_A14",
         "Number of interviews": 1
     },
@@ -508,12 +498,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "06-11-2023",
         "quota_id": "T3_SQ_LHR",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "06-11-2023",
         "quota_id": "T3_SQ_PER",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "06-11-2023",
@@ -523,7 +513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "06-11-2023",
         "quota_id": "T3_VN_SGN",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "06-11-2023",
@@ -547,28 +537,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "06-11-2023",
-        "quota_id": "T4_FD_BKK",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "06-11-2023",
         "quota_id": "T4_FD_DMK",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "06-11-2023",
         "quota_id": "T4_KE_ICN",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "06-11-2023",
-        "quota_id": "T4_KE_SEO",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "06-11-2023",
         "quota_id": "T4_QZ_CGK",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "06-11-2023",
