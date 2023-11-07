@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "07-11-2023 18:51:14"
+        "download_time": "07-11-2023 19:06:14"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8443,7 +8443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-07",
         "quota_id": "ANJIE INTERNATIONAL EXPRESS\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-07",
@@ -8483,7 +8483,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-07",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min9",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-07",
@@ -8508,7 +8508,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-07",
         "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-07",
@@ -8538,7 +8538,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-07",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
