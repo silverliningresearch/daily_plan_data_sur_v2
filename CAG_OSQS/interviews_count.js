@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-11-2023 14:36:17"
+        "download_time": "09-11-2023 14:51:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8588,7 +8588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8623,7 +8623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8663,7 +8663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "LIHO TEA\u2666TERMINAL 4\u2666Landside\u2666#01-08\u2666LS\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8688,12 +8688,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD\u2666Min9",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-09",
