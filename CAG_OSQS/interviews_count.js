@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-11-2023 18:06:23"
+        "download_time": "09-11-2023 18:21:19"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8658,7 +8658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8668,7 +8668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8703,7 +8703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8718,7 +8718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-09",
