@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "09-11-2023 12:06:19"
+        "download_time": "09-11-2023 12:21:17"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8593,7 +8593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8618,7 +8618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#02-K7\u2666CR\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8633,7 +8633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-09",
@@ -8648,17 +8648,27 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Lego\u2666TERMINAL 4\u2666Airside\u2666#02-48\u2666CT\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-11-09",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-09",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-09",
+        "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL\u2666Min9",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-09",
