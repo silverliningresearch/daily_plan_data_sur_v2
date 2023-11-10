@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-11-2023 15:07:00"
+        "download_time": "10-11-2023 15:21:31"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8798,7 +8798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-10",
@@ -8833,7 +8833,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min9",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-10",
@@ -8843,12 +8843,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-10",
