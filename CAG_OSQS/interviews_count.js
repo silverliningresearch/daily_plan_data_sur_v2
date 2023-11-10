@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-11-2023 13:36:10"
+        "download_time": "10-11-2023 13:51:10"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8773,12 +8773,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min9",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-10",
@@ -8797,13 +8797,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-10",
+        "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-10",
         "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA\u2666Min9",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-10",
@@ -8838,7 +8843,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min9",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-10",
