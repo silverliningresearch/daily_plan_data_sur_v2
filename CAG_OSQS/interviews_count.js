@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-11-2023 11:21:28"
+        "download_time": "10-11-2023 11:36:10"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8767,18 +8767,28 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-10",
+        "quota_id": "CTE T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-02\u2666MC\u2666Min9",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-10",
         "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA\u2666Min9",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA\u2666Min9",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min9",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-11-10",
+        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min9",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-10",
@@ -8793,7 +8803,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-10",
         "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min9",
-        "Number of interviews": 6
+        "Number of interviews": 9
     }
 ]    
 
