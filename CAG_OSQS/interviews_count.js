@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-11-2023 16:06:26"
+        "download_time": "11-11-2023 16:21:24"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8923,7 +8923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8943,7 +8943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8953,7 +8953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Discover Singapore (Premises E) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-63\u2666SV\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8968,7 +8968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9028,7 +9028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9058,7 +9058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9083,7 +9083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     }
 ]    
 
