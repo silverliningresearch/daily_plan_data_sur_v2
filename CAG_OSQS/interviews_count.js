@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-11-2023 12:21:24"
+        "download_time": "11-11-2023 12:36:22"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8913,7 +8913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8938,7 +8938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8982,8 +8982,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-11",
+        "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-11",
         "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-11",
+        "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9018,7 +9028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9028,7 +9038,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "UOB T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-11",
