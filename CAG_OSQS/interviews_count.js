@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-11-2023 13:06:30"
+        "download_time": "11-11-2023 13:21:32"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8938,7 +8938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8983,12 +8983,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
-        "Number of interviews": 10
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9008,7 +9008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9048,7 +9048,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "UOB T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-11",
