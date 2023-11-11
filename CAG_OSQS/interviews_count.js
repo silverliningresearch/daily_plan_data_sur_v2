@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-11-2023 17:51:23"
+        "download_time": "11-11-2023 18:06:39"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8978,7 +8978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9003,7 +9003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9018,7 +9018,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9058,7 +9058,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-11",
