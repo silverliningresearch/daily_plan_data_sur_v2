@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-11-2023 14:21:22"
+        "download_time": "11-11-2023 14:36:23"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -8913,7 +8913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8938,12 +8938,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-11",
@@ -8953,7 +8953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Eureka\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9003,7 +9003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9038,7 +9038,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-11",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-11",
@@ -9074,6 +9074,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-11",
         "quota_id": "UOB T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-11-11",
+        "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
