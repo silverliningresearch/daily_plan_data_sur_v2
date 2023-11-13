@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-11-2023 12:21:31"
+        "download_time": "13-11-2023 12:36:39"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -9178,7 +9178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-13",
         "quota_id": "ANJIE INTERNATIONAL EXPRESS\u2666TERMINAL 1\u2666Landside\u2666#01-K6\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-13",
@@ -9198,12 +9198,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-13",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-13",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2023-11-13",
+        "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-13",
