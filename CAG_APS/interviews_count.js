@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "01-11-2023",
         "quota_id": "T1_CA_PEK",
         "Number of interviews": 7,
-        "download_time": "14-11-2023 16:37:18"
+        "download_time": "14-11-2023 16:52:18"
     },
     {
         "InterviewDate": "01-11-2023",
@@ -708,22 +708,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "09-11-2023",
         "quota_id": "T3_QG_CGK",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "09-11-2023",
-        "quota_id": "T3_QZ_CGK",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "09-11-2023",
-        "quota_id": "T3_SQ_HKD",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "09-11-2023",
         "quota_id": "T3_SQ_HKG",
-        "Number of interviews": 4
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "09-11-2023",
+        "quota_id": "T3_SQ_KHG",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "09-11-2023",
@@ -737,18 +732,8 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "09-11-2023",
-        "quota_id": "T3_SW_KHG",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "09-11-2023",
         "quota_id": "T4_3K_HKT",
         "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "09-11-2023",
-        "quota_id": "T4_AI_HKT",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "09-11-2023",
@@ -768,7 +753,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "09-11-2023",
         "quota_id": "T4_FD_HKT",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "09-11-2023",
@@ -978,7 +963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "14-11-2023",
         "quota_id": "T4_QZ_DPS",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "14-11-2023",
