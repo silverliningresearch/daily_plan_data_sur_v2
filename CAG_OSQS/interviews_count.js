@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-11-2023 13:21:50"
+        "download_time": "18-11-2023 13:36:47"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -9738,7 +9738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-18",
         "quota_id": "CHAGEE\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-18",
@@ -9767,8 +9767,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-18",
+        "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-18",
         "quota_id": "Kenangan Coffee\u2666TERMINAL 2\u2666Landside\u2666#02-12\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-18",
@@ -9793,6 +9798,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-18",
         "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-18",
+        "quota_id": "Samsonite Red / Lipault Paris\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
     {
