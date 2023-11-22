@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "22-11-2023 16:06:56"
+        "download_time": "22-11-2023 16:21:53"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10043,7 +10043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-22",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-11-22",
@@ -10068,7 +10068,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-22",
         "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-22",
@@ -10104,6 +10104,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-22",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-22",
+        "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-22",
