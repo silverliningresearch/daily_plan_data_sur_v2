@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-11-2023 16:22:11"
+        "download_time": "23-11-2023 16:37:11"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10148,7 +10148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10168,7 +10168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "Beyond Fruit\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10198,7 +10198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10243,7 +10243,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
