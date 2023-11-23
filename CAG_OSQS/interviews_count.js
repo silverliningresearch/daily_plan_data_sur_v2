@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-11-2023 15:22:03"
+        "download_time": "23-11-2023 15:36:59"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10143,7 +10143,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-23",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10168,7 +10173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "FLYCHANGI\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10208,7 +10213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10238,7 +10243,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
