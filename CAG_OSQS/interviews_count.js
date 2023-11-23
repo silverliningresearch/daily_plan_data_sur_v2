@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "23-11-2023 12:06:57"
+        "download_time": "23-11-2023 12:21:57"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10147,18 +10147,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-23",
+        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-23",
         "quota_id": "FLYCHANGI\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "HOKKAIDO BAKED CHEESE TART\u2666TERMINAL 3\u2666Landside\u2666#B2-11\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-23",
@@ -10183,6 +10188,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-23",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-23",
+        "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
         "Number of interviews": 1
     }
 ]    
