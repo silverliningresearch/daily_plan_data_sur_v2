@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-11-2023 10:21:59"
+        "download_time": "24-11-2023 10:36:56"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10268,7 +10268,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10282,12 +10282,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-24",
+        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
         "Number of interviews": 1
     },
     {
