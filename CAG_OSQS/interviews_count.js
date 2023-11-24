@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-11-2023 16:21:52"
+        "download_time": "24-11-2023 16:30:32"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10283,7 +10283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10293,22 +10293,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666JW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10318,12 +10318,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10338,17 +10348,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10359,6 +10369,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-24",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10373,12 +10388,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10388,22 +10408,42 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Rimowa\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Samsonite Red / Lipault Paris\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Sprint-Cass (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10422,13 +10462,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-24",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-24",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "WH Smith - Premises A (Air) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666OW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
+        "Number of interviews": 8
     }
 ]    
 
