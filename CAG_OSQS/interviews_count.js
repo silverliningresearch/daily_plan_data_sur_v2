@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-11-2023 15:51:56"
+        "download_time": "24-11-2023 16:07:13"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10287,13 +10287,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-11-24",
+        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-11-24",
         "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10313,12 +10318,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10328,7 +10338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10344,6 +10354,16 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-24",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Montblanc\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-11-24",
+        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10363,7 +10383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
@@ -10398,7 +10418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-24",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-24",
