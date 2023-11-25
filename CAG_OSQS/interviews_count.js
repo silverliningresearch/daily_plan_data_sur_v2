@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "25-11-2023 12:22:01"
+        "download_time": "25-11-2023 12:37:15"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10523,7 +10523,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-25",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-11-25",
@@ -10534,6 +10534,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-25",
         "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-11-25",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-25",
@@ -10558,7 +10563,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-25",
         "quota_id": "THE DIGITAL GADGETS\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-11-25",
