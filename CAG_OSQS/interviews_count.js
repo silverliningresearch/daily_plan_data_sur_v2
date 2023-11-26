@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-11-2023 11:51:59"
+        "download_time": "26-11-2023 12:06:58"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -10663,7 +10663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-26",
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-11-26",
@@ -10674,6 +10674,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-11-26",
         "quota_id": "FAIRPRICE FINEST\u2666TERMINAL 3\u2666Landside\u2666#B2-10\u2666LS\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-11-26",
+        "quota_id": "FLYCHANGI\u2666TERMINAL 3\u2666Landside\u2666#B2-52/53/54\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-11-26",
@@ -10688,7 +10693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-11-26",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-11-26",
