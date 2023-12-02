@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "02-12-2023 11:21:27"
+        "download_time": "02-12-2023 11:36:09"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -11192,6 +11192,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-02",
+        "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-02",
+        "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-02",
         "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
@@ -11204,6 +11214,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-02",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-02",
+        "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
