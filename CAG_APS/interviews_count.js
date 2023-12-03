@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_TR_KHN",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "04-12-2023 00:51:46"
+        "download_time": "04-12-2023 01:06:45"
     },
     {
         "InterviewDate": "01-12-2023",
@@ -140,15 +140,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "02-12-2023",
-        "quota_id": "T4_AK_KLA",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-12-2023",
         "quota_id": "T4_AK_KUL",
         "interviewerID": "06",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "02-12-2023",
@@ -158,15 +152,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "02-12-2023",
-        "quota_id": "T4_QZ_BAL",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-12-2023",
         "quota_id": "T4_QZ_DPS",
         "interviewerID": "06",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "02-12-2023",
@@ -226,19 +214,7 @@ let interview_statistics  = `[
         "InterviewDate": "02-12-2023",
         "quota_id": "T3_VN_HAN",
         "interviewerID": "12",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "02-12-2023",
-        "quota_id": "T3_VI_HAN",
-        "interviewerID": "A",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-12-2023",
-        "quota_id": "T4_QZ_DPS",
-        "interviewerID": "O6",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "03-12-2023",
@@ -274,7 +250,7 @@ let interview_statistics  = `[
         "InterviewDate": "03-12-2023",
         "quota_id": "T4_CX_HKG",
         "interviewerID": "02",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "03-12-2023",
@@ -284,21 +260,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "03-12-2023",
-        "quota_id": "T4_HK_HKG",
-        "interviewerID": "02",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "03-12-2023",
         "quota_id": "T4_HU_HAK",
         "interviewerID": "02",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "03-12-2023",
-        "quota_id": "T4_HUHU748_HAK",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "03-12-2023",
