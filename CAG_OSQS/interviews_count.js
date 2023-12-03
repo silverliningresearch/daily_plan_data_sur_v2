@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "03-12-2023 13:21:26"
+        "download_time": "03-12-2023 13:36:09"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -11258,11 +11258,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-03",
         "quota_id": "Hudsons (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-209 (beside Travelex)\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-03",
         "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-03",
+        "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -11308,6 +11313,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-03",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-03",
+        "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA\u2666Min8",
         "Number of interviews": 1
     }
 ]    
