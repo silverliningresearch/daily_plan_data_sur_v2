@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-12-2023 10:06:31"
+        "download_time": "10-12-2023 10:21:22"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -11743,7 +11743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-10",
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-10",
@@ -11754,6 +11754,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-10",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-12-10",
+        "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-10",
@@ -11768,7 +11773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-10",
         "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-10",
