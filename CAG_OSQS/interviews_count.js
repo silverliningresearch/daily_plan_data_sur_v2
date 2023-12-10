@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-12-2023 15:06:24"
+        "download_time": "10-12-2023 15:21:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -11792,8 +11792,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-10",
-        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-10",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-10",
@@ -11808,7 +11813,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-10",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-12-10",
@@ -11819,6 +11824,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-10",
         "quota_id": "Swarovski\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-12-10",
+        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-10",
@@ -11848,7 +11858,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-10",
         "quota_id": "UOB T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
