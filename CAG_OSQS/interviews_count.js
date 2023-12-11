@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "11-12-2023 11:36:16"
+        "download_time": "11-12-2023 11:51:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -11918,7 +11918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-11",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12R\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-11",
@@ -11943,12 +11943,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-11",
         "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-11",
         "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-11",
@@ -11958,12 +11958,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-11",
         "quota_id": "Sunglass Hut (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-11",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-11",
