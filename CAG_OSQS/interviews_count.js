@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-12-2023 13:06:13"
+        "download_time": "13-12-2023 13:21:30"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12173,7 +12173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12188,7 +12188,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12203,7 +12203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Lacoste\u2666TERMINAL 4\u2666Airside\u2666#02-49\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12213,7 +12213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Lego\u2666TERMINAL 4\u2666Airside\u2666#02-48\u2666CT\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12238,12 +12238,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Salvatore Ferragamo\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666LX\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-13",
+        "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12258,7 +12263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-13",
