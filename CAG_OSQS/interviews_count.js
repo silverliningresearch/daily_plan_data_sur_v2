@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-12-2023 14:06:19"
+        "download_time": "13-12-2023 14:21:18"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12198,7 +12198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "KidzTime\u2666TERMINAL 1\u2666Airside\u2666#02-52\u2666CT\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12243,12 +12243,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12258,7 +12258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Salvatore Ferragamo\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-13",
@@ -12273,12 +12273,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-13",
         "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-13",
