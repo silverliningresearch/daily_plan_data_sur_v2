@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-12-2023 10:06:20"
+        "download_time": "14-12-2023 10:21:27"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12357,6 +12357,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-14",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-14",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
         "Number of interviews": 1
     },
@@ -12368,12 +12373,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-14",
         "quota_id": "Eureka\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-12-14",
+        "quota_id": "Irvin's Salted Egg (Pushcart)\u2666TERMINAL 4\u2666Airside\u2666#Pushcart\u2666CCD\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-14",
         "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2023-12-14",
+        "quota_id": "Pazzion\u2666TERMINAL 1\u2666Airside\u2666#02-30AF\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-14",
