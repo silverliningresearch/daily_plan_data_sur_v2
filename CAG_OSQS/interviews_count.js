@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-12-2023 09:36:20"
+        "download_time": "14-12-2023 09:51:20"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12343,7 +12343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-14",
         "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-14",
@@ -12367,6 +12367,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-14",
+        "quota_id": "Eureka\u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-14",
         "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
         "Number of interviews": 8
     },
@@ -12374,6 +12379,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-14",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-14",
+        "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-14",
