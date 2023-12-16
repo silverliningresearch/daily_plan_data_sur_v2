@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "16-12-2023 11:21:56"
+        "download_time": "16-12-2023 11:36:30"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12703,7 +12703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12713,7 +12713,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12729,6 +12729,16 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-16",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-16",
+        "quota_id": "GO NOODLE HOUSE & PAPPARICH\u2666TERMINAL 2\u2666Landside\u2666#03-24 & 25\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-16",
+        "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12752,8 +12762,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-16",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-16",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12773,7 +12788,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
