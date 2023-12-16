@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "16-12-2023 10:51:28"
+        "download_time": "16-12-2023 11:06:29"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12692,13 +12692,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-16",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-16",
         "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12708,7 +12713,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12738,7 +12743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-16",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-16",
@@ -12759,6 +12764,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-16",
         "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min5",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-12-16",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093\u2666PC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-16",
