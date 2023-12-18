@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-12-2023 17:06:31"
+        "download_time": "18-12-2023 17:21:43"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12972,6 +12972,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-18",
+        "quota_id": "Harry's Bar\u2666TERMINAL 3\u2666Airside\u2666#02-08\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-18",
         "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -12988,7 +12993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-18",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-12-18",
@@ -13004,6 +13009,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-18",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
         "Number of interviews": 16
+    },
+    {
+        "InterviewDate": "2023-12-18",
+        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-18",
