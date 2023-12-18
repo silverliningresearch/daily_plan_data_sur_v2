@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-12-2023 12:06:37"
+        "download_time": "18-12-2023 12:21:28"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -12972,13 +12972,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-18",
+        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-18",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
         "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-18",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-18",
@@ -12998,7 +13003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-18",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-18",
