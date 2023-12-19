@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-12-2023 12:36:26"
+        "download_time": "19-12-2023 12:51:25"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13128,7 +13128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-19",
@@ -13157,13 +13157,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-19",
+        "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-19",
         "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
         "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-12-19",
@@ -13173,7 +13178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-19",
