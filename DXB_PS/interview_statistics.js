@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-12-09",
         "quota_id": "EK821",
         "Number of interviews": 5,
-        "download_time": "19-12-2023 21:22:38"
+        "download_time": "19-12-2023 21:37:17"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -162,8 +162,13 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-19",
+        "quota_id": "FZ1307",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-19",
         "quota_id": "FZ1709",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-19",
@@ -183,7 +188,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "GF513",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-19",
