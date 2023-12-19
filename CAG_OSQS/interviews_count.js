@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-12-2023 14:06:53"
+        "download_time": "19-12-2023 14:21:26"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13128,7 +13128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-12-19",
@@ -13138,7 +13138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Crystal Jade GO\u2666TERMINAL 4\u2666Airside\u2666#02-41\u2666FBA\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2023-12-19",
@@ -13148,7 +13148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-19",
@@ -13198,7 +13198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-19",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-19",
