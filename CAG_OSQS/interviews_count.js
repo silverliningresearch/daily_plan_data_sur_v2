@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-12-2023 13:51:45"
+        "download_time": "21-12-2023 14:07:42"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13328,12 +13328,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-21",
         "quota_id": "7-Eleven (T2 Level 3)\u2666TERMINAL 2\u2666Airside\u2666#03-172\u2666CS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-21",
         "quota_id": "Changi Recommends\u2666TERMINAL 2\u2666Airside\u2666#02-K18\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-21",
@@ -13353,7 +13353,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-21",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-12-21",
@@ -13368,7 +13368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-21",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2023-12-21",
