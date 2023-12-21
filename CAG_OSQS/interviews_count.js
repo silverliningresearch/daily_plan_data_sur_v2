@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-12-2023 11:21:54"
+        "download_time": "21-12-2023 11:36:47"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13342,13 +13342,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-21",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-21",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2023-12-21",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-21",
@@ -13362,7 +13367,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-21",
+        "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-02\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-21",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-21",
+        "quota_id": "UOB T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#026-CTR-01\u2666MC\u2666Min8",
         "Number of interviews": 1
     },
     {
