@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "22-12-2023 11:51:39"
+        "download_time": "22-12-2023 12:07:23"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13418,17 +13418,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-22",
         "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "2023-12-22",
-        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
         "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-22",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-12-22",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162\u2666CT\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-22",
