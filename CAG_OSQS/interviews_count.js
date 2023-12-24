@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-12-2023 10:51:46"
+        "download_time": "24-12-2023 11:06:57"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13567,6 +13567,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-24",
+        "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-12-24",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS\u2666Min8",
         "Number of interviews": 5
     },
@@ -13583,7 +13588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-24",
@@ -13603,7 +13608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-24",
@@ -13613,7 +13618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#02-184\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-24",
