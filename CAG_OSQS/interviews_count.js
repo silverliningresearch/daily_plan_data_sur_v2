@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-12-2023 10:21:45"
+        "download_time": "24-12-2023 10:36:47"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13582,6 +13582,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-24",
+        "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-24",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-201/202/203\u2666LT\u2666Min15",
         "Number of interviews": 16
     },
@@ -13593,17 +13598,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2023-12-24",
+        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#02-184\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-24",
