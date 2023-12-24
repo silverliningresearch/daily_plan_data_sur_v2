@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-12-2023 13:36:33"
+        "download_time": "24-12-2023 13:51:31"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13567,6 +13567,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-24",
+        "quota_id": "Adidas\u2666TERMINAL 2\u2666Airside\u2666#02-168 (#026-106/7)\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-24",
         "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
         "Number of interviews": 8
     },
@@ -13608,7 +13613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-24",
@@ -13638,7 +13643,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-12-24",
+        "quota_id": "Perfumes & Cosmetics (T1 ABW)\u2666TERMINAL 1\u2666Airside\u2666#01-22F\u2666PC\u2666Min15",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-24",
@@ -13653,7 +13663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-24",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-177 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-24",
