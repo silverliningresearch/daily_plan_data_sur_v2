@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "25-12-2023 12:36:47"
+        "download_time": "25-12-2023 12:51:51"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13733,7 +13733,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-25",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-25",
@@ -13743,7 +13743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-25",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2023-12-25",
@@ -13768,7 +13768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-25",
         "quota_id": "MCM\u2666TERMINAL 3\u2666Airside\u2666#02-25\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2023-12-25",
@@ -13793,7 +13793,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-25",
         "quota_id": "TWG Tea Company (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2023-12-25",
