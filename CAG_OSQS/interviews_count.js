@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "26-12-2023 11:36:49"
+        "download_time": "26-12-2023 11:52:02"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -13857,6 +13857,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-26",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-26",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
         "Number of interviews": 10
     },
@@ -13868,6 +13873,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2023-12-26",
         "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-26",
+        "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -13902,6 +13912,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2023-12-26",
+        "quota_id": "Montblanc\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-26",
         "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
         "Number of interviews": 2
     },
@@ -13924,6 +13939,11 @@ let interview_statistics  = `[
         "InterviewDate": "2023-12-26",
         "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-26",
+        "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD\u2666Min8",
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2023-12-26",
