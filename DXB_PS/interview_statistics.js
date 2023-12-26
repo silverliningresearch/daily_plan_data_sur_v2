@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-12-09",
         "quota_id": "EK821",
         "Number of interviews": 5,
-        "download_time": "26-12-2023 14:37:52"
+        "download_time": "26-12-2023 14:53:19"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -1588,7 +1588,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2023-12-26",
         "quota_id": "5J19",
-        "Number of interviews": 8
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2023-12-26",
@@ -1604,6 +1604,11 @@ let interview_statistics = `[
         "InterviewDate": "2023-12-26",
         "quota_id": "EK149",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-12-26",
+        "quota_id": "EK175",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-26",
@@ -1672,6 +1677,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-26",
+        "quota_id": "EK584",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-26",
         "quota_id": "EK586",
         "Number of interviews": 4
     },
@@ -1713,7 +1723,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2023-12-26",
         "quota_id": "EK803",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2023-12-26",
@@ -1747,6 +1757,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-26",
+        "quota_id": "EK91",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-12-26",
         "quota_id": "EK953",
         "Number of interviews": 5
     },
@@ -1769,6 +1784,11 @@ let interview_statistics = `[
         "InterviewDate": "2023-12-26",
         "quota_id": "FZ8157",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2023-12-26",
+        "quota_id": "FZ991",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-26",
