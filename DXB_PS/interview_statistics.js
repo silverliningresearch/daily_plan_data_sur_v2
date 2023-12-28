@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "DMM",
         "AirlineCode": "EK",
         "Number of interviews": 5,
-        "download_time": "28-12-2023 19:22:43"
+        "download_time": "28-12-2023 19:37:33"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -3802,6 +3802,14 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-28",
+        "quota_id": "EK542",
+        "Flight": "EK542",
+        "DestCode": "MAA",
+        "AirlineCode": "EK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-28",
         "quota_id": "EK600",
         "Flight": "EK600",
         "DestCode": "KHI",
@@ -3898,11 +3906,43 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-28",
+        "quota_id": "FZ47",
+        "Flight": "FZ47",
+        "DestCode": "MCT",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-28",
+        "quota_id": "FZ5",
+        "Flight": "FZ5",
+        "DestCode": "DOH",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-28",
+        "quota_id": "FZ855",
+        "Flight": "FZ855",
+        "DestCode": "RUH",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-28",
         "quota_id": "FZ867",
         "Flight": "FZ867",
         "DestCode": "DMM",
         "AirlineCode": "FZ",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2023-12-28",
+        "quota_id": "FZ891",
+        "Flight": "FZ891",
+        "DestCode": "MED",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-28",
@@ -3943,6 +3983,14 @@ let interview_statistics = `[
         "DestCode": "CAI",
         "AirlineCode": "MS",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-28",
+        "quota_id": "OV248",
+        "Flight": "OV248",
+        "DestCode": "MCT",
+        "AirlineCode": "OV",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2023-12-28",
