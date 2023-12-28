@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "DMM",
         "AirlineCode": "EK",
         "Number of interviews": 5,
-        "download_time": "29-12-2023 03:22:35"
+        "download_time": "29-12-2023 03:37:12"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -4218,6 +4218,22 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-29",
+        "quota_id": "FZ345",
+        "Flight": "FZ345",
+        "DestCode": "UET",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-29",
+        "quota_id": "FZ53",
+        "Flight": "FZ53",
+        "DestCode": "KWI",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-29",
         "quota_id": "FZ563",
         "Flight": "FZ563",
         "DestCode": "CGP",
@@ -4254,7 +4270,7 @@ let interview_statistics = `[
         "Flight": "SV599",
         "DestCode": "JED",
         "AirlineCode": "SV",
-        "Number of interviews": 2
+        "Number of interviews": 4
     }
 ]    
 
