@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "DMM",
         "AirlineCode": "EK",
         "Number of interviews": 5,
-        "download_time": "29-12-2023 11:37:25"
+        "download_time": "29-12-2023 11:52:22"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -4170,6 +4170,14 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-29",
+        "quota_id": "AI918",
+        "Flight": "AI918",
+        "DestCode": "DEL",
+        "AirlineCode": "AI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2023-12-29",
         "quota_id": "EK338",
         "Flight": "EK338",
         "DestCode": "CRK",
@@ -4258,6 +4266,22 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2023-12-29",
+        "quota_id": "FZ159",
+        "Flight": "FZ159",
+        "DestCode": "BEY",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-29",
+        "quota_id": "FZ211",
+        "Flight": "FZ211",
+        "DestCode": "BGW",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2023-12-29",
         "quota_id": "FZ325",
         "Flight": "FZ325",
         "DestCode": "MUX",
@@ -4334,7 +4358,7 @@ let interview_statistics = `[
         "Flight": "FZ813",
         "DestCode": "AHB",
         "AirlineCode": "FZ",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2023-12-29",
@@ -4351,6 +4375,14 @@ let interview_statistics = `[
         "DestCode": "DMM",
         "AirlineCode": "FZ",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2023-12-29",
+        "quota_id": "FZ897",
+        "Flight": "FZ897",
+        "DestCode": "MED",
+        "AirlineCode": "FZ",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-29",
