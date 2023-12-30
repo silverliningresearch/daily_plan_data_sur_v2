@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "DMM",
         "AirlineCode": "EK",
         "Number of interviews": 5,
-        "download_time": "31-12-2023 02:37:35"
+        "download_time": "31-12-2023 02:52:14"
     },
     {
         "InterviewDate": "2023-12-09",
@@ -4958,7 +4958,15 @@ let interview_statistics = `[
         "Flight": "EK394",
         "DestCode": "HAN",
         "AirlineCode": "EK",
-        "Number of interviews": 9
+        "Number of interviews": 11
+    },
+    {
+        "InterviewDate": "2023-12-31",
+        "quota_id": "EK504",
+        "Flight": "EK504",
+        "DestCode": "BOM",
+        "AirlineCode": "EK",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2023-12-31",
