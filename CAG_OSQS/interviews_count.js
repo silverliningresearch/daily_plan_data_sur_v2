@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "01-01-2024 11:06:04"
+        "download_time": "01-01-2024 11:21:27"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14178,7 +14178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-01",
         "quota_id": "Crave The Original Adam Rd Nasi Lemak by Selera Rasa\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-01",
@@ -14213,7 +14213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-01",
         "quota_id": "Starbucks Coffee (Premises B)\u2666TERMINAL 1\u2666Airside\u2666#02-59\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-01",
