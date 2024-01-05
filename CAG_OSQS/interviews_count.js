@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "05-01-2024 11:51:45"
+        "download_time": "05-01-2024 12:06:13"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14543,7 +14543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-05",
         "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-05",
@@ -14553,7 +14553,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-05",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-01-05",
