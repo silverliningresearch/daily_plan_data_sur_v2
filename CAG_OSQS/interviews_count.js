@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "06-01-2024 17:06:24"
+        "download_time": "06-01-2024 17:21:52"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14618,7 +14618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-06",
@@ -14638,7 +14638,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-06",
@@ -14703,12 +14703,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     }
 ]    
 
