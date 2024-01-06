@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "06-01-2024 12:36:15"
+        "download_time": "06-01-2024 12:51:26"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14597,13 +14597,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-06",
+        "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-06",
         "quota_id": "CHEERS\u2666TERMINAL 2\u2666Landside\u2666#02-24\u2666LS\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "COLLIN'S\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-01-06",
+        "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-06",
@@ -14648,7 +14658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-06",
         "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-06",
