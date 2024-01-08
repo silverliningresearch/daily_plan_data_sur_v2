@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-01-2024 09:36:20"
+        "download_time": "08-01-2024 09:51:28"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14843,6 +14843,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-08",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-08",
+        "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
         "Number of interviews": 2
     },
     {
@@ -14872,6 +14882,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-08",
+        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-08",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
@@ -14888,7 +14903,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Under Armour\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
