@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-01-2024 11:06:16"
+        "download_time": "08-01-2024 11:21:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14858,7 +14858,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-08",
@@ -14893,7 +14893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-01-08",
@@ -14938,7 +14938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-08",
@@ -14948,7 +14948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
