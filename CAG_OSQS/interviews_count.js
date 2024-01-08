@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "08-01-2024 13:21:40"
+        "download_time": "08-01-2024 13:36:23"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -14863,12 +14863,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-08",
@@ -14888,7 +14888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "House of Samsonite\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-08",
@@ -14918,17 +14918,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-01-08",
         "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-08",
