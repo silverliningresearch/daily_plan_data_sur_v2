@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-01-2024 17:36:31"
+        "download_time": "10-01-2024 17:51:37"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15168,7 +15168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15187,8 +15187,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-10",
+        "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-10",
         "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15208,7 +15213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15258,7 +15263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "Ya Kun\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
