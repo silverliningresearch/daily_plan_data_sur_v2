@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "10-01-2024 14:06:36"
+        "download_time": "10-01-2024 14:21:27"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15138,7 +15138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15188,7 +15188,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15223,7 +15223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-10",
@@ -15238,7 +15238,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-10",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-10",
