@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "12-01-2024 15:51:27"
+        "download_time": "12-01-2024 16:06:27"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15443,7 +15443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-12",
         "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-12",
@@ -15513,7 +15513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-12",
         "quota_id": "Sprint-Cass (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666EL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-01-12",
@@ -15528,7 +15528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-12",
         "quota_id": "WH Smith - Premises A (Air) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666OW\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
