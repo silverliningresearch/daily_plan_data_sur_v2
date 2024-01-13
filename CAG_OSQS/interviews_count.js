@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "13-01-2024 11:52:11"
+        "download_time": "13-01-2024 12:06:35"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15537,6 +15537,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-13",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-13",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
         "Number of interviews": 9
     },
@@ -15598,7 +15603,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-13",
         "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-13",
@@ -15609,6 +15614,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-13",
         "quota_id": "UOB T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-13",
+        "quota_id": "UOB T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
