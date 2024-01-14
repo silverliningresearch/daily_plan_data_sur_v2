@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-01-2024 13:06:31"
+        "download_time": "14-01-2024 13:21:46"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15648,7 +15648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-14",
@@ -15698,7 +15698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-14",
@@ -15708,6 +15708,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-14",
+        "quota_id": "THE BLUES\u2666TERMINAL 3\u2666Landside\u2666#B2-36\u2666LS\u2666Min8",
         "Number of interviews": 3
     },
     {
