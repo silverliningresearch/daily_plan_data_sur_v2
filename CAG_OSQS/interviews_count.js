@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-01-2024 10:21:24"
+        "download_time": "14-01-2024 10:36:22"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15643,7 +15643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-01-14",
@@ -15653,11 +15653,21 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-01-14",
+        "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-14",
+        "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
     {
