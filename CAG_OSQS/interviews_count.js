@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "14-01-2024 10:36:22"
+        "download_time": "14-01-2024 10:51:29"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15643,7 +15643,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-01-14",
+        "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-14",
@@ -15688,12 +15693,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-14",
+        "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-14",
         "quota_id": "UOB T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
