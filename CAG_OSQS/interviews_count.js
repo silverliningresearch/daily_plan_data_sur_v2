@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "16-01-2024 13:21:53"
+        "download_time": "16-01-2024 13:36:29"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -15938,7 +15938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-16",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-16",
@@ -15948,7 +15948,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-16",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-16",
@@ -15958,7 +15958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-16",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-01-16",
@@ -15978,7 +15978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-16",
         "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-16",
