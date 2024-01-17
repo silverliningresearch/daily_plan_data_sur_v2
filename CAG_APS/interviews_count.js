@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GF_BKK",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "17-01-2024 16:38:02"
+        "download_time": "17-01-2024 16:52:31"
     },
     {
         "InterviewDate": "02-01-2024",
@@ -956,12 +956,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "14-01-2024",
-        "quota_id": "_VJ_SGN",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "14-01-2024",
         "quota_id": "T4_3K_KUL",
         "interviewerID": "06",
         "Number of interviews": 13
@@ -1004,15 +998,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "14-01-2024",
-        "quota_id": "T4_JE_KLP",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "14-01-2024",
         "quota_id": "T4_QZ_CGK",
         "interviewerID": "06",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "14-01-2024",
@@ -1024,17 +1012,11 @@ let interview_statistics  = `[
         "InterviewDate": "14-01-2024",
         "quota_id": "T4_VJ_SGN",
         "interviewerID": "06",
-        "Number of interviews": 9
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "14-01-2024",
         "quota_id": "T4_VJ _SGN",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "14-01-2024",
-        "quota_id": "T4_qz_CGK",
         "interviewerID": "06",
         "Number of interviews": 1
     },
@@ -1391,6 +1373,18 @@ let interview_statistics  = `[
         "quota_id": "T1_TR_YIA",
         "interviewerID": "02n",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17-01-2024",
+        "quota_id": "T1_CA_PVG",
+        "interviewerID": "12",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "17-01-2024",
+        "quota_id": "T1_CZ_SZX",
+        "interviewerID": "12",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "17-01-2024",
