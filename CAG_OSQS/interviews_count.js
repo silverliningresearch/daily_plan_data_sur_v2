@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-01-2024 11:21:56"
+        "download_time": "18-01-2024 11:36:32"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16123,7 +16123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16158,7 +16158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "HUGO\u2666TERMINAL 2\u2666Airside\u266602-232\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16178,12 +16178,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16193,7 +16193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-18",
