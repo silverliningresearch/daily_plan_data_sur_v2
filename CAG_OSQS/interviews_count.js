@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-01-2024 15:51:34"
+        "download_time": "18-01-2024 16:08:45"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16143,12 +16143,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16168,12 +16168,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16208,7 +16208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-01-18",
