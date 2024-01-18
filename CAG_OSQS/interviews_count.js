@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "18-01-2024 11:06:31"
+        "download_time": "18-01-2024 11:21:56"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16123,12 +16123,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-18",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-01-18",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-18",
@@ -16177,8 +16182,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-18",
-        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
+        "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-18",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-18",
+        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-18",
