@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-01-2024 12:51:30"
+        "download_time": "19-01-2024 13:06:31"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16248,7 +16248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "7-Eleven (T4)\u2666TERMINAL 4\u2666Airside\u2666#02-240\u2666CS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16273,7 +16273,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16293,7 +16293,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16343,7 +16343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84B\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16354,6 +16354,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-19",
         "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
