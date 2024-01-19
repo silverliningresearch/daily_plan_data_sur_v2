@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-01-2024 10:21:32"
+        "download_time": "19-01-2024 10:36:32"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16277,13 +16277,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-19",
+        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "Perfumes & Cosmetics (T3 Landside)\u2666TERMINAL 3\u2666Landside\u2666#02-88\u2666PC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16303,12 +16313,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84A\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
