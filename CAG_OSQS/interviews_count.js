@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "19-01-2024 09:51:40"
+        "download_time": "19-01-2024 10:08:10"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16263,7 +16263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-19",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-19",
@@ -16277,8 +16277,28 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-19",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "Prada\u2666TERMINAL 2\u2666Airside\u2666#026-072\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84A\u2666LS\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
