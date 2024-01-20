@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "20-01-2024 11:52:00"
+        "download_time": "20-01-2024 12:06:44"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16397,6 +16397,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-20",
+        "quota_id": "KIDZTIME\u2666TERMINAL 3\u2666Landside\u2666#B2-20/21\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-20",
         "quota_id": "KinderPlay\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17\u2666LS\u2666Min8",
         "Number of interviews": 3
     },
@@ -16427,8 +16432,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-01-20",
+        "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-20",
