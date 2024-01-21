@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "21-01-2024 13:21:53"
+        "download_time": "21-01-2024 13:36:38"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16518,7 +16518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-21",
         "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-21",
@@ -16558,7 +16558,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-21",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-01-21",
@@ -16568,7 +16568,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-21",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-21",
@@ -16578,7 +16578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-21",
         "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
