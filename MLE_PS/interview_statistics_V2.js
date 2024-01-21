@@ -4,7 +4,7 @@ let interview_statistics = `[
         "quota_id": "EK-SIN",
         "InterviewerID": "7339101",
         "Number of interviews": 1,
-        "download_time": "19-01-2024 13:07:37"
+        "download_time": "21-01-2024 04:56:25"
     },
     {
         "InterviewDate": "2023-12-14",
@@ -5660,6 +5660,12 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-01-19",
+        "quota_id": "SV-RUH",
+        "InterviewerID": "9900023",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
         "quota_id": "TK-IST",
         "InterviewerID": "9900023",
         "Number of interviews": 1
@@ -5669,6 +5675,72 @@ let interview_statistics = `[
         "quota_id": "UK-BOM",
         "InterviewerID": "9900023",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-19",
+        "quota_id": "UNKNOWN-VPCNP",
+        "InterviewerID": "9900023",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "BA-LHR",
+        "InterviewerID": "7227736",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "NO-MXP",
+        "InterviewerID": "7227736",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "OS-VIE",
+        "InterviewerID": "7227736",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "ZF-VKO",
+        "InterviewerID": "7227736",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "OS-VIE",
+        "InterviewerID": "7339101",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "NO-MXP",
+        "InterviewerID": "9444533",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "OS-VIE",
+        "InterviewerID": "9444533",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "NO-MXP",
+        "InterviewerID": "9900023",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "SU-SVO",
+        "InterviewerID": "9900023",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-01-20",
+        "quota_id": "WY-MCT",
+        "InterviewerID": "9900023",
+        "Number of interviews": 2
     }
 ]    
 
