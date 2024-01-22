@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "22-01-2024 14:36:21"
+        "download_time": "22-01-2024 14:51:30"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16643,7 +16643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-22",
         "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-22",
@@ -16683,7 +16683,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-22",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-01-22",
@@ -16693,12 +16693,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-22",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-22",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-01-22",
+        "quota_id": "T4 iSC Arrival pushcart\u2666TERMINAL 4\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-01-22",
@@ -16723,7 +16728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-22",
         "quota_id": "WH Smith - Premises H (Air) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-07\u2666OW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-01-22",
