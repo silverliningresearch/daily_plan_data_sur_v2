@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GF_BKK",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "23-01-2024 16:22:09"
+        "download_time": "23-01-2024 16:37:08"
     },
     {
         "InterviewDate": "02-01-2024",
@@ -1070,12 +1070,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "15-01-2024",
-        "quota_id": "T3_SQ_MXP",
-        "interviewerID": "06",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "15-01-2024",
         "quota_id": "T3_SQ_PER",
         "interviewerID": "06",
         "Number of interviews": 12
@@ -1193,12 +1187,6 @@ let interview_statistics  = `[
         "quota_id": "T2_SQ_PEN",
         "interviewerID": "02",
         "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "16-01-2024",
-        "quota_id": "T1_SQ_CPT",
-        "interviewerID": "06",
-        "Number of interviews": 5
     },
     {
         "InterviewDate": "16-01-2024",
@@ -1702,13 +1690,7 @@ let interview_statistics  = `[
         "InterviewDate": "22-01-2024",
         "quota_id": "T1_AF_CDG",
         "interviewerID": "02",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "22-01-2024",
-        "quota_id": "T1_AF_CDG ",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "22-01-2024",
@@ -1847,6 +1829,24 @@ let interview_statistics  = `[
         "quota_id": "T4_VJ_HAN",
         "interviewerID": "06",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "23-01-2024",
+        "quota_id": "T1_CA_CGK",
+        "interviewerID": "12",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "23-01-2024",
+        "quota_id": "T1_CA_CJG",
+        "interviewerID": "12",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "23-01-2024",
+        "quota_id": "T1_CA_CKG",
+        "interviewerID": "12",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "23-01-2024",
