@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GF_BKK",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "23-01-2024 11:52:36"
+        "download_time": "23-01-2024 12:07:06"
     },
     {
         "InterviewDate": "02-01-2024",
@@ -1340,12 +1340,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "18-01-2024",
-        "quota_id": "T1_SQ_CEB",
-        "interviewerID": "02",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-01-2024",
         "quota_id": "T2_AI_MAA",
         "interviewerID": "02",
         "Number of interviews": 2
@@ -1354,7 +1348,7 @@ let interview_statistics  = `[
         "InterviewDate": "18-01-2024",
         "quota_id": "T2_SQ_CEB",
         "interviewerID": "02",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "18-01-2024",
@@ -1382,27 +1376,15 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "18-01-2024",
-        "quota_id": "T4_3K_MML",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-01-2024",
         "quota_id": "T4_3K_MNL",
         "interviewerID": "06",
-        "Number of interviews": 12
-    },
-    {
-        "InterviewDate": "18-01-2024",
-        "quota_id": "T4_5J_MML",
-        "interviewerID": "06",
-        "Number of interviews": 1
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "18-01-2024",
         "quota_id": "T4_5J_MNL",
         "interviewerID": "06",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "18-01-2024",
@@ -1450,13 +1432,7 @@ let interview_statistics  = `[
         "InterviewDate": "18-01-2024",
         "quota_id": "T3_SQ_FRA",
         "interviewerID": "12",
-        "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "18-01-2024",
-        "quota_id": "T3_SQ_FRA ",
-        "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "18-01-2024",
