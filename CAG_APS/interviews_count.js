@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T3_GF_BKK",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "24-01-2024 11:22:33"
+        "download_time": "24-01-2024 11:37:03"
     },
     {
         "InterviewDate": "02-01-2024",
@@ -1768,7 +1768,7 @@ let interview_statistics  = `[
         "InterviewDate": "23-01-2024",
         "quota_id": "T3_SQ_BNE",
         "interviewerID": "02",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "23-01-2024",
@@ -1822,7 +1822,7 @@ let interview_statistics  = `[
         "InterviewDate": "23-01-2024",
         "quota_id": "T4_3K_SUB",
         "interviewerID": "06",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "23-01-2024",
@@ -1844,21 +1844,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "23-01-2024",
-        "quota_id": "T1_CA_CGK",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "23-01-2024",
-        "quota_id": "T1_CA_CJG",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "23-01-2024",
         "quota_id": "T1_CA_CKG",
         "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "23-01-2024",
@@ -1882,7 +1870,7 @@ let interview_statistics  = `[
         "InterviewDate": "23-01-2024",
         "quota_id": "T1_TR_KCH",
         "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "23-01-2024",
@@ -1892,26 +1880,8 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "23-01-2024",
-        "quota_id": "T1_TRr_KCH",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "23-01-2024",
         "quota_id": "T1_SC_CHI",
         "interviewerID": "No",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "23-01-2024",
-        "quota_id": "T3_SQ_BNE",
-        "interviewerID": "O2",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "23-01-2024",
-        "quota_id": "T4_3K_SUB",
-        "interviewerID": "good",
         "Number of interviews": 1
     },
     {
