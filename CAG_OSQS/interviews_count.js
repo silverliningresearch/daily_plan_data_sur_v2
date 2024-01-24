@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "24-01-2024 12:36:51"
+        "download_time": "24-01-2024 12:51:21"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -16853,7 +16853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-24",
         "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-01-24",
@@ -16888,7 +16888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-01-24",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-01-24",
@@ -16899,6 +16899,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-24",
         "quota_id": "Pret A Manger\u2666TERMINAL 2\u2666Airside\u2666#02-165\u2666FBA\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-01-24",
+        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-01-24",
