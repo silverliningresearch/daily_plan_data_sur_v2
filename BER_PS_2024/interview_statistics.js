@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2023-12-31",
         "quota_id": "EWR - United Airlines",
         "Number of interviews": 1,
-        "download_time": "27-01-2024 17:51:06"
+        "download_time": "27-01-2024 18:06:08"
     },
     {
         "InterviewDate": "2023-12-31",
