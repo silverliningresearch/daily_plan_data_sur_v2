@@ -1,10 +1,22 @@
 let interview_statistics  = `[
     {
         "InterviewDate": "01-02-2024",
+        "quota_id": "T1_MF_XMN",
+        "interviewerID": "02",
+        "Number of interviews": 4,
+        "download_time": "01-02-2024 08:22:07"
+    },
+    {
+        "InterviewDate": "01-02-2024",
+        "quota_id": "T1_MFMF886_XMN",
+        "interviewerID": "02",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "01-02-2024",
         "quota_id": "T1_TR_CGK",
         "interviewerID": "02",
-        "Number of interviews": 5,
-        "download_time": "01-02-2024 08:07:03"
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "01-02-2024",
