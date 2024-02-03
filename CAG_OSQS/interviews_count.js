@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2023-08-14",
         "quota_id": "Be Relax\u2666TERMINAL 3\u2666Airside\u266602-32\u2666OS\u2666Min6",
         "Number of interviews": 1,
-        "download_time": "03-02-2024 12:51:43"
+        "download_time": "03-02-2024 13:06:34"
     },
     {
         "InterviewDate": "2023-08-14",
@@ -17877,8 +17877,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-03",
+        "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-03",
         "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-03",
@@ -17888,7 +17893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-03",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-03",
