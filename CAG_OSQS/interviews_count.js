@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "05-02-2024 12:21:06"
+        "download_time": "05-02-2024 12:36:08"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -398,7 +398,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-05",
         "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-05",
@@ -413,12 +413,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-05",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-02-05",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-05",
