@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "06-02-2024 10:50:02"
+        "download_time": "06-02-2024 11:05:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -488,7 +488,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-06",
         "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-06",
@@ -507,13 +507,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-06",
+        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-06",
         "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-06",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 4
     }
 ]    
 
