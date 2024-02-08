@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "08-02-2024 12:50:08"
+        "download_time": "08-02-2024 13:05:13"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -698,7 +698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-08",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-02-08",
@@ -708,12 +708,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-08",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-08",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-08",
@@ -733,7 +733,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-08",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-08",
