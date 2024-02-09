@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-02-2024 14:35:14"
+        "download_time": "09-02-2024 14:50:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -773,7 +773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-09",
         "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-09",
@@ -808,7 +808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-09",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-02-09",
@@ -828,12 +828,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-09",
         "quota_id": "SUPERFOOD KITCHEN\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-09",
         "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-09",
