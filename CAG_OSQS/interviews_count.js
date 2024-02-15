@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-02-2024 10:50:32"
+        "download_time": "15-02-2024 11:05:34"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -1297,6 +1297,26 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-15",
+        "quota_id": "Avenue Kids\u2666TERMINAL 4\u2666Airside\u2666#02-63\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-15",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-15",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-15",
+        "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-15",
         "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH\u2666Min8",
         "Number of interviews": 2
     },
@@ -1323,6 +1343,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-15",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-15",
+        "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL\u2666Min8",
         "Number of interviews": 1
     }
 ]    
