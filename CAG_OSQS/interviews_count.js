@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-02-2024 15:35:30"
+        "download_time": "15-02-2024 15:50:47"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -1298,7 +1298,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-15",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-02-15",
@@ -1308,7 +1308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-15",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-15",
@@ -1318,12 +1318,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-15",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-02-15",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 4\u2666Airside\u2666#02-83\u2666OE\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-02-15",
