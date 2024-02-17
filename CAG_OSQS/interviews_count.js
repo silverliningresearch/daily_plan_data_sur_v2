@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-02-2024 11:05:30"
+        "download_time": "17-02-2024 11:20:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -1472,13 +1472,28 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-17",
+        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-17",
+        "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-17",
         "quota_id": "Premises E - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Landside\u2666#01-40\u2666BS\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-17",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-17",
+        "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-02-17",
