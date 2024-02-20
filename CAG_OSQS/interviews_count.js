@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "20-02-2024 11:05:09"
+        "download_time": "20-02-2024 11:20:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -1802,6 +1802,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-20",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 1\u2666Airside\u2666#02-K07A\u2666CCD\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-20",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -1818,7 +1823,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-20",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-20",
@@ -1838,7 +1843,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-20",
         "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     }
 ]    
 
