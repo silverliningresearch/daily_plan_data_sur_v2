@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-02-2024 20:35:05"
+        "download_time": "21-02-2024 20:50:19"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -1943,7 +1943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-21",
         "quota_id": "Cartier\u2666TERMINAL 3\u2666Airside\u2666#02-45-01\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-21",
@@ -2013,7 +2013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-21",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-02-21",
@@ -2059,6 +2059,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-02-21",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-02-21",
+        "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-21",
