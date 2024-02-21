@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_XMN",
         "interviewerID": "02",
         "Number of interviews": 5,
-        "download_time": "21-02-2024 20:05:39"
+        "download_time": "21-02-2024 20:20:38"
     },
     {
         "InterviewDate": "01-02-2024",
@@ -2030,25 +2030,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "20-02-2024",
-        "quota_id": "T1_PA_MNL",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "20-02-2024",
         "quota_id": "T1_PR_MNL",
         "interviewerID": "06",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "20-02-2024",
         "quota_id": "T1_QR_DOH",
-        "interviewerID": "06",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "20-02-2024",
-        "quota_id": "T1_TR_C17",
         "interviewerID": "06",
         "Number of interviews": 1
     },
@@ -2062,7 +2050,7 @@ let interview_statistics  = `[
         "InterviewDate": "20-02-2024",
         "quota_id": "T1_TR_MAA",
         "interviewerID": "06",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "20-02-2024",
@@ -2108,15 +2096,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "21-02-2024",
-        "quota_id": "T1_SQ_RGN",
+        "quota_id": "T2_SQ_RGN",
         "interviewerID": "02",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "21-02-2024",
-        "quota_id": "T1_SQ_YGN",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "21-02-2024",
@@ -2128,31 +2110,13 @@ let interview_statistics  = `[
         "InterviewDate": "21-02-2024",
         "quota_id": "T4_HO_PVG",
         "interviewerID": "02",
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "21-02-2024",
-        "quota_id": "T4_Ho_Pvg",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "21-02-2024",
         "quota_id": "T4_3K_MNL",
         "interviewerID": "03",
-        "Number of interviews": 7
-    },
-    {
-        "InterviewDate": "21-02-2024",
-        "quota_id": "T4_3K_SIN",
-        "interviewerID": "03",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-02-2024",
-        "quota_id": "T4_ML_MNL",
-        "interviewerID": "03",
-        "Number of interviews": 1
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "21-02-2024",
