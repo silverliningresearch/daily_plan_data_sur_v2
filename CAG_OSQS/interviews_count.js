@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-02-2024 14:50:06"
+        "download_time": "23-02-2024 15:05:09"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2218,7 +2218,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-23",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-23",
@@ -2257,8 +2257,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-23",
+        "quota_id": "CTE T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-02-23",
         "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-23",
@@ -2283,7 +2288,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-23",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-02-23",
