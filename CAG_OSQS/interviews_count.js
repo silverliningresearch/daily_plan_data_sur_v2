@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-02-2024 09:20:10"
+        "download_time": "26-02-2024 09:35:10"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2558,7 +2558,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-26",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-26",
@@ -2583,12 +2583,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-26",
         "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#026-074\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-26",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     }
 ]    
 
