@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-02-2024 10:05:14"
+        "download_time": "27-02-2024 10:20:12"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2702,7 +2702,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-27",
+        "quota_id": "Beyond The Vines\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666MP\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-27",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-27",
+        "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -2733,7 +2743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-27",
@@ -2753,6 +2763,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-02-27",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
         "Number of interviews": 2
     }
 ]    
