@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-02-2024 15:05:23"
+        "download_time": "27-02-2024 15:20:24"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2708,7 +2708,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "Beyond Fruit\u2666TERMINAL 3\u2666Landside\u2666#B2-30A\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-27",
@@ -2723,7 +2723,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-02-27",
@@ -2797,6 +2797,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-02-27",
+        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-27",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
         "Number of interviews": 1
     },
@@ -2818,7 +2823,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-27",
