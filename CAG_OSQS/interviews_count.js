@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-02-2024 17:50:26"
+        "download_time": "27-02-2024 18:05:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2743,7 +2743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-27",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-02-27",
@@ -2769,6 +2769,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-02-27",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-02-27",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-27",
