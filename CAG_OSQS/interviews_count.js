@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-02-2024 13:05:20"
+        "download_time": "28-02-2024 13:20:12"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -2908,7 +2908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-28",
         "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-02-28",
@@ -2943,7 +2943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-28",
         "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-28",
@@ -2953,7 +2953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-28",
         "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-02-28",
@@ -2968,7 +2968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-02-28",
         "quota_id": "UOB T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-02-28",
