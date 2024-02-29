@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "KWI",
         "AirlineCode": "J9",
         "Number of interviews": 2,
-        "download_time": "28-02-2024 20:05:52"
+        "download_time": "29-02-2024 08:21:09"
     },
     {
         "InterviewDate": "2024-01-07",
@@ -1266,6 +1266,14 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-02-28",
+        "quota_id": "EK404",
+        "Flight": "EK404",
+        "DestCode": "MEL",
+        "AirlineCode": "EK",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-02-28",
         "quota_id": "EK41",
         "Flight": "EK41",
         "DestCode": "LHR",
@@ -1282,11 +1290,43 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-02-28",
+        "quota_id": "EK582",
+        "Flight": "EK582",
+        "DestCode": "DAC",
+        "AirlineCode": "EK",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-02-28",
+        "quota_id": "EK586",
+        "Flight": "EK586",
+        "DestCode": "DAC",
+        "AirlineCode": "EK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-28",
         "quota_id": "EK614",
         "Flight": "EK614",
         "DestCode": "ISB",
         "AirlineCode": "EK",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-02-28",
+        "quota_id": "EK622",
+        "Flight": "EK622",
+        "DestCode": "LHE",
+        "AirlineCode": "EK",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-02-28",
+        "quota_id": "EK656",
+        "Flight": "EK656",
+        "DestCode": "MLE",
+        "AirlineCode": "EK",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-02-28",
@@ -1314,11 +1354,59 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-02-28",
+        "quota_id": "FZ1133",
+        "Flight": "FZ1133",
+        "DestCode": "KTM",
+        "AirlineCode": "FZ",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-28",
         "quota_id": "FZ1211",
         "Flight": "FZ1211",
         "DestCode": "TLV",
         "AirlineCode": "FZ",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-02-29",
+        "quota_id": "EK11",
+        "Flight": "EK11",
+        "DestCode": "LGW",
+        "AirlineCode": "EK",
+        "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-02-29",
+        "quota_id": "EK346",
+        "Flight": "EK346",
+        "DestCode": "KUL",
+        "AirlineCode": "EK",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-02-29",
+        "quota_id": "EK582",
+        "Flight": "EK582",
+        "DestCode": "DAC",
+        "AirlineCode": "EK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-02-29",
+        "quota_id": "EK650",
+        "Flight": "EK650",
+        "DestCode": "CMB",
+        "AirlineCode": "EK",
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-02-29",
+        "quota_id": "EK656",
+        "Flight": "EK656",
+        "DestCode": "MLE",
+        "AirlineCode": "EK",
+        "Number of interviews": 11
     }
 ]    
 
