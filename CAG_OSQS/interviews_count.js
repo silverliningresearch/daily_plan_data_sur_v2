@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "07-03-2024 16:50:02"
+        "download_time": "07-03-2024 17:05:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -3393,12 +3393,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-07",
@@ -3418,7 +3418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "IPPUDO EXPRESS\u2666TERMINAL 3\u2666Airside\u2666#02-K3\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-03-07",
@@ -3433,7 +3433,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-03-07",
@@ -3443,7 +3443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-07",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-07",
