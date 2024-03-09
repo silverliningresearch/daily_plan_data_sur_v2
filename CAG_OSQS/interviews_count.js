@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-03-2024 13:20:05"
+        "download_time": "09-03-2024 13:35:08"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -3507,6 +3507,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-09",
+        "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-09",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
         "Number of interviews": 3
     },
@@ -3523,7 +3528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-09",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-09",
@@ -3543,7 +3548,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-09",
         "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-03-09",
