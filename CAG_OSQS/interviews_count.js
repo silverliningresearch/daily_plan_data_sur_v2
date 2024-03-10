@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-03-2024 11:20:20"
+        "download_time": "10-03-2024 11:35:09"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -3613,7 +3613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-10",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-10",
@@ -3633,7 +3633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-10",
         "quota_id": "Coach & Furla\u2666TERMINAL 4\u2666Airside\u2666#02-32\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-03-10",
@@ -3653,6 +3653,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-10",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-10",
+        "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
     {
