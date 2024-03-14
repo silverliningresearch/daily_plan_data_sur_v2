@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-03-2024 15:50:15"
+        "download_time": "14-03-2024 16:05:26"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4047,6 +4047,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-14",
+        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-14",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS\u2666Min8",
         "Number of interviews": 9
     },
@@ -4067,6 +4072,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-14",
+        "quota_id": "KinderPlay\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-14",
         "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
         "Number of interviews": 8
     },
@@ -4078,7 +4088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-14",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-14",
@@ -4098,7 +4108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-14",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-03-14",
