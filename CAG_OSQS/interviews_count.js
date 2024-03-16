@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-03-2024 14:20:09"
+        "download_time": "16-03-2024 14:35:05"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4208,7 +4208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-16",
         "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-16",
@@ -4233,7 +4233,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-16",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-03-16",
@@ -4257,6 +4257,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-16",
+        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-03-16",
         "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
         "Number of interviews": 3
     },
@@ -4273,7 +4278,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-16",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-16",
