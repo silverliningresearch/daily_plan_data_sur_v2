@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-03-2024 10:35:23"
+        "download_time": "16-03-2024 10:50:22"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4237,6 +4237,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-16",
+        "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-16",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
         "Number of interviews": 2
     },
@@ -4247,8 +4252,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-16",
+        "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-16",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-03-16",
