@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_EK_DXB",
         "interviewerID": "02",
         "Number of interviews": 10,
-        "download_time": "19-03-2024 02:06:11"
+        "download_time": "19-03-2024 02:20:52"
     },
     {
         "InterviewDate": "01-03-2024",
@@ -1586,21 +1586,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "18-03-2024",
-        "quota_id": "T2_SQ_THA",
-        "interviewerID": ".",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-03-2024",
-        "quota_id": "T1_QA_DOH",
-        "interviewerID": "02",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-03-2024",
         "quota_id": "T1_QR_DOH",
         "interviewerID": "02",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "18-03-2024",
@@ -1630,55 +1618,31 @@ let interview_statistics  = `[
         "InterviewDate": "18-03-2024",
         "quota_id": "T2_3U_TFU",
         "interviewerID": "12",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "18-03-2024",
-        "quota_id": "T2_SG_KUL",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-03-2024",
-        "quota_id": "T2_SI_BKK",
-        "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "18-03-2024",
         "quota_id": "T2_SQ_BKK",
         "interviewerID": "12",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "18-03-2024",
         "quota_id": "T2_SQ_KUL",
         "interviewerID": "12",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "18-03-2024",
         "quota_id": "T2_SQ_PEN",
         "interviewerID": "12",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "18-03-2024",
         "quota_id": "T2_SQ_SGN",
         "interviewerID": "12",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "18-03-2024",
-        "quota_id": "T2_SQ_PEN",
-        "interviewerID": "Great",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "18-03-2024",
-        "quota_id": "T2_3Uu_TFU",
-        "interviewerID": "ok",
-        "Number of interviews": 1
     }
 ]    
 
