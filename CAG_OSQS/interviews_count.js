@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-03-2024 15:50:25"
+        "download_time": "18-03-2024 16:05:41"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4458,7 +4458,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-18",
         "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-03-18",
@@ -4473,7 +4473,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-18",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-03-18",
@@ -4483,7 +4483,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-18",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-18",
@@ -4513,7 +4513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-18",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-03-18",
