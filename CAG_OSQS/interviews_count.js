@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-03-2024 11:35:50"
+        "download_time": "21-03-2024 11:50:33"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4767,6 +4767,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-21",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-21",
         "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -4793,7 +4798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-21",
         "quota_id": "Samsonite Red / Lipault Paris\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-21",
@@ -4803,7 +4808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-21",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-21",
@@ -4813,7 +4818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-21",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-21",
