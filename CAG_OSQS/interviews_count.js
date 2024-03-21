@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-03-2024 12:50:29"
+        "download_time": "21-03-2024 13:05:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4782,6 +4782,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-21",
+        "quota_id": "GHS3\u2666TERMINAL 3\u2666Airside\u2666GHS3 (A1-8)\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-21",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
         "Number of interviews": 3
     },
@@ -4793,7 +4798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-21",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-21",
