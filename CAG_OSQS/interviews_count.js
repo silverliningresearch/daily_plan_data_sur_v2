@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "22-03-2024 14:50:14"
+        "download_time": "22-03-2024 15:05:19"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -4897,6 +4897,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-22",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-22",
         "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
         "Number of interviews": 25
     },
@@ -4913,7 +4918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-22",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 19
+        "Number of interviews": 22
     },
     {
         "InterviewDate": "2024-03-22",
@@ -4953,7 +4958,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-22",
         "quota_id": "UOB T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-22",
