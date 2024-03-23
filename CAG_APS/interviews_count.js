@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_EK_DXB",
         "interviewerID": "02",
         "Number of interviews": 10,
-        "download_time": "23-03-2024 18:50:58"
+        "download_time": "23-03-2024 19:05:53"
     },
     {
         "InterviewDate": "01-03-2024",
@@ -1996,7 +1996,7 @@ let interview_statistics  = `[
         "InterviewDate": "23-03-2024",
         "quota_id": "T4_5J_MNL",
         "interviewerID": "06",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "23-03-2024",
