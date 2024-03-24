@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-03-2024 18:20:33"
+        "download_time": "24-03-2024 18:35:35"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5162,6 +5162,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-24",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-K15 (near taxi stand)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-24",
         "quota_id": "COLLIN'S\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -5268,7 +5273,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-24",
         "quota_id": "UOB T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-24",
