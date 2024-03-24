@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-03-2024 12:20:33"
+        "download_time": "24-03-2024 12:35:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5147,13 +5147,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-24",
+        "quota_id": "COLLIN'S\u2666TERMINAL 3\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-24",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-24",
         "quota_id": "Guardian (Premises B) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-03-24",
@@ -5178,7 +5183,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-24",
         "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-24",
@@ -5197,13 +5202,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-24",
+        "quota_id": "PARADISE DYNASTY\u2666TERMINAL 3\u2666Landside\u2666#03-32\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-03-24",
         "quota_id": "PARIS BAGUETTE\u2666TERMINAL 3\u2666Landside\u2666#01-22\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-24",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-03-24",
