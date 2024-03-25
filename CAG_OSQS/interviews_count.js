@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-03-2024 15:50:27"
+        "download_time": "25-03-2024 16:05:27"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5282,6 +5282,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-25",
+        "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-25",
         "quota_id": "7-Eleven (T2 Level 2)\u2666TERMINAL 2\u2666Airside\u2666#02-404\u2666CS\u2666Min8",
         "Number of interviews": 8
     },
@@ -5333,7 +5338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5348,7 +5353,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5363,7 +5368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
