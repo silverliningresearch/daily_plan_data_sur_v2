@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-03-2024 13:05:36"
+        "download_time": "25-03-2024 13:20:17"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5293,12 +5293,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5313,7 +5313,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5323,7 +5323,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5333,7 +5333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "Michael Kors\u2666TERMINAL 1\u2666Airside\u2666#02-76\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
