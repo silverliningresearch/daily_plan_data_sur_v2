@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-03-2024 15:20:21"
+        "download_time": "25-03-2024 15:35:27"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5333,7 +5333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5343,7 +5343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5378,12 +5378,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-25",
@@ -5413,7 +5413,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-25",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
