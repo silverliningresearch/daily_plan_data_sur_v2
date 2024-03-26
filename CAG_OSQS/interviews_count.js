@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-03-2024 20:36:06"
+        "download_time": "26-03-2024 20:50:36"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5452,8 +5452,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-26",
+        "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-03-26",
         "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-26",
@@ -5528,7 +5533,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-26",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-26",
