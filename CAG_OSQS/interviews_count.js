@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-03-2024 18:06:55"
+        "download_time": "27-03-2024 18:20:27"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5578,7 +5578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5603,7 +5603,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5658,7 +5658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01 & #03-01\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5718,7 +5718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-03-27",
