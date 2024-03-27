@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-03-2024 14:50:25"
+        "download_time": "27-03-2024 15:05:20"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -5578,7 +5578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5653,7 +5653,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5663,7 +5663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-27",
@@ -5678,7 +5678,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-27",
         "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-03-27",
