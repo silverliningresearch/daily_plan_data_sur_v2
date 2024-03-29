@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-03-2024 15:05:16"
+        "download_time": "29-03-2024 15:20:22"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -6112,6 +6112,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-29",
+        "quota_id": "Swarovski\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-29",
         "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 1
     },
@@ -6147,12 +6152,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-03-29",
+        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-29",
         "quota_id": "Travelex T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-235\u2666MC\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-03-29",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-03-29",
+        "quota_id": "UOB T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -6168,7 +6183,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-03-29",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
