@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_XMN",
         "interviewerID": "02",
         "Number of interviews": 2,
-        "download_time": "03-04-2024 01:05:35"
+        "download_time": "03-04-2024 01:20:36"
     },
     {
         "InterviewDate": "01-04-2024",
@@ -170,7 +170,7 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "01-04-2024",
-        "quota_id": "T2_SQ_PEN ",
+        "quota_id": "T2_SQ_PEN",
         "interviewerID": "NA",
         "Number of interviews": 1
     },
@@ -242,21 +242,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "02-04-2024",
-        "quota_id": "T3_SG_BLR",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-04-2024",
-        "quota_id": "T3_SG_HKG",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-04-2024",
         "quota_id": "T3_SQ_BLR",
         "interviewerID": "12",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "02-04-2024",
@@ -274,7 +262,7 @@ let interview_statistics  = `[
         "InterviewDate": "02-04-2024",
         "quota_id": "T3_SQ_HKG",
         "interviewerID": "12",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "02-04-2024",
@@ -344,7 +332,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "02-04-2024",
-        "quota_id": "T3_GU_BAH",
+        "quota_id": "T3_SQ_BNE",
+        "interviewerID": "14",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "02-04-2024",
+        "quota_id": "T3_GF_BAH",
         "interviewerID": "?",
         "Number of interviews": 1
     },
@@ -356,14 +350,8 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "02-04-2024",
-        "quota_id": "T3_SA_HYD",
+        "quota_id": "T3_SQ_HYD",
         "interviewerID": "No",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-04-2024",
-        "quota_id": "T3_SI_BRI",
-        "interviewerID": "Thanks",
         "Number of interviews": 1
     }
 ]    
