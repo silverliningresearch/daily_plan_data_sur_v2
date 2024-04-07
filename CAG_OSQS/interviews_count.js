@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "07-04-2024 11:50:11"
+        "download_time": "07-04-2024 12:06:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7063,7 +7063,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-07",
@@ -7073,7 +7073,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "EU YAN SANG\u2666TERMINAL 3\u2666Landside\u2666#B2-55\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-07",
@@ -7093,7 +7093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 15
+        "Number of interviews": 17
     },
     {
         "InterviewDate": "2024-04-07",
@@ -7108,7 +7108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "MIXSHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-32A\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-07",
@@ -7118,7 +7118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 14
+        "Number of interviews": 16
     },
     {
         "InterviewDate": "2024-04-07",
@@ -7138,7 +7138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-07",
         "quota_id": "UNITY\u2666TERMINAL 3\u2666Landside\u2666#B2-57\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
