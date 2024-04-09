@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-04-2024 12:35:18"
+        "download_time": "09-04-2024 12:50:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7282,6 +7282,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-09",
+        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-04-09",
         "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
@@ -7303,7 +7308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-09",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-09",
@@ -7318,7 +7323,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-09",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-09",
@@ -7328,7 +7333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-09",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-09",
