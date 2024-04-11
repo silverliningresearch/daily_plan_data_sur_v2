@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-04-2024 12:35:11"
+        "download_time": "11-04-2024 12:50:14"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7433,7 +7433,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-11",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-04-11",
@@ -7442,13 +7442,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-11",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-11",
         "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
         "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-04-11",
+        "quota_id": "Hermes\u2666TERMINAL 3\u2666Airside\u2666#02-05E\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-11",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-04-11",
@@ -7483,7 +7493,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-11",
         "quota_id": "UOB T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-11",
