@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "12-04-2024 15:34:56"
+        "download_time": "12-04-2024 15:49:53"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7538,7 +7538,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-12",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-180\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-12",
@@ -7578,7 +7578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-12",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2024-04-12",
@@ -7594,6 +7594,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-12",
         "quota_id": "UOB T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-12",
+        "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
