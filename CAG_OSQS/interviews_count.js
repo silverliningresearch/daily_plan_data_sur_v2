@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "12-04-2024 15:49:53"
+        "download_time": "12-04-2024 16:06:10"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7552,6 +7552,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-12",
+        "quota_id": "Gassan Watches\u2666TERMINAL 4\u2666Airside\u2666#02-27\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-12",
         "quota_id": "Hermes\u2666TERMINAL 2\u2666Airside\u2666#02-211\u2666LX\u2666Min8",
         "Number of interviews": 8
     },
@@ -7587,6 +7592,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-12",
+        "quota_id": "T2 iSC Arrival counter\u2666TERMINAL 2\u2666Landside\u2666#01-179\u2666PS\u2666Min5",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-12",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
         "Number of interviews": 8
     },
@@ -7598,7 +7608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-12",
         "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
