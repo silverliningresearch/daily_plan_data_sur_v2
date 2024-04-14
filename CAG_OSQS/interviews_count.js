@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-04-2024 14:20:06"
+        "download_time": "14-04-2024 14:35:04"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -7692,6 +7692,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-14",
+        "quota_id": "KIDZTIME\u2666TERMINAL 3\u2666Landside\u2666#B2-20/21\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-14",
         "quota_id": "KinderPlay\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17\u2666LS\u2666Min8",
         "Number of interviews": 2
     },
@@ -7699,6 +7704,16 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-14",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-14",
+        "quota_id": "SUPERFOOD KITCHEN\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-14",
+        "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-14",
