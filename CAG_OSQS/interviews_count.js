@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-04-2024 17:50:30"
+        "download_time": "23-04-2024 18:06:43"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -8508,7 +8508,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-23",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-04-23",
@@ -8533,7 +8533,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-23",
         "quota_id": "Old Seng Choong\u2666TERMINAL 2\u2666Airside\u2666#02-175/176\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-23",
@@ -8553,7 +8553,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-23",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-23",
@@ -8568,7 +8568,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-23",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-23",
@@ -8584,6 +8584,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-23",
         "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-23",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
