@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-04-2024 16:50:32"
+        "download_time": "25-04-2024 17:05:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -8718,7 +8718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8738,7 +8738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8763,7 +8763,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8794,6 +8794,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-25",
         "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-04-25",
+        "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8847,6 +8852,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-25",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 2\u2666Airside\u2666#02-216\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-25",
         "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS\u2666Min8",
         "Number of interviews": 8
     },
@@ -8863,7 +8873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-04-25",
