@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-04-2024 18:50:18"
+        "download_time": "25-04-2024 19:05:15"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -8743,7 +8743,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8773,7 +8773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8788,7 +8788,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8798,12 +8798,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-04-25",
@@ -8868,7 +8868,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-25",
         "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#02-184\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-04-25",
