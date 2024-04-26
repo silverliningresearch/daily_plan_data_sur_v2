@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-04-2024 12:35:17"
+        "download_time": "26-04-2024 12:50:45"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -8907,8 +8907,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-26",
+        "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-26",
         "quota_id": "CHANGI RECOMMENDS (T1 L2 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-K39\u2666CR\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-26",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-26",
@@ -8939,6 +8949,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-26",
         "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-26",
+        "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-04-26",
