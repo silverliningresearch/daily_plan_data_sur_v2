@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-04-2024 11:50:16"
+        "download_time": "26-04-2024 12:06:24"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -8898,7 +8898,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-26",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-26",
@@ -8929,6 +8929,21 @@ let interview_statistics  = `[
         "InterviewDate": "2024-04-26",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
         "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2024-04-26",
+        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-26",
+        "quota_id": "UOB T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-26",
+        "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
