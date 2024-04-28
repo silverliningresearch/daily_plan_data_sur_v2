@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-04-2024 11:05:35"
+        "download_time": "28-04-2024 11:20:36"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -9162,6 +9162,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-28",
+        "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-28",
+        "quota_id": "NAM NAM\u2666TERMINAL 3\u2666Landside\u2666#02-91\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-28",
         "quota_id": "O'COFFEE CLUB\u2666TERMINAL 3\u2666Landside\u2666#02-81\u2666FBL\u2666Min8",
         "Number of interviews": 3
     },
@@ -9173,12 +9183,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-28",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-04-28",
         "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-04-28",
