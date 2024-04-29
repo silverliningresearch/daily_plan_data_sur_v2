@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-04-2024 15:20:21"
+        "download_time": "29-04-2024 15:35:45"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -9262,8 +9262,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-29",
-        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 2\u2666Airside\u2666#03-175/176\u2666HL\u2666Min20",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-04-29",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 2\u2666Airside\u2666#036-123&123-A\u2666HL\u2666Min20",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-04-29",
@@ -9292,6 +9297,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-04-29",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-29",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
         "Number of interviews": 6
     },
@@ -9308,6 +9318,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-04-29",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-04-29",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
         "Number of interviews": 1
     }
 ]    
