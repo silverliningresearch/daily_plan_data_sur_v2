@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_XMN",
         "interviewerID": "02",
         "Number of interviews": 2,
-        "download_time": "02-05-2024 12:06:42"
+        "download_time": "02-05-2024 12:21:00"
     },
     {
         "InterviewDate": "01-04-2024",
@@ -355,22 +355,10 @@ let interview_statistics  = `[
         "Number of interviews": 8
     },
     {
-        "InterviewDate": "02-04-2024",
-        "quota_id": "T2_SQ_DAC",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "02-04-2024",
-        "quota_id": "T3_GF_BAH",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "02-05-2024",
         "quota_id": "T1_TR_CNX",
         "interviewerID": "02",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "02-05-2024",
@@ -703,18 +691,6 @@ let interview_statistics  = `[
         "Number of interviews": 5
     },
     {
-        "InterviewDate": "04-04-2024",
-        "quota_id": "T2_NX_MFM",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "04-04-2024",
-        "quota_id": "T3_SQ_DEL",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "05-04-2024",
         "quota_id": "T3_ID_CGK",
         "interviewerID": "02",
@@ -941,24 +917,6 @@ let interview_statistics  = `[
         "quota_id": "T3_SQ_SFO",
         "interviewerID": "14",
         "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "06-04-2024",
-        "quota_id": "T4_3K_PNH",
-        "interviewerID": "999",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "06-04-2024",
-        "quota_id": "T4_CX_BKK",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "06-04-2024",
-        "quota_id": "T4_FD_HDY",
-        "interviewerID": "999",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "07-04-2024",
@@ -1261,12 +1219,6 @@ let interview_statistics  = `[
         "Number of interviews": 9
     },
     {
-        "InterviewDate": "09-04-2024",
-        "quota_id": "T1_TR_XIY",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "11-04-2024",
         "quota_id": "T4_5J_MNL",
         "interviewerID": "03",
@@ -1309,12 +1261,6 @@ let interview_statistics  = `[
         "Number of interviews": 3
     },
     {
-        "InterviewDate": "11-04-2024",
-        "quota_id": "T2_SQ_PNH",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "13-04-2024",
         "quota_id": "T1_TR_MNL",
         "interviewerID": "12",
@@ -1343,12 +1289,6 @@ let interview_statistics  = `[
         "quota_id": "T2_SQ_SGN",
         "interviewerID": "12",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "13-04-2024",
-        "quota_id": "T1_TR_MNL",
-        "interviewerID": "999",
-        "Number of interviews": 5
     },
     {
         "InterviewDate": "14-04-2024",
@@ -1603,36 +1543,6 @@ let interview_statistics  = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "15-04-2024",
-        "quota_id": "T1_KR_PNH",
-        "interviewerID": "999",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "15-04-2024",
-        "quota_id": "T1_TR_HAK",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "15-04-2024",
-        "quota_id": "T2_SQ_SGN",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "15-04-2024",
-        "quota_id": "T3_SQ_CAN",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "15-04-2024",
-        "quota_id": "T4_AK_KUL",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "16-04-2024",
         "quota_id": "T1_EK_DXB",
         "interviewerID": "02",
@@ -1795,12 +1705,6 @@ let interview_statistics  = `[
         "Number of interviews": 3
     },
     {
-        "InterviewDate": "16-04-2024",
-        "quota_id": "T2_SQ_MNL",
-        "interviewerID": "999",
-        "Number of interviews": 3
-    },
-    {
         "InterviewDate": "17-04-2024",
         "quota_id": "T1_MF_HGH",
         "interviewerID": "02",
@@ -1901,12 +1805,6 @@ let interview_statistics  = `[
         "quota_id": "T3_SQ_SYD",
         "interviewerID": "14",
         "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "17-04-2024",
-        "quota_id": "T3_UK_DEL",
-        "interviewerID": "999",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "18-04-2024",
@@ -2149,12 +2047,6 @@ let interview_statistics  = `[
         "Number of interviews": 6
     },
     {
-        "InterviewDate": "19-04-2024",
-        "quota_id": "T4_CX_HKG",
-        "interviewerID": "999",
-        "Number of interviews": 6
-    },
-    {
         "InterviewDate": "20-04-2024",
         "quota_id": "T3_SQ_DRW",
         "interviewerID": "02",
@@ -2197,18 +2089,6 @@ let interview_statistics  = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "20-04-2024",
-        "quota_id": "T2_SQ_KIX",
-        "interviewerID": "999",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "20-04-2024",
-        "quota_id": "T3_SQ_DRW",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "21-04-2024",
         "quota_id": "T1_TK_IST",
         "interviewerID": "02",
@@ -2239,30 +2119,6 @@ let interview_statistics  = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "21-04-2024",
-        "quota_id": "T1_TK_IST",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-04-2024",
-        "quota_id": "T1_TR_FOC",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-04-2024",
-        "quota_id": "T1_TR_JED",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-04-2024",
-        "quota_id": "T1_TR_NKG",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "22-04-2024",
         "quota_id": "T4_3K_KUL",
         "interviewerID": "12",
@@ -2285,24 +2141,6 @@ let interview_statistics  = `[
         "quota_id": "T4_QZ_DPS",
         "interviewerID": "12",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "22-04-2024",
-        "quota_id": "T4_3K_KUL",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "22-04-2024",
-        "quota_id": "T4_QZ_CGK",
-        "interviewerID": "999",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "22-04-2024",
-        "quota_id": "T4_VJ_SGN",
-        "interviewerID": "999",
-        "Number of interviews": 4
     },
     {
         "InterviewDate": "23-04-2024",
@@ -2335,12 +2173,6 @@ let interview_statistics  = `[
         "Number of interviews": 4
     },
     {
-        "InterviewDate": "24-04-2024",
-        "quota_id": "T4_KE_ICN",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
         "InterviewDate": "26-04-2024",
         "quota_id": "T4_3K_PEN",
         "interviewerID": "03",
@@ -2351,36 +2183,12 @@ let interview_statistics  = `[
         "quota_id": "T4_HB_HKG",
         "interviewerID": "03",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "26-04-2024",
-        "quota_id": "T1_KR_PNH",
-        "interviewerID": "999",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "26-04-2024",
-        "quota_id": "T4_3K_PEN",
-        "interviewerID": "999",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "26-04-2024",
-        "quota_id": "T4_HB_HKG",
-        "interviewerID": "999",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "27-04-2024",
         "quota_id": "T4_FD_DMK",
         "interviewerID": "04",
         "Number of interviews": 4
-    },
-    {
-        "InterviewDate": "27-04-2024",
-        "quota_id": "T4_FD_DMK",
-        "interviewerID": "999",
-        "Number of interviews": 2
     }
 ]    
 
