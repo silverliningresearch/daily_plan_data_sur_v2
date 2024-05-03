@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "03-05-2024 11:21:01"
+        "download_time": "03-05-2024 11:35:49"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -9562,6 +9562,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-03",
+        "quota_id": "CTE T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-72\u2666MC\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-03",
         "quota_id": "CTE T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min8",
         "Number of interviews": 5
     },
@@ -9578,7 +9583,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-03",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 8
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-05-03",
@@ -9589,6 +9594,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-05-03",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-05-03",
+        "quota_id": "UOB T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-71\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-03",
