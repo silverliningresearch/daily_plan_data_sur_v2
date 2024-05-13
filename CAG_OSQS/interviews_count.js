@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-05-2024 19:35:23"
+        "download_time": "13-05-2024 19:50:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -10388,7 +10388,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-13",
         "quota_id": "Discover Singapore (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-402\u2666SV\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-05-13",
@@ -10452,6 +10452,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-13",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-13",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
         "Number of interviews": 8
     },
@@ -10473,7 +10478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-13",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
