@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-05-2024 12:35:28"
+        "download_time": "15-05-2024 12:50:33"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -10633,7 +10633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-15",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-15",
@@ -10648,7 +10648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-15",
         "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-05-15",
@@ -10663,7 +10663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-15",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-15",
@@ -10678,7 +10678,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-15",
         "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-15",
@@ -10703,7 +10703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-15",
         "quota_id": "Sprint-Cass (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666EL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-05-15",
