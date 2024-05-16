@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-05-2024 15:35:36"
+        "download_time": "16-05-2024 15:50:35"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -10847,6 +10847,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-16",
+        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-16",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
         "Number of interviews": 9
     },
@@ -10883,7 +10888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-16",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A2)\u2666TERMINAL 4\u2666Airside\u2666#02-K26 (near Gate G17)\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-16",
@@ -10904,6 +10909,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-05-16",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-05-16",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-16",
@@ -10933,7 +10943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-16",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     }
 ]    
 
