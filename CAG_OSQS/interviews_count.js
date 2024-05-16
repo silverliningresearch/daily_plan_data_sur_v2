@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-05-2024 19:05:38"
+        "download_time": "16-05-2024 19:20:36"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -10877,6 +10877,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-16",
+        "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-16",
         "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -10923,7 +10928,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-16",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-16",
