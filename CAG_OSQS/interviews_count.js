@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-05-2024 10:06:43"
+        "download_time": "18-05-2024 10:20:36"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11097,6 +11097,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-18",
+        "quota_id": "7-Eleven Cafe\u2666TERMINAL 3\u2666Landside\u2666#B2-05/06\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-18",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH\u2666Min8",
         "Number of interviews": 3
     },
@@ -11108,7 +11113,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 4\u2666Airside\u2666#02-42\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-05-18",
@@ -11123,7 +11128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-18",
@@ -11138,7 +11143,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-18",
