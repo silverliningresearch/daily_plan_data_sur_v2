@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-05-2024 13:20:41"
+        "download_time": "18-05-2024 13:35:41"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11138,7 +11138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "KinderPlay\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-18",
@@ -11158,7 +11158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-18",
@@ -11168,7 +11168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "SEVEN STOP\u2666TERMINAL 3\u2666Landside\u2666#B2-19\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-18",
@@ -11193,7 +11193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-18",
         "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     }
 ]    
 
