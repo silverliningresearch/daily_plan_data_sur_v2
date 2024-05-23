@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-05-2024 18:20:50"
+        "download_time": "23-05-2024 18:35:56"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11478,7 +11478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-23",
@@ -11518,7 +11518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-23",
@@ -11542,6 +11542,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-23",
+        "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-23",
         "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
         "Number of interviews": 7
     },
@@ -11553,17 +11558,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-23",
