@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-05-2024 13:06:07"
+        "download_time": "23-05-2024 13:20:51"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11493,7 +11493,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-05-23",
@@ -11543,7 +11543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "Sony\u2666TERMINAL 3\u2666Airside\u2666#02-62\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-23",
@@ -11553,12 +11553,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-05-23",
         "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-05-23",
