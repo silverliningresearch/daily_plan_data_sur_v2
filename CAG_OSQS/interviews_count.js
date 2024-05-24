@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-05-2024 15:34:40"
+        "download_time": "24-05-2024 15:50:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11673,7 +11673,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-24",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-24",
+        "quota_id": "CLIMB@T3\u2666TERMINAL 3\u2666Landside\u2666#B3-01/02\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-05-24",
@@ -11704,6 +11709,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-05-24",
         "quota_id": "Longchamp\u2666TERMINAL 1\u2666Airside\u2666#02-77\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-05-24",
+        "quota_id": "MA MUM TO GO\u2666TERMINAL 1\u2666Landside\u2666#01-K23\u2666FBL\u2666Min8",
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-05-24",
