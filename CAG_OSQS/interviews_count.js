@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-05-2024 12:20:37"
+        "download_time": "26-05-2024 12:36:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11918,7 +11918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-26",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-05-26",
@@ -11933,7 +11933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-26",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-05-26",
@@ -11968,12 +11968,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-26",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-26",
         "quota_id": "Travelex T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K15\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-26",
@@ -11988,7 +11988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-26",
         "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-26",
