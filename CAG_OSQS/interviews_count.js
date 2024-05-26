@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-05-2024 10:07:16"
+        "download_time": "26-05-2024 10:20:52"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -11927,6 +11927,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-26",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-26",
         "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min8",
         "Number of interviews": 8
     },
@@ -11942,7 +11947,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-26",
+        "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-05-26",
         "quota_id": "T1 iSC Arrival counter\u2666TERMINAL 1\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-26",
+        "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
     {
