@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-05-2024 13:21:16"
+        "download_time": "27-05-2024 13:35:59"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -12073,7 +12073,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-27",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-27",
@@ -12088,7 +12088,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-27",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-05-27",
@@ -12103,7 +12103,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-27",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-27",
@@ -12118,7 +12118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-27",
         "quota_id": "Sift & Pick \u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-05-27",
