@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-05-2024 16:35:45"
+        "download_time": "28-05-2024 16:50:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -12173,7 +12173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-28",
         "quota_id": "Burberry\u2666TERMINAL 2\u2666Airside\u2666#02-214\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-05-28",
@@ -12183,12 +12183,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-28",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-28",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-28",
@@ -12278,7 +12278,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-28",
         "quota_id": "Rimowa\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-28",
