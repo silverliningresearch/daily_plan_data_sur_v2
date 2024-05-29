@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-05-2024 19:35:42"
+        "download_time": "29-05-2024 19:50:53"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -12337,6 +12337,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-29",
+        "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-29",
         "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
         "Number of interviews": 5
     },
@@ -12359,6 +12364,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-05-29",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-05-29",
+        "quota_id": "Crown Prince Kitchenette\u2666TERMINAL 3\u2666Landside\u2666#03-42/43\u2666FBL\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-05-29",
@@ -12413,7 +12423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-29",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-05-29",
@@ -12448,7 +12458,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-29",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-05-29",
@@ -12473,7 +12483,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-29",
         "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS\u2666Min5",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
