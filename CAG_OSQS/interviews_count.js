@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "30-05-2024 15:06:13"
+        "download_time": "30-05-2024 15:21:35"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -12502,6 +12502,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-05-30",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-30",
         "quota_id": "Bee Cheng Hiang (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#026-135 (#02-199)\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
@@ -12578,6 +12583,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-05-30",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-05-30",
+        "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
