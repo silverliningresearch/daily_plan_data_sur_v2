@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "02-06-2024 13:51:14"
+        "download_time": "02-06-2024 14:07:19"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -12818,7 +12818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-02",
         "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-02",
@@ -12837,6 +12837,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-02",
+        "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-02",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
         "Number of interviews": 3
     },
@@ -12848,7 +12853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-02",
         "quota_id": "SUPERFOOD KITCHEN\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-02",
@@ -12858,7 +12863,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-02",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-02",
