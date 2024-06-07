@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "07-06-2024 14:35:29"
+        "download_time": "07-06-2024 14:50:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13093,7 +13093,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-07",
         "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-07",
@@ -13108,17 +13108,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-07",
         "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-07",
         "quota_id": "Paul le Cafe\u2666TERMINAL 1\u2666Airside\u2666#02-26\u2666FBA\u2666Min8",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-06-07",
         "quota_id": "Pezzo\u2666TERMINAL 1\u2666Airside\u2666#02-K09N\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-07",
