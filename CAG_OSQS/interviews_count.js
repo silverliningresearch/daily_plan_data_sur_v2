@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "08-06-2024 16:20:32"
+        "download_time": "08-06-2024 16:35:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13178,7 +13178,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-08",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 13
+        "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2024-06-08",
+        "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-08",
@@ -13188,7 +13193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-08",
         "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
