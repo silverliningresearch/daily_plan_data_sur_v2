@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-06-2024 20:20:00"
+        "download_time": "10-06-2024 20:35:00"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13312,8 +13312,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-10",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-10",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
         "Number of interviews": 12
+    },
+    {
+        "InterviewDate": "2024-06-10",
+        "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13344,6 +13354,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-06-10",
+        "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
