@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-06-2024 13:49:59"
+        "download_time": "10-06-2024 14:06:04"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13303,12 +13303,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13318,7 +13318,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13328,7 +13328,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-10",
