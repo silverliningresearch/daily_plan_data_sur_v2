@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-06-2024 21:05:00"
+        "download_time": "10-06-2024 21:20:00"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13332,18 +13332,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-10",
+        "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-10",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
         "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13378,7 +13383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
