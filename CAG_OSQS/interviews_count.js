@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-06-2024 21:50:03"
+        "download_time": "10-06-2024 22:05:25"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13308,12 +13308,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "CURRY TIMES\u2666TERMINAL 3\u2666Landside\u2666#B2-51\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13348,7 +13348,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-10",
@@ -13383,7 +13383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-10",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     }
 ]    
 
