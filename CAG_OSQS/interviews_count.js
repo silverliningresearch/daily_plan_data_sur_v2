@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-06-2024 18:50:05"
+        "download_time": "11-06-2024 19:05:04"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13398,7 +13398,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-11",
         "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-11",
@@ -13448,7 +13448,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-11",
         "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-11",
@@ -13508,12 +13508,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-11",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Montblanc)\u2666TERMINAL 2\u2666Airside\u2666#02-218\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-11",
         "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-11",
