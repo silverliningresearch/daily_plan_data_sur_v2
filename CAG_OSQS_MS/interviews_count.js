@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "11-06-2024 17:50:35"
+        "download_time": "11-06-2024 18:05:49"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -163,6 +163,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-11",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-11",
+        "quota_id": "Perfumes & Cosmetics (T3 ABS)\u2666TERMINAL 3\u2666Airside\u2666#01-20\u2666PC",
         "Number of interviews": 1
     },
     {
