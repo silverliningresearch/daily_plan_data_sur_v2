@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-06-2024 10:35:11"
+        "download_time": "13-06-2024 10:50:00"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13637,6 +13637,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-13",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-13",
         "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX\u2666Min8",
         "Number of interviews": 2
     },
@@ -13652,18 +13657,33 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-13",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-13",
         "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-13",
+        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-13",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-13",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-13",
+        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-13",
