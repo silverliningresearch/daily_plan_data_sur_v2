@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "14-06-2024 20:50:21"
+        "download_time": "14-06-2024 21:05:19"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -502,12 +502,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-14",
+        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
         "quota_id": "Irvin's Salted Egg (Pushcart)\u2666TERMINAL 4\u2666Airside\u2666#Pushcart\u2666CCD",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-14",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
+        "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT",
         "Number of interviews": 1
     },
     {
@@ -527,6 +537,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-14",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
         "quota_id": "Swarovski (T2S)\u2666TERMINAL 2\u2666Airside\u2666#02-202\u2666MP",
         "Number of interviews": 1
     },
@@ -538,6 +553,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-14",
         "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
+        "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT",
         "Number of interviews": 1
     }
 ]    
