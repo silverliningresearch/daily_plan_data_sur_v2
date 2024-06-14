@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-06-2024 10:20:29"
+        "download_time": "14-06-2024 10:35:16"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13738,7 +13738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-14",
         "quota_id": "Bee Cheng Hiang (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#026-135 (#02-199)\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-14",
@@ -13747,8 +13747,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-14",
+        "quota_id": "CANTON PARADISE CONGEE & NOODLE BAR & LE SHRIMP RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-49/50\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#01-24\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-14",
@@ -13758,7 +13763,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-14",
         "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-06-14",
+        "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-14",
@@ -13772,8 +13782,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-14",
-        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-14",
+        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
