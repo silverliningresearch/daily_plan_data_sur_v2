@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-06-2024 10:35:18"
+        "download_time": "15-06-2024 10:50:18"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13943,7 +13943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "House of Samsonite\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13968,7 +13968,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "Travelex T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "UOB T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-15",
