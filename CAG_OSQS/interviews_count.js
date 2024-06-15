@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-06-2024 11:20:19"
+        "download_time": "15-06-2024 11:35:14"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13932,8 +13932,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-15",
+        "quota_id": "Aerotel\u2666TERMINAL 1\u2666Airside\u2666#03-139&140\u2666HL\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K31 (beside info counter)\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13967,6 +13977,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-15",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -13983,7 +13998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13993,7 +14008,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "UOB T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-15",
@@ -14008,7 +14023,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "UOB T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-82\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
