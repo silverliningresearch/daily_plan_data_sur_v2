@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "15-06-2024 23:35:24"
+        "download_time": "15-06-2024 23:50:22"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -687,6 +687,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-15",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX",
         "Number of interviews": 1
     },
@@ -712,12 +717,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-15",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "Swarovski (T2N)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD",
         "Number of interviews": 1
     },
     {
