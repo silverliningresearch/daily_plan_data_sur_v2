@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-06-2024 11:50:14"
+        "download_time": "15-06-2024 12:06:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -13943,7 +13943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13954,6 +13954,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#02-90A\u2666CR\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "CTE T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13983,7 +13988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-06-15",
@@ -13998,6 +14003,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-15",
         "quota_id": "T1 iSC Departure counter\u2666TERMINAL 1\u2666Airside\u2666NA\u2666PS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-15",
+        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
         "Number of interviews": 1
     },
     {
