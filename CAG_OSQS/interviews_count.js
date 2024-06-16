@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-06-2024 13:20:03"
+        "download_time": "16-06-2024 13:35:03"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14117,6 +14117,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-16",
+        "quota_id": "Boarding Gate & The Wallet Shop\u2666TERMINAL 3\u2666Landside\u2666#B2-08/09\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-16",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS\u2666Min8",
         "Number of interviews": 6
     },
@@ -14143,7 +14148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "KinderPlay\u2666TERMINAL 3\u2666Landside\u2666#B2-14/15/16/17\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-16",
@@ -14153,7 +14158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-16",
