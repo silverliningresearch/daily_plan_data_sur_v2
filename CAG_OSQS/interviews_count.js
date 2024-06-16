@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-06-2024 13:50:02"
+        "download_time": "16-06-2024 14:06:51"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14113,7 +14113,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-55/56\u2666PH\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-16",
@@ -14123,7 +14123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-16",
@@ -14153,12 +14153,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-16",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-16",
