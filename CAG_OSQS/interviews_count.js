@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-06-2024 12:50:20"
+        "download_time": "18-06-2024 13:06:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14273,17 +14273,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 3\u2666Landside\u2666#01-K20\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K21\u2666CR\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-06-18",
@@ -14313,7 +14313,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-18",
@@ -14323,7 +14323,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "UOB T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-18",
