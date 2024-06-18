@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "18-06-2024 15:35:11"
+        "download_time": "18-06-2024 15:50:55"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -777,6 +777,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-18",
+        "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-18",
         "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA",
         "Number of interviews": 1
     },
@@ -798,6 +803,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "Prada\u2666TERMINAL 1\u2666Airside\u2666#02-12A\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-18",
+        "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX",
         "Number of interviews": 1
     },
     {
