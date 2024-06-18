@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-06-2024 11:35:20"
+        "download_time": "18-06-2024 11:50:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14282,13 +14282,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-18",
-        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-18",
+        "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-06-18",
+        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-18",
