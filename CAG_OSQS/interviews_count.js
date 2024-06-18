@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-06-2024 14:06:31"
+        "download_time": "18-06-2024 14:20:25"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14257,6 +14257,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-18",
+        "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-18",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
         "Number of interviews": 10
     },
@@ -14288,7 +14293,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "LT T3 Arrival North\u2666TERMINAL 3\u2666Airside\u2666#01-29\u2666LT\u2666Min15",
-        "Number of interviews": 9
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-06-18",
@@ -14313,7 +14318,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-18",
@@ -14348,7 +14353,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-18",
         "quota_id": "UOB T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K10\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-18",
