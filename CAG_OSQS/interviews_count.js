@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "19-06-2024 10:35:23"
+        "download_time": "19-06-2024 10:50:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14387,6 +14387,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-19",
+        "quota_id": "Lego\u2666TERMINAL 4\u2666Airside\u2666#02-48\u2666CT\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-19",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-19",
         "quota_id": "Old Seng Choong\u2666TERMINAL 4\u2666Airside\u2666#02-50\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
@@ -14399,6 +14409,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-19",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-19",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
