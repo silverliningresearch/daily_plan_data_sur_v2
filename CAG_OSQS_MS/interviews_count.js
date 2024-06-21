@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "21-06-2024 21:50:46"
+        "download_time": "21-06-2024 22:06:36"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -1132,6 +1132,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 2\u2666Airside\u2666#026-096-01\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA",
         "Number of interviews": 1
     },
@@ -1182,6 +1187,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT",
         "Number of interviews": 1
     },
@@ -1202,6 +1212,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC",
         "Number of interviews": 1
     },
@@ -1218,6 +1238,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Rimowa\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Sprint-Cass (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666EL",
         "Number of interviews": 1
     },
     {
@@ -1253,6 +1278,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "The Satay Club\u2666TERMINAL 2\u2666Airside\u2666#02-169\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "WH Smith - Premises A (Air) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-64\u2666OW",
         "Number of interviews": 1
     },
     {
