@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "21-06-2024 21:35:37"
+        "download_time": "21-06-2024 21:50:46"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -1147,7 +1147,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH",
         "Number of interviews": 1
     },
     {
@@ -1158,6 +1168,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Hudsons (DTS Gourmet Garden)\u2666TERMINAL 2\u2666Airside\u2666#02-178\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -1183,6 +1198,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -1238,6 +1258,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP",
         "Number of interviews": 1
     }
 ]    
