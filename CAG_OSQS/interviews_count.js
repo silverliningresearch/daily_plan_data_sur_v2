@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-06-2024 14:35:31"
+        "download_time": "21-06-2024 14:50:33"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14588,7 +14588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14613,7 +14613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Pazzion\u2666TERMINAL 1\u2666Airside\u2666#02-30AF\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14633,7 +14633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14643,7 +14643,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-181\u2666MC\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14658,7 +14663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Under Armour\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-21",
