@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-06-2024 12:06:17"
+        "download_time": "21-06-2024 12:20:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14593,7 +14593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14617,13 +14617,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "Sunglass Hut (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-28\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "Travelex T2 DT North (Satellite)\u2666TERMINAL 2\u2666Airside\u2666#02-150A\u2666MC\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-21",
@@ -14633,7 +14638,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-21",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-21",
