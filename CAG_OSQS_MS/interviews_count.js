@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "21-06-2024 19:50:31"
+        "download_time": "21-06-2024 20:06:45"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -1127,7 +1127,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "Bee Cheng Hiang (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#026-135 (#02-199)\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -1152,7 +1162,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-21",
+        "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-21",
+        "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT",
         "Number of interviews": 1
     },
     {
