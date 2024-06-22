@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "22-06-2024 21:05:35"
+        "download_time": "22-06-2024 21:20:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14698,7 +14698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-22",
         "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-22",
@@ -14708,12 +14708,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-22",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-22",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-22",
@@ -14799,6 +14799,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-22",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-06-22",
+        "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-06-22",
