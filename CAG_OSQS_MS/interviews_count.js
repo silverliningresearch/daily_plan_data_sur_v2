@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "22-06-2024 15:50:35"
+        "download_time": "22-06-2024 16:06:45"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -1322,6 +1322,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-22",
+        "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-22",
         "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD",
         "Number of interviews": 1
     },
@@ -1357,12 +1362,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-22",
+        "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-22",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-22",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-22",
+        "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP",
         "Number of interviews": 1
     }
 ]    
