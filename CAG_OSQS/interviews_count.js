@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-06-2024 19:20:44"
+        "download_time": "23-06-2024 19:36:05"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -14848,12 +14848,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-23",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-23",
         "quota_id": "ANJAPPAR AND KAILASH PARBAT\u2666TERMINAL 1\u2666Landside\u2666#03-20\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-23",
@@ -14888,7 +14888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-23",
         "quota_id": "Penang Culture and Woke Ramen\u2666TERMINAL 1\u2666Landside\u2666#03-19\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-06-23",
@@ -14913,7 +14913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-23",
         "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-23",
