@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-06-2024 11:51:09"
+        "download_time": "25-06-2024 12:07:16"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15032,6 +15032,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-25",
+        "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-25",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
         "Number of interviews": 3
     },
@@ -15057,6 +15062,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-25",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-25",
         "quota_id": "Lululemon\u2666TERMINAL 3\u2666Airside\u2666#02-50A\u2666MP\u2666Min8",
         "Number of interviews": 8
     },
@@ -15068,7 +15078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-25",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-06-25",
