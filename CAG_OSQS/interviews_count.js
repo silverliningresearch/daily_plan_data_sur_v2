@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-06-2024 12:35:45"
+        "download_time": "26-06-2024 12:50:55"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15147,8 +15147,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-26",
+        "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-26",
         "quota_id": "Hermes\u2666TERMINAL 1\u2666Airside\u2666#02-55/56\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-26",
+        "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15183,7 +15193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-26",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15199,6 +15209,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-26",
         "quota_id": "Sift & Pick \u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-06-26",
+        "quota_id": "T2 UOB Bank\u2666TERMINAL 2\u2666Landside\u2666#B1-52 (#B16-017)\u2666MC\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-26",
