@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-06-2024 14:35:32"
+        "download_time": "26-06-2024 14:50:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15148,7 +15148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-26",
         "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666JW\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15158,7 +15158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-26",
         "quota_id": "Guardian (Premises B) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-29\u2666PH\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15194,6 +15194,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-26",
         "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-06-26",
+        "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15238,7 +15243,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-26",
         "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-06-26",
@@ -15268,7 +15273,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-26",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-06-26",
+        "quota_id": "UOB T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-06-26",
