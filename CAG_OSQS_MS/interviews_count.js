@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "28-06-2024 22:50:33"
+        "download_time": "28-06-2024 23:05:32"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -2007,6 +2007,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-28",
+        "quota_id": "Asian Street Kitchen\u2666TERMINAL 2\u2666Airside\u2666#02-170\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1
     },
@@ -2033,6 +2038,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-28",
         "quota_id": "Burberry\u2666TERMINAL 3\u2666Airside\u2666#02-20\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
+        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -2102,12 +2112,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-28",
+        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
         "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-28",
         "quota_id": "Longchamp\u2666TERMINAL 3\u2666Airside\u2666#02-04\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
+        "quota_id": "Luke's Lobster\u2666TERMINAL 2\u2666Airside\u2666#02-179\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -2198,6 +2218,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-28",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
+        "quota_id": "Yakun Kaya Toast\u2666TERMINAL 2\u2666Airside\u2666#02-803\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-28",
+        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL",
         "Number of interviews": 1
     }
 ]    
