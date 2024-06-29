@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-06-2024 15:51:27"
+        "download_time": "29-06-2024 16:07:10"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15732,7 +15732,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-29",
+        "quota_id": "Archipelago Craft Brew House\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-29",
         "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-29",
+        "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -15779,6 +15789,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-29",
         "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-06-29",
+        "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-29",
@@ -15833,6 +15848,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-06-29",
         "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-29",
+        "quota_id": "Starbucks\u2666TERMINAL 2\u2666Airside\u2666#026-095-06\u2666FBA\u2666Min8",
         "Number of interviews": 1
     },
     {
