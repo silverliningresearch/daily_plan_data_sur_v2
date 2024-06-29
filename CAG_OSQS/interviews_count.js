@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-06-2024 15:36:09"
+        "download_time": "29-06-2024 15:51:27"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15762,6 +15762,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-06-29",
+        "quota_id": "Charles & Keith\u2666TERMINAL 2\u2666Airside\u2666#02-234 (#026-057)\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-06-29",
         "quota_id": "Chopstix & Rice and Taiwan Culture\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -15799,6 +15804,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-29",
         "quota_id": "Maison de Chronus (Premises A1) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-51\u2666LX\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-06-29",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-29",
@@ -15854,6 +15864,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-29",
         "quota_id": "The Cocoa Trees (Premises C1) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-27\u2666CCD\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-06-29",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-06-29",
