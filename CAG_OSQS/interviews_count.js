@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "01-07-2024 16:22:51"
+        "download_time": "01-07-2024 16:35:01"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -15953,7 +15953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-01",
@@ -15968,7 +15968,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-01",
@@ -15983,7 +15983,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-01",
@@ -15993,7 +15993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-01",
@@ -16003,7 +16003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-01",
         "quota_id": "Under Armour\u2666TERMINAL 1\u2666Airside\u2666#02-27\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
