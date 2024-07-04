@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "04-07-2024 16:35:20"
+        "download_time": "04-07-2024 16:50:33"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -2792,7 +2792,32 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-04",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-25)\u2666TERMINAL 1\u2666Airside\u2666#02-25\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-04",
+        "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-04",
+        "quota_id": "Sunglass Hut (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-04",
         "quota_id": "The Killiney Experience\u2666TERMINAL 1\u2666Airside\u2666#02-K12\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-04",
+        "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-04",
+        "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP",
         "Number of interviews": 1
     }
 ]    
