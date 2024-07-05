@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "05-07-2024 18:50:28"
+        "download_time": "05-07-2024 19:05:23"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3022,6 +3022,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-05",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-05",
         "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA",
         "Number of interviews": 1
     },
@@ -3037,12 +3042,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-05",
+        "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-05",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-05",
         "quota_id": "Gourmet Sarawak\u2666TERMINAL 3\u2666Airside\u2666#02-K5\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-05",
+        "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -3078,6 +3093,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-05",
         "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-05",
+        "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC",
         "Number of interviews": 1
     },
     {
