@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "06-07-2024 10:50:41"
+        "download_time": "06-07-2024 11:05:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -16268,7 +16268,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-06",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-06",
@@ -16283,7 +16283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-06",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-06",
@@ -16294,6 +16294,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-07-06",
         "quota_id": "UOB T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K27\u2666MC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-07-06",
+        "quota_id": "UOB T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
