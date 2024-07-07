@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "07-07-2024 19:51:10"
+        "download_time": "07-07-2024 20:07:00"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -286,13 +286,7 @@ let interview_statistics  = `[
         "InterviewDate": "04-07-2024",
         "quota_id": "T4_3K_DPS",
         "interviewerID": "04",
-        "Number of interviews": 9
-    },
-    {
-        "InterviewDate": "04-07-2024",
-        "quota_id": "T4_3K_KUL",
-        "interviewerID": "04",
-        "Number of interviews": 1
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "04-07-2024",
@@ -374,12 +368,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "05-07-2024",
-        "quota_id": "T2_SQ_HND",
-        "interviewerID": "-",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "05-07-2024",
         "quota_id": "T1_EK_DXB",
         "interviewerID": "02",
         "Number of interviews": 3
@@ -440,6 +428,12 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "05-07-2024",
+        "quota_id": "T2_EK_DXB",
+        "interviewerID": "02",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "05-07-2024",
         "quota_id": "T2_SQ_HKG",
         "interviewerID": "04",
         "Number of interviews": 1
@@ -484,7 +478,7 @@ let interview_statistics  = `[
         "InterviewDate": "05-07-2024",
         "quota_id": "T2_SQ_HND",
         "interviewerID": "12",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "05-07-2024",
@@ -503,12 +497,6 @@ let interview_statistics  = `[
         "quota_id": "T2_SQ_PEN",
         "interviewerID": "12",
         "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "05-07-2024",
-        "quota_id": "T2_EK_DXB",
-        "interviewerID": "X",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "06-07-2024",
