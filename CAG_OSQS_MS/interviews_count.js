@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "09-07-2024 20:35:31"
+        "download_time": "09-07-2024 20:50:19"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3267,12 +3267,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-09",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
         "quota_id": "Coffee Cart\u2666TERMINAL 3\u2666Airside\u2666#02-CC (outside A13)\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "Decathlon\u2666TERMINAL 3\u2666Airside\u2666#Event Space EA(6)\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Discover Singapore (Premises E) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-63\u2666SV",
         "Number of interviews": 1
     },
     {
@@ -3307,6 +3317,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-09",
+        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
         "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA",
         "Number of interviews": 1
     },
@@ -3318,6 +3333,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL",
         "Number of interviews": 1
     },
     {
