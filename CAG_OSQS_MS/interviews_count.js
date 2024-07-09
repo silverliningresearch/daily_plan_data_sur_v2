@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "09-07-2024 21:20:16"
+        "download_time": "09-07-2024 21:35:19"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3332,12 +3332,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-09",
+        "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
         "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW",
         "Number of interviews": 1
     },
     {
@@ -3368,6 +3378,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC",
         "Number of interviews": 1
     },
     {
@@ -3418,6 +3433,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "The Green Market\u2666TERMINAL 2\u2666Airside\u2666#036-083\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 3\u2666Airside\u2666#02-56\u2666PC",
         "Number of interviews": 1
     }
 ]    
