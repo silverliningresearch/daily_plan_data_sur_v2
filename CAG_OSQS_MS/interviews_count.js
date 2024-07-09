@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "09-07-2024 21:05:17"
+        "download_time": "09-07-2024 21:20:16"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3272,6 +3272,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-09",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 3\u2666Airside\u2666#02-64\u2666CCD",
         "Number of interviews": 1
     },
@@ -3367,6 +3372,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-09",
+        "quota_id": "Pret A Manger\u2666TERMINAL 3\u2666Airside\u2666#02-59\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP",
         "Number of interviews": 1
     },
@@ -3378,6 +3388,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-09",
         "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Sony\u2666TERMINAL 3\u2666Airside\u2666#02-62\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-09",
+        "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL",
         "Number of interviews": 1
     },
     {
