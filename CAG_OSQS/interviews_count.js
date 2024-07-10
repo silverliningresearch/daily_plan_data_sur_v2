@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-07-2024 11:05:31"
+        "download_time": "10-07-2024 11:20:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -16597,6 +16597,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-10",
+        "quota_id": "BEE CHENG HIANG\u2666TERMINAL 1\u2666Airside\u2666#02-K24\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-10",
         "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
         "Number of interviews": 8
     },
@@ -16608,7 +16613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-10",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-10",
@@ -16618,11 +16623,16 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-10",
         "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-07-10",
         "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-10",
+        "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
         "Number of interviews": 1
     },
     {
