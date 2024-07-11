@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "11-07-2024 18:50:23"
+        "download_time": "11-07-2024 19:05:57"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3632,12 +3632,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-11",
+        "quota_id": "Boost Juice\u2666TERMINAL 2\u2666Airside\u2666#02-K16\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
         "quota_id": "Burger King\u2666TERMINAL 1\u2666Airside\u2666#03-02\u2666FBA",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-11",
         "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
+        "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -3712,7 +3722,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-11",
+        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA",
         "Number of interviews": 1
     },
     {
@@ -3733,6 +3753,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-11",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC",
         "Number of interviews": 1
     },
     {
