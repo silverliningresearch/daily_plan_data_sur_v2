@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "11-07-2024 12:20:19"
+        "download_time": "11-07-2024 12:35:30"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3627,6 +3627,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-11",
+        "quota_id": "Crystal Jade La Mian Xiao Long Bao\u2666TERMINAL 1\u2666Airside\u2666#03-54\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
         "quota_id": "GHN4\u2666TERMINAL 3\u2666Airside\u2666GHN4 (B1-4)\u2666FBA",
         "Number of interviews": 1
     },
@@ -3638,6 +3643,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-11",
         "quota_id": "GHSS4\u2666TERMINAL 3\u2666Airside\u2666GHSS4 (A16-20)\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
+        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA",
         "Number of interviews": 1
     },
     {
