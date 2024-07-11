@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "11-07-2024 22:07:19"
+        "download_time": "11-07-2024 22:20:25"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -3677,6 +3677,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-11",
+        "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
         "quota_id": "Dunkin\u2019 Donuts\u2666TERMINAL 2\u2666Airside\u2666#02-K14\u2666FBA",
         "Number of interviews": 1
     },
@@ -3698,6 +3703,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-11",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-11",
+        "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD",
         "Number of interviews": 1
     },
     {
