@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "12-07-2024 11:35:18"
+        "download_time": "12-07-2024 11:50:42"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -16838,7 +16838,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-12",
         "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-07-12",
@@ -16867,8 +16867,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-12",
+        "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-12",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-12",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-12",
