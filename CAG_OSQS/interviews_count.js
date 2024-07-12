@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "12-07-2024 16:50:57"
+        "download_time": "12-07-2024 17:05:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -16823,12 +16823,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-12",
         "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-12",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-12",
@@ -16913,12 +16913,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-12",
         "quota_id": "UOB T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-12",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-07-12",
