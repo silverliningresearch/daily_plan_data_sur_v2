@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "13-07-2024 20:35:53"
+        "download_time": "13-07-2024 20:51:05"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4077,6 +4077,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-13",
+        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-13",
         "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT",
         "Number of interviews": 1
     },
@@ -4132,6 +4137,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-13",
+        "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-13",
         "quota_id": "Pezzo\u2666TERMINAL 1\u2666Airside\u2666#02-K09N\u2666FBA",
         "Number of interviews": 1
     },
@@ -4153,6 +4163,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-13",
         "quota_id": "Scarves & Glitter, House of Kashkha\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-13",
+        "quota_id": "Singapore Food Street\u2666TERMINAL 3\u2666Airside\u2666#03-11R\u2666FBA",
         "Number of interviews": 1
     },
     {
