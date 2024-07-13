@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "13-07-2024 19:20:53"
+        "download_time": "13-07-2024 19:35:47"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4002,6 +4002,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-13",
+        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-13",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX",
         "Number of interviews": 1
     },
@@ -4188,6 +4193,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-13",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-13",
+        "quota_id": "The Hainan Story Coffee & Toast\u2666TERMINAL 2\u2666Airside\u2666#02-K11\u2666FBA",
         "Number of interviews": 1
     },
     {
