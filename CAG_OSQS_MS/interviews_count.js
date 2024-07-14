@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "14-07-2024 22:06:33"
+        "download_time": "14-07-2024 22:20:25"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4337,6 +4337,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC",
         "Number of interviews": 1
     },
@@ -4352,7 +4357,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Samsonite\u2666TERMINAL 2\u2666Airside\u2666#02-190\u2666MP",
         "Number of interviews": 1
     },
     {
@@ -4408,6 +4428,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "iStudio\u2666TERMINAL 1\u2666Airside\u2666#02-13F\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD",
         "Number of interviews": 1
     }
 ]    
