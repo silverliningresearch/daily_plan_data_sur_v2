@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-07-2024 17:05:52"
+        "download_time": "14-07-2024 17:20:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -17093,12 +17093,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "CHAGEE (AMPS TEA)\u2666TERMINAL 2\u2666Landside\u2666#02-06\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "CHEERS\u2666TERMINAL 1\u2666Landside\u2666#02-05A\u2666LS\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-14",
@@ -17108,7 +17113,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-14",
