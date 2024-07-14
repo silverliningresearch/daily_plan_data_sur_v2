@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "14-07-2024 22:20:25"
+        "download_time": "14-07-2024 22:35:25"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4297,7 +4297,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -4313,6 +4323,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "Gucci\u2666TERMINAL 2\u2666Airside\u2666#02-223\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -4337,7 +4352,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX",
         "Number of interviews": 1
     },
     {
@@ -4382,6 +4412,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL",
         "Number of interviews": 1
     },
@@ -4413,6 +4448,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Unity\u2666TERMINAL 2\u2666Airside\u2666#02-192\u2666PH",
         "Number of interviews": 1
     },
     {
