@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "14-07-2024 20:20:52"
+        "download_time": "14-07-2024 20:35:34"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4272,6 +4272,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Bvlgari\u2666TERMINAL 1\u2666Airside\u2666#02-12\u2666LX",
         "Number of interviews": 1
     },
@@ -4282,12 +4287,27 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "Guardian (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-16\u2666PH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Irvins Salted Egg\u2666TERMINAL 3\u2666Airside\u2666#02-43A\u2666CCD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT",
         "Number of interviews": 1
     },
     {
@@ -4298,6 +4318,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "Louis Vuitton\u2666TERMINAL 3\u2666Airside\u2666#02-36A(F) & 03-07A(F)\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC",
         "Number of interviews": 1
     },
     {
