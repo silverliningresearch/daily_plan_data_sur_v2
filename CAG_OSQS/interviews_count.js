@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-07-2024 12:06:04"
+        "download_time": "14-07-2024 12:20:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -17067,6 +17067,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -17082,13 +17087,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-14",
+        "quota_id": "MA MUM\u2666TERMINAL 4\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-14",
         "quota_id": "Old Street Bak Kut Teh\u2666TERMINAL 4\u2666Landside\u2666#01-10\u2666FBL\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-14",
         "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-14",
@@ -17099,6 +17109,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-07-14",
         "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-07-14",
+        "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-14",
