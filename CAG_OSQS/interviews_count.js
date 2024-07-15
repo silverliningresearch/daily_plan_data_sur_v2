@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-07-2024 11:35:19"
+        "download_time": "15-07-2024 11:50:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -17197,12 +17197,37 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-15",
+        "quota_id": "CHEERS\u2666TERMINAL 3\u2666Landside\u2666#02-98\u2666LS\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-07-15",
+        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-07-15",
         "quota_id": "GHSS4\u2666TERMINAL 3\u2666Airside\u2666GHSS4 (A16-20)\u2666FBA\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-07-15",
+        "quota_id": "GODIVA Chocolatier\u2666TERMINAL 3\u2666Landside\u2666#02-94\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-15",
+        "quota_id": "LLAOLLAO / TP TEA / KRISPY KREME\u2666TERMINAL 3\u2666Landside\u2666#02-93\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-15",
         "quota_id": "Premises F - Baggage Storage by Smarte Carte\u2666TERMINAL 3\u2666Airside\u2666#02-68/69\u2666BS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-15",
+        "quota_id": "Simply Toys\u2666TERMINAL 3\u2666Landside\u2666#02-95/96\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
     {
