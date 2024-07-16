@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "16-07-2024 20:07:17"
+        "download_time": "16-07-2024 20:21:32"
     },
     {
         "InterviewDate": "2024-06-10",
@@ -4672,6 +4672,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-16",
+        "quota_id": "Bvlgari\u2666TERMINAL 3\u2666Airside\u2666#02-45-02\u2666LX",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-16",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX",
         "Number of interviews": 1
     },
@@ -4737,6 +4742,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-16",
+        "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-16",
         "quota_id": "Longchamp\u2666TERMINAL 2\u2666Airside\u2666#02-215\u2666MP",
         "Number of interviews": 1
     },
@@ -4778,6 +4788,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-16",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-16",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC",
         "Number of interviews": 1
     },
     {
