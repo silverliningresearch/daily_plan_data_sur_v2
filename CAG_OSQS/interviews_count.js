@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-07-2024 11:51:08"
+        "download_time": "18-07-2024 12:07:00"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -17637,8 +17637,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-18",
+        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-07-18",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 17
+    },
+    {
+        "InterviewDate": "2024-07-18",
+        "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-07-18",
@@ -17648,12 +17658,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-18",
         "quota_id": "SWENSEN'S\u2666TERMINAL 3\u2666Landside\u2666#B2-31/ 32\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-18",
         "quota_id": "iTEA Premium\u2666TERMINAL 3\u2666Landside\u2666#B2-30\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-07-18",
+        "quota_id": "myEureka\u2666TERMINAL 2\u2666Airside\u2666#02-181\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
