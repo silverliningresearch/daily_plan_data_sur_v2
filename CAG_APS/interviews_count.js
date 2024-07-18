@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "18-07-2024 16:51:55"
+        "download_time": "18-07-2024 17:06:45"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -1420,7 +1420,7 @@ let interview_statistics  = `[
         "InterviewDate": "15-07-2024",
         "quota_id": "T2_SQ_HKT",
         "interviewerID": "02",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "15-07-2024",
@@ -1445,6 +1445,12 @@ let interview_statistics  = `[
         "quota_id": "T2_SQ_PNH",
         "interviewerID": "02",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "15-07-2024",
+        "quota_id": "T2_SQ_SIN",
+        "interviewerID": "02 ",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "15-07-2024",
@@ -1528,25 +1534,13 @@ let interview_statistics  = `[
         "InterviewDate": "15-07-2024",
         "quota_id": "T1_CZ_SZX",
         "interviewerID": "12",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "15-07-2024",
-        "quota_id": "T1_CZz_SZX",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "15-07-2024",
-        "quota_id": "T1_PE_USM",
-        "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "15-07-2024",
         "quota_id": "T1_PG_USM",
         "interviewerID": "12",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "15-07-2024",
@@ -1589,18 +1583,6 @@ let interview_statistics  = `[
         "quota_id": "T3_SQ_SYD",
         "interviewerID": "12",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "15-07-2024",
-        "quota_id": "T2_SI_SIN",
-        "interviewerID": "Good ",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "15-07-2024",
-        "quota_id": "T2_SQ_PHU",
-        "interviewerID": "Nil",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "16-07-2024",
