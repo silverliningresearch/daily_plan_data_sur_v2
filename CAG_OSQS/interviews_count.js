@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-07-2024 08:07:22"
+        "download_time": "21-07-2024 08:20:43"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -17982,6 +17982,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-21",
+        "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-21",
         "quota_id": "Omega\u2666TERMINAL 2\u2666Airside\u2666#02-233\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -17993,12 +17998,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-21",
         "quota_id": "Saint Laurent\u2666TERMINAL 2\u2666Airside\u2666#02-225-02\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-21",
         "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-07-21",
+        "quota_id": "Tod's\u2666TERMINAL 2\u2666Airside\u2666#02-225-01\u2666LX\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
