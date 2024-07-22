@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "22-07-2024 16:07:46"
+        "download_time": "22-07-2024 16:20:53"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18103,7 +18103,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-22",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-22",
@@ -18118,7 +18118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-22",
         "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-22",
