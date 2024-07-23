@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-07-2024 12:21:20"
+        "download_time": "23-07-2024 12:36:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18142,6 +18142,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-23",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-23",
         "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8",
         "Number of interviews": 5
     },
@@ -18173,7 +18178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18187,8 +18192,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-23",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-07-23",
+        "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-23",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18204,6 +18219,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-07-23",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-07-23",
+        "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
