@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-07-2024 13:22:11"
+        "download_time": "23-07-2024 13:36:23"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18158,7 +18158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Bacha Coffee (DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-195\u2666CCD\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18198,7 +18198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18248,7 +18248,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-07-23",
+        "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
