@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-07-2024 15:51:31"
+        "download_time": "23-07-2024 16:07:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18143,12 +18143,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18203,7 +18203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Garrett Popcorn Shops\u2666TERMINAL 2\u2666Airside\u2666#02-164 (#026-095-05R)\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18213,7 +18213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18223,7 +18223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18268,7 +18268,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-23",
