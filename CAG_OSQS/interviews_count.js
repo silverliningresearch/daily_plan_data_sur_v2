@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-07-2024 16:51:23"
+        "download_time": "23-07-2024 17:06:18"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18148,7 +18148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18188,7 +18188,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18208,7 +18208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-23",
@@ -18228,7 +18228,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Lacoste\u2666TERMINAL 2\u2666Airside\u2666#02-163 (#026-098-01)\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-23",
