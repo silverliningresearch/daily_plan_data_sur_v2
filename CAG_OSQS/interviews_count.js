@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "23-07-2024 15:21:34"
+        "download_time": "23-07-2024 15:36:15"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18167,6 +18167,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-23",
+        "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-23",
         "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -18237,6 +18242,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-23",
+        "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-23",
         "quota_id": "Papparich\u2666TERMINAL 4\u2666Landside\u2666#02-203A\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -18248,7 +18258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-23",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 13
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-07-23",
