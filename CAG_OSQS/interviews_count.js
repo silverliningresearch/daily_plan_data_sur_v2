@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-07-2024 20:51:46"
+        "download_time": "24-07-2024 21:06:47"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18393,7 +18393,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-07-24",
@@ -18468,7 +18468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-07-24",
@@ -18513,7 +18513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-24",
