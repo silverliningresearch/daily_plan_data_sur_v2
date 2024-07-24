@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-07-2024 20:21:37"
+        "download_time": "24-07-2024 20:36:18"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18368,7 +18368,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-07-24",
@@ -18398,7 +18398,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "Ferragamo\u2666TERMINAL 2\u2666Airside\u2666#02-222 (#026-078E)\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-24",
@@ -18423,7 +18423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-07-24",
@@ -18443,7 +18443,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-24",
         "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-24",
