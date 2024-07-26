@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-07-2024 13:21:33"
+        "download_time": "26-07-2024 13:36:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18703,7 +18703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "7-Eleven (T3)\u2666TERMINAL 3\u2666Airside\u2666#03-12\u2666CS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-26",
@@ -18713,7 +18713,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-26",
@@ -18748,7 +18748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-07-26",
@@ -18798,7 +18798,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-07-26",
