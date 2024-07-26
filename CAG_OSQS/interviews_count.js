@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-07-2024 11:21:46"
+        "download_time": "26-07-2024 11:36:34"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18713,7 +18713,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-07-26",
@@ -18728,7 +18728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-26",
         "quota_id": "Luvenus\u2666TERMINAL 2\u2666Airside\u2666#02-154\u2666JW\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-07-26",
@@ -18754,6 +18754,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-07-26",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-07-26",
+        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "Number of interviews": 1
     }
 ]    
 
