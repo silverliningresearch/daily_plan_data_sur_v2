@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-07-2024 14:35:26"
+        "download_time": "28-07-2024 14:50:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18993,7 +18993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-28",
         "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-28",
@@ -19043,7 +19043,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-28",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-07-28",
@@ -19062,8 +19062,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-28",
+        "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-07-28",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
-        "Number of interviews": 15
+        "Number of interviews": 16
     },
     {
         "InterviewDate": "2024-07-28",
