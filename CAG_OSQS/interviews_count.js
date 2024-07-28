@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-07-2024 12:06:48"
+        "download_time": "28-07-2024 12:20:26"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -18982,8 +18982,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-07-28",
-        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
+        "quota_id": "Bacha Coffee\u2666TERMINAL 1\u2666Airside\u2666#02-15A\u2666CCD\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-07-28",
+        "quota_id": "Giordano\u2666TERMINAL 1\u2666Airside\u2666#02-19N\u2666MP\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-28",
@@ -18993,7 +18998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-28",
         "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-07-28",
@@ -19018,7 +19023,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-07-28",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-07-28",
+        "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
