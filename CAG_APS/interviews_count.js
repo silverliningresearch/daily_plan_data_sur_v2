@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "29-07-2024 20:36:13"
+        "download_time": "29-07-2024 20:51:11"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -790,7 +790,7 @@ let interview_statistics  = `[
         "InterviewDate": "08-07-2024",
         "quota_id": "T4_AK_IPH",
         "interviewerID": "03",
-        "Number of interviews": 8
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "08-07-2024",
@@ -873,6 +873,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "08-07-2024",
         "quota_id": "T4_3K_PNH",
+        "interviewerID": "999\n",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "08-07-2024",
+        "quota_id": "T4_AK_IPH",
         "interviewerID": "999\n",
         "Number of interviews": 1
     },
@@ -1016,15 +1022,9 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "10-07-2024",
-        "quota_id": "T4_3K_SUB",
-        "interviewerID": "03",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "10-07-2024",
         "quota_id": "T4_AK_PEN",
         "interviewerID": "03",
-        "Number of interviews": 7
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "10-07-2024",
@@ -1048,7 +1048,7 @@ let interview_statistics  = `[
         "InterviewDate": "10-07-2024",
         "quota_id": "T4_HU_HAK",
         "interviewerID": "03",
-        "Number of interviews": 5
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "10-07-2024",
@@ -1114,6 +1114,24 @@ let interview_statistics  = `[
         "InterviewDate": "10-07-2024",
         "quota_id": "T1_CA_CKG",
         "interviewerID": "999",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10-07-2024",
+        "quota_id": "T4_3K_SUB",
+        "interviewerID": "999\n",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10-07-2024",
+        "quota_id": "T4_AK_PEN",
+        "interviewerID": "999\n",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "10-07-2024",
+        "quota_id": "T4_HU_HAK",
+        "interviewerID": "999\n",
         "Number of interviews": 1
     },
     {
