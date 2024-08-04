@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "04-08-2024 12:36:52"
+        "download_time": "04-08-2024 12:50:50"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -19478,7 +19478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-04",
         "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-04",
@@ -19503,7 +19503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-04",
         "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-04",
@@ -19513,7 +19513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-04",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-04",
