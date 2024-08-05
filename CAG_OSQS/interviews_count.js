@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "05-08-2024 13:50:57"
+        "download_time": "05-08-2024 14:06:53"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -19538,17 +19538,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-05",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 12
-    },
-    {
-        "InterviewDate": "2024-08-05",
-        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
         "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-08-05",
+        "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
+        "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2024-08-05",
         "quota_id": "Avenue Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161 (#026-97)\u2666CT\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-08-05",
