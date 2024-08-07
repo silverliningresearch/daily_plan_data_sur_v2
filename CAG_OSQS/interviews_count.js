@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "07-08-2024 13:36:48"
+        "download_time": "07-08-2024 13:51:34"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -19643,7 +19643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-07",
         "quota_id": "BENGAWAN SOLO\u2666TERMINAL 3\u2666Landside\u2666#02-85\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-07",
@@ -19668,7 +19668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-07",
         "quota_id": "Maison de Chronus (Premises A2) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-07",
@@ -19678,17 +19678,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-07",
         "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-07",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-07",
         "quota_id": "THE COCOA TREES\u2666TERMINAL 3\u2666Landside\u2666#02-84B\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-07",
