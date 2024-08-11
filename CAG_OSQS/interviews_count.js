@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-08-2024 17:36:09"
+        "download_time": "11-08-2024 17:51:44"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20168,7 +20168,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-11",
         "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-11",
@@ -20188,7 +20188,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-11",
         "quota_id": "Burger King\u2666TERMINAL 4\u2666Landside\u2666#02-204\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-11",
@@ -20213,7 +20213,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-11",
         "quota_id": "KOPITIAM\u2666TERMINAL 4\u2666Landside\u2666#02-205\u2666FBL\u2666Min25",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-11",
@@ -20248,12 +20248,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-11",
         "quota_id": "SUBWAY\u2666TERMINAL 3\u2666Landside\u2666#B2-26\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-11",
         "quota_id": "SUPERFOOD KITCHEN\u2666TERMINAL 3\u2666Landside\u2666#B2-25\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-11",
