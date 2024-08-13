@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-08-2024 13:51:50"
+        "download_time": "13-08-2024 14:08:20"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20428,7 +20428,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-13",
@@ -20453,12 +20453,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-08-13",
+        "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-13",
@@ -20478,6 +20483,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "Luvenus\u2666TERMINAL 3\u2666Airside\u2666#02-K11\u2666JW\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-08-13",
+        "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -20493,7 +20503,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2024-08-13",
@@ -20523,7 +20533,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-13",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-08-13",
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-13",
