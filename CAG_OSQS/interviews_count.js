@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-08-2024 13:51:40"
+        "download_time": "14-08-2024 14:07:29"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20588,7 +20588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20603,7 +20603,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Irvin's Salted Egg (Pushcart)\u2666TERMINAL 4\u2666Airside\u2666#Pushcart\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20613,7 +20613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20669,6 +20669,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-14",
         "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-14",
+        "quota_id": "UOB T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
+        "Number of interviews": 2
     }
 ]    
 
