@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "14-08-2024 11:37:10"
+        "download_time": "14-08-2024 11:52:39"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -2338,31 +2338,19 @@ let interview_statistics  = `[
         "InterviewDate": "13-08-2024",
         "quota_id": "T1_TR_KUL",
         "interviewerID": "12",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "13-08-2024",
         "quota_id": "T1_TR_WUH",
         "interviewerID": "12",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "13-08-2024",
         "quota_id": "T1_TR_XIY",
         "interviewerID": "12",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "13-08-2024",
-        "quota_id": "T1_TRr_KUL",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "13-08-2024",
-        "quota_id": "T1_TRr_WUH",
-        "interviewerID": "12",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "13-08-2024",
@@ -2374,7 +2362,7 @@ let interview_statistics  = `[
         "InterviewDate": "13-08-2024",
         "quota_id": "T2_SQ_CGK",
         "interviewerID": "12",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "13-08-2024",
@@ -2386,12 +2374,6 @@ let interview_statistics  = `[
         "InterviewDate": "13-08-2024",
         "quota_id": "T2_SQ_MNL",
         "interviewerID": "Good",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "13-08-2024",
-        "quota_id": "T2_SQ_JKT",
-        "interviewerID": "Ok ",
         "Number of interviews": 1
     },
     {
@@ -2452,13 +2434,7 @@ let interview_statistics  = `[
         "InterviewDate": "14-08-2024",
         "quota_id": "T1_MF_XMN",
         "interviewerID": "02",
-        "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "14-08-2024",
-        "quota_id": "T1_MFf_XMN",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "14-08-2024",
