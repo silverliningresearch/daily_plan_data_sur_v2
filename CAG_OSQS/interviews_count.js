@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-08-2024 15:36:29"
+        "download_time": "14-08-2024 15:51:44"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20583,7 +20583,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20593,7 +20593,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20648,7 +20648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20658,7 +20658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Qeelin\u2666TERMINAL 1\u2666Airside\u2666#02-78\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-14",
@@ -20673,7 +20673,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-14",
         "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-14",
