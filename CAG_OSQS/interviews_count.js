@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-08-2024 13:06:55"
+        "download_time": "15-08-2024 13:21:24"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20683,7 +20683,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-15",
         "quota_id": "Airport Pharmacy\u2666TERMINAL 4\u2666Airside\u2666#02-46\u2666PH\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-08-15",
@@ -20728,7 +20728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-15",
         "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-15",
@@ -20748,7 +20748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-15",
         "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-15",
@@ -20774,6 +20774,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-15",
         "quota_id": "Tip Top Curry Puff\u2666TERMINAL 1\u2666Airside\u2666#02-K11N\u2666FBA\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-15",
+        "quota_id": "YAKUN FAMILY CAFE & BEARD PAPA'S\u2666TERMINAL 3\u2666Landside\u2666#B2-07\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-15",
