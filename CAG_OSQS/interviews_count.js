@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-08-2024 16:21:13"
+        "download_time": "17-08-2024 16:36:42"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20928,7 +20928,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-17",
@@ -20938,7 +20938,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-17",
@@ -20978,7 +20978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "NAM NAM\u2666TERMINAL 3\u2666Landside\u2666#02-91\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-17",
@@ -20988,7 +20988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-17",
@@ -20998,7 +20998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 3\u2666Landside\u2666#02-90\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-08-17",
