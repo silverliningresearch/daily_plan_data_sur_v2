@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-08-2024 11:06:43"
+        "download_time": "17-08-2024 11:21:59"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -20927,6 +20927,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-17",
+        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-17",
         "quota_id": "Irvin's\u2666TERMINAL 4\u2666Airside\u2666#02-71\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -20963,12 +20968,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-17",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-08-17",
+        "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-17",
