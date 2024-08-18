@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-08-2024 10:36:46"
+        "download_time": "18-08-2024 10:51:40"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21082,6 +21082,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-18",
+        "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-18",
+        "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01 & #03-01\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-18",
         "quota_id": "LT T3 Duplex\u2666TERMINAL 3\u2666Airside\u2666#02-37/39E & #03-07/08\u2666LT\u2666Min25",
         "Number of interviews": 15
     },
@@ -21098,7 +21108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-18",
         "quota_id": "Perfumes & Cosmetics (T3 DTC)\u2666TERMINAL 3\u2666Airside\u2666#02-35E & 03-06B (Central)\u2666PC\u2666Min25",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-18",
