@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-08-2024 12:21:54"
+        "download_time": "18-08-2024 12:36:46"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21078,6 +21078,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-18",
         "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-08-18",
+        "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -21087,8 +21092,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-18",
+        "quota_id": "Jinjja Kitchen\u2666TERMINAL 2\u2666Landside\u2666#02-02\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-18",
         "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01 & #03-01\u2666FBL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-18",
+        "quota_id": "Kenangan Coffee\u2666TERMINAL 2\u2666Landside\u2666#02-12\u2666FBL\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-18",
@@ -21108,7 +21123,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-18",
         "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-18",
@@ -21118,7 +21133,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-18",
         "quota_id": "Perfumes & Cosmetics (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-18",
