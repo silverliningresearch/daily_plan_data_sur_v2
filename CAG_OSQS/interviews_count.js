@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "20-08-2024 19:36:47"
+        "download_time": "20-08-2024 19:52:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21328,7 +21328,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-20",
         "quota_id": "Ippudo Express\u2666TERMINAL 2\u2666Airside\u2666#02-K10\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-20",
@@ -21343,7 +21343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-20",
         "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-20",
@@ -21378,7 +21378,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-20",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
