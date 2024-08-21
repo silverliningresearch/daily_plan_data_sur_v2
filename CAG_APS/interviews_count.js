@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "21-08-2024 09:23:00"
+        "download_time": "21-08-2024 09:37:26"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -3304,31 +3304,13 @@ let interview_statistics  = `[
         "InterviewDate": "20-08-2024",
         "quota_id": "T4_5J_MNL",
         "interviewerID": "12",
-        "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "20-08-2024",
-        "quota_id": "T4_CE_MNL",
-        "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "20-08-2024",
         "quota_id": "T4_CX_HKG",
         "interviewerID": "12",
-        "Number of interviews": 12
-    },
-    {
-        "InterviewDate": "20-08-2024",
-        "quota_id": "T4_CXx_HKG",
-        "interviewerID": "12",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "20-08-2024",
-        "quota_id": "T4_QZ_BPS",
-        "interviewerID": "12",
-        "Number of interviews": 1
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "20-08-2024",
@@ -3340,7 +3322,7 @@ let interview_statistics  = `[
         "InterviewDate": "20-08-2024",
         "quota_id": "T4_QZ_DPS",
         "interviewerID": "12",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "20-08-2024",
@@ -3350,7 +3332,7 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "20-08-2024",
-        "quota_id": "T4_QZ_DPZ",
+        "quota_id": "T4_QZ_DPS",
         "interviewerID": "Jon",
         "Number of interviews": 1
     },
@@ -3400,6 +3382,12 @@ let interview_statistics  = `[
         "InterviewDate": "21-07-2024",
         "quota_id": "T2_IX_IXM",
         "interviewerID": "12",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "21-08-2024",
+        "quota_id": "T1_EK_MEL",
+        "interviewerID": "02",
         "Number of interviews": 3
     },
     {
