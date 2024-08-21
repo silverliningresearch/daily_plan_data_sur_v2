@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "21-08-2024 09:07:23"
+        "download_time": "21-08-2024 09:23:00"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -3266,12 +3266,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "20-08-2024",
-        "quota_id": "T4_AY_HKG",
-        "interviewerID": "/",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "20-08-2024",
         "quota_id": "T1_JL_NRT",
         "interviewerID": "02",
         "Number of interviews": 3
@@ -3322,7 +3316,7 @@ let interview_statistics  = `[
         "InterviewDate": "20-08-2024",
         "quota_id": "T4_CX_HKG",
         "interviewerID": "12",
-        "Number of interviews": 10
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "20-08-2024",
@@ -3353,12 +3347,6 @@ let interview_statistics  = `[
         "quota_id": "T4_VJ_SGN",
         "interviewerID": "12",
         "Number of interviews": 6
-    },
-    {
-        "InterviewDate": "20-08-2024",
-        "quota_id": "T4_CX_HKA",
-        "interviewerID": "Hong Kong ",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "20-08-2024",
