@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-08-2024 10:21:27"
+        "download_time": "24-08-2024 10:36:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21697,6 +21697,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-24",
+        "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-24",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
         "Number of interviews": 10
     },
@@ -21709,6 +21714,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-24",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-08-24",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
