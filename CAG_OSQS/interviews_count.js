@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-08-2024 14:07:50"
+        "download_time": "24-08-2024 14:21:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21728,7 +21728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "Jewel Changi Airport Attractions Ticketing\u2666TERMINAL 2\u2666Landside\u2666#01-K12\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-24",
@@ -21742,13 +21742,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-24",
+        "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-24",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-24",
