@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-08-2024 12:22:42"
+        "download_time": "24-08-2024 12:36:27"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21703,7 +21703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "Chopstix & Rice and Taiwan Culture\u2666TERMINAL 2\u2666Landside\u2666#03-11/12\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-24",
@@ -21727,6 +21727,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-24",
+        "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-08-24",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
         "Number of interviews": 10
     },
@@ -21739,6 +21744,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-24",
         "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-08-24",
+        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
