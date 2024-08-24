@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "24-08-2024 18:36:16"
+        "download_time": "24-08-2024 18:51:05"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21698,7 +21698,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-24",
@@ -21808,7 +21808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-24",
@@ -21823,7 +21823,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-24",
         "quota_id": "WH Smith - Premises C (Land) (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-84\u2666OW\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-24",
