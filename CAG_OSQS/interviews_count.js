@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-08-2024 14:37:53"
+        "download_time": "25-08-2024 14:52:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21843,7 +21843,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21853,7 +21853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21887,6 +21887,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-25",
+        "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-08-25",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
         "Number of interviews": 10
     },
@@ -21908,7 +21913,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-25",
