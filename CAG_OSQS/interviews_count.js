@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-08-2024 15:52:31"
+        "download_time": "25-08-2024 16:09:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21878,7 +21878,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21893,12 +21893,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
-        "Number of interviews": 15
+        "Number of interviews": 18
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21919,6 +21919,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-25",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-08-25",
+        "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-25",
