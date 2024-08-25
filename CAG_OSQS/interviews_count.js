@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-08-2024 15:37:15"
+        "download_time": "25-08-2024 15:52:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21877,6 +21877,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-25",
+        "quota_id": "Kaboom\u2666TERMINAL 2\u2666Airside\u2666#02-162 (#026-098)\u2666CT\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-08-25",
         "quota_id": "LIHO TEA\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
@@ -21888,12 +21893,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21913,7 +21918,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-25",
@@ -21928,7 +21933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-25",
         "quota_id": "Travelex T3 Arr Mtg Hall South\u2666TERMINAL 3\u2666Landside\u2666#01-K9\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-08-25",
