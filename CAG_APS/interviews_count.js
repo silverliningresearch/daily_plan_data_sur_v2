@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "26-08-2024 15:53:00"
+        "download_time": "26-08-2024 16:10:13"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -3368,12 +3368,6 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "21-08-2024",
-        "quota_id": "T2_SQ_DPS",
-        "interviewerID": "-----",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-08-2024",
         "quota_id": "T1_EK_MEL",
         "interviewerID": "02",
         "Number of interviews": 3
@@ -3448,7 +3442,7 @@ let interview_statistics  = `[
         "InterviewDate": "21-08-2024",
         "quota_id": "T4_QZ_DPS",
         "interviewerID": "03",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "21-08-2024",
@@ -3472,7 +3466,7 @@ let interview_statistics  = `[
         "InterviewDate": "21-08-2024",
         "quota_id": "T2_SQ_DPS",
         "interviewerID": "12",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "21-08-2024",
@@ -3484,7 +3478,7 @@ let interview_statistics  = `[
         "InterviewDate": "21-08-2024",
         "quota_id": "T2_UA_SFO",
         "interviewerID": "12",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "21-08-2024",
@@ -3503,24 +3497,6 @@ let interview_statistics  = `[
         "quota_id": "T3_SQ_PVG",
         "interviewerID": "12",
         "Number of interviews": 5
-    },
-    {
-        "InterviewDate": "21-08-2024",
-        "quota_id": "T4_QZ_DPS",
-        "interviewerID": "Ok",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-08-2024",
-        "quota_id": "T2_UA_SFO",
-        "interviewerID": "Thank you for everything ",
-        "Number of interviews": 1
-    },
-    {
-        "InterviewDate": "21-08-2024",
-        "quota_id": "T2_UA_SFO",
-        "interviewerID": "lol",
-        "Number of interviews": 1
     },
     {
         "InterviewDate": "22-07-2024",
