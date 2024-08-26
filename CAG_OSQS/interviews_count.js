@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-08-2024 15:39:00"
+        "download_time": "26-08-2024 15:52:16"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21993,7 +21993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "Chow Tai Fook\u2666TERMINAL 1\u2666Airside\u2666#02-29\u2666JW\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-26",
@@ -22028,12 +22028,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-26",
@@ -22049,6 +22049,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-26",
         "quota_id": "Natureland Premium\u2666TERMINAL 2\u2666Airside\u2666#03-168\u2666OS\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-08-26",
+        "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-26",
