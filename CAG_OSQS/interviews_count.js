@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-08-2024 13:52:22"
+        "download_time": "26-08-2024 14:08:06"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22017,6 +22017,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-08-26",
+        "quota_id": "I Love Taimei\u2666TERMINAL 1\u2666Airside\u2666#03-53\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-08-26",
         "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
         "Number of interviews": 5
     },
@@ -22028,7 +22033,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
-        "Number of interviews": 11
+        "Number of interviews": 14
+    },
+    {
+        "InterviewDate": "2024-08-26",
+        "quota_id": "SG Hawker\u2666TERMINAL 1\u2666Airside\u2666#03-47/48\u2666FBA\u2666Min25",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-26",
@@ -22039,6 +22049,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-26",
         "quota_id": "TWG Tea Boutique\u2666TERMINAL 1\u2666Airside\u2666#02-14\u2666CCD\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-08-26",
+        "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-08-26",
