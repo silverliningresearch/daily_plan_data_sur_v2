@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-08-2024 15:22:40"
+        "download_time": "26-08-2024 15:39:00"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -21988,7 +21988,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "Bengawan Solo\u2666TERMINAL 1\u2666Airside\u2666#02-15N\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-26",
@@ -22029,6 +22029,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-26",
         "quota_id": "Kaboom\u2666TERMINAL 1\u2666Airside\u2666#02-18N\u2666CT\u2666Min8",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-08-26",
+        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-08-26",
@@ -22073,7 +22078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-26",
         "quota_id": "Times Travel\u2666TERMINAL 1\u2666Airside\u2666#02-30A\u2666CT\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     }
 ]    
 
