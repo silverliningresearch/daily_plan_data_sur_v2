@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "28-08-2024 17:54:01"
+        "download_time": "28-08-2024 18:09:23"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22178,7 +22178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-28",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K9 (beside Starhub)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-08-28",
@@ -22208,7 +22208,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-28",
         "quota_id": "Foodies' Clan\u2666TERMINAL 2\u2666Landside\u2666#0610-ASC\u2666FBL\u2666Min25",
-        "Number of interviews": 12
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2024-08-28",
@@ -22258,7 +22258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-28",
         "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-08-28",
