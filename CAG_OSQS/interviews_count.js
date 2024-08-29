@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "29-08-2024 12:52:11"
+        "download_time": "29-08-2024 13:07:40"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22328,12 +22328,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-29",
         "quota_id": "AVIS BUDGET CAR RENTAL\u2666TERMINAL 3\u2666Landside\u2666#01-K12\u2666LS\u2666Min5",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-29",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-08-29",
@@ -22383,7 +22383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-29",
         "quota_id": "TRAVELLERS\u2666TERMINAL 3\u2666Landside\u2666#01-K17\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-08-29",
@@ -22403,7 +22403,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-08-29",
         "quota_id": "myCarriage\u2666TERMINAL 3\u2666Landside\u2666#01-K13\u2666LS\u2666Min5",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
