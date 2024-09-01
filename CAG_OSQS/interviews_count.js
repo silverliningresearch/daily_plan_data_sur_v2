@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "01-09-2024 11:22:58"
+        "download_time": "01-09-2024 11:38:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22513,7 +22513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-01",
         "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-01",
@@ -22522,8 +22522,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-01",
-        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-01",
+        "quota_id": "T3B2 CSO Counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min25",
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-01",
@@ -22548,7 +22553,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-01",
         "quota_id": "UOB T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-01",
