@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "02-09-2024 18:24:15"
+        "download_time": "02-09-2024 18:38:14"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22628,12 +22628,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-02",
@@ -22663,7 +22663,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "WH Smith - Premises B (Air) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-41C\u2666OW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     }
 ]    
 
