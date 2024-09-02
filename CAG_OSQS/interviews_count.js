@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "02-09-2024 19:23:04"
+        "download_time": "02-09-2024 19:37:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -22603,7 +22603,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "Cafe O\u2666TERMINAL 2\u2666Landside\u2666#02-07/08/09\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-02",
@@ -22613,7 +22613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-02",
@@ -22623,12 +22623,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "Garrett Gold\u2666TERMINAL 1\u2666Airside\u2666#02-32N\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "LACOSTE\u2666TERMINAL 1\u2666Airside\u2666#02-30F\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-02",
@@ -22658,7 +22658,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-02",
         "quota_id": "The Cocoa Trees (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-35N\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-02",
