@@ -4,7 +4,7 @@ let interview_statistics  = `[
         "quota_id": "T1_MF_FOC",
         "interviewerID": "02",
         "Number of interviews": 3,
-        "download_time": "07-09-2024 15:08:57"
+        "download_time": "07-09-2024 15:23:57"
     },
     {
         "InterviewDate": "01-07-2024",
@@ -1694,7 +1694,7 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "06-09-2024",
-        "quota_id": "T1_DF_XIA",
+        "quota_id": "T1_DF_XIY",
         "interviewerID": "Wuyabing",
         "Number of interviews": 1
     },
@@ -1894,13 +1894,7 @@ let interview_statistics  = `[
         "InterviewDate": "07-09-2024",
         "quota_id": "T2_AC_YVR",
         "interviewerID": "02",
-        "Number of interviews": 2
-    },
-    {
-        "InterviewDate": "07-09-2024",
-        "quota_id": "T2_AI_YVR",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "07-09-2024",
@@ -1948,31 +1942,19 @@ let interview_statistics  = `[
         "InterviewDate": "07-09-2024",
         "quota_id": "T2_SQ_MNL",
         "interviewerID": "02",
-        "Number of interviews": 8
-    },
-    {
-        "InterviewDate": "07-09-2024",
-        "quota_id": "T2_SQ_MNL ",
-        "interviewerID": "02",
-        "Number of interviews": 1
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "07-09-2024",
         "quota_id": "T1_TR_BKK",
         "interviewerID": "04",
-        "Number of interviews": 2
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "07-09-2024",
         "quota_id": "T1_TR_NGB",
         "interviewerID": "04",
         "Number of interviews": 3
-    },
-    {
-        "InterviewDate": "07-09-2024",
-        "quota_id": "T3_TR_BKK",
-        "interviewerID": "04",
-        "Number of interviews": 10
     },
     {
         "InterviewDate": "07-09-2024",
