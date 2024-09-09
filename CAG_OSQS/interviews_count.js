@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-09-2024 15:23:07"
+        "download_time": "09-09-2024 15:38:19"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23263,7 +23263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23303,7 +23303,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23318,7 +23318,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-09",
