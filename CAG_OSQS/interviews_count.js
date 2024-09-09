@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-09-2024 21:23:26"
+        "download_time": "09-09-2024 21:38:26"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23248,7 +23248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23268,7 +23268,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Discover Singapore (Premises F) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-03A\u2666SV\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-09-09",
+        "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23313,7 +23318,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Prosegur T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23333,7 +23338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-09",
