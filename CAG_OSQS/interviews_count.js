@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-09-2024 15:53:31"
+        "download_time": "09-09-2024 16:10:02"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23253,7 +23253,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23298,7 +23298,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Prosegur T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23308,7 +23308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Saint Laurent\u2666TERMINAL 3\u2666Airside\u2666#02-06(N)\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-09",
@@ -23318,12 +23318,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-09",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-09-09",
