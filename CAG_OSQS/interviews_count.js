@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-09-2024 12:38:21"
+        "download_time": "10-09-2024 12:53:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23378,7 +23378,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-10",
         "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-10",
@@ -23423,7 +23423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-10",
         "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-10",
@@ -23443,12 +23443,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-10",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-10",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-10",
+        "quota_id": "Starbucks Coffee (Premises A)\u2666TERMINAL 1\u2666Airside\u2666#02-66\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-10",
@@ -23473,7 +23478,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-10",
         "quota_id": "WH Smith (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-61\u2666OW\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     }
 ]    
 
