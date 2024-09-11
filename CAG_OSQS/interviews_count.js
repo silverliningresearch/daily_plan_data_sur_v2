@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-09-2024 13:53:09"
+        "download_time": "11-09-2024 14:08:48"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23568,7 +23568,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-11",
         "quota_id": "Noyah La Maison & Zero Degree (Premises A1)\u2666TERMINAL 4\u2666Airside\u2666#02-35 (beside Coffee Bean)\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-11",
@@ -23592,6 +23592,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-11",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-11",
         "quota_id": "T2 iSC Departure counter (beside GST Refund Counter)\u2666TERMINAL 2\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 6
     },
@@ -23603,12 +23608,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-11",
         "quota_id": "The Coffee Bean and Tea Leaf\u2666TERMINAL 4\u2666Airside\u2666#02-36N\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-11",
         "quota_id": "Tiger's Den\u2666TERMINAL 4\u2666Airside\u2666#02-39\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-11",
