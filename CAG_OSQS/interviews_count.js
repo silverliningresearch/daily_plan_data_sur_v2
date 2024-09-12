@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "12-09-2024 12:38:25"
+        "download_time": "12-09-2024 12:53:16"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23703,7 +23703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-12",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-12",
@@ -23733,7 +23733,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-12",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-12",
@@ -23773,7 +23773,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-12",
         "quota_id": "The Cocoa Trees (T1 DTE Kiosk)\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-12",
