@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-09-2024 18:08:39"
+        "download_time": "13-09-2024 18:43:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23803,7 +23803,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-13",
@@ -23842,13 +23842,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-13",
+        "quota_id": "HOKKAIDO BAKED CHEESE TART\u2666TERMINAL 3\u2666Landside\u2666#B2-11\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-13",
         "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "KOI THE\u2666TERMINAL 3\u2666Landside\u2666#B2-12\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-13",
@@ -23883,7 +23888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-13",
@@ -23928,7 +23933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-13",
