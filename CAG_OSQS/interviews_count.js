@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-09-2024 16:38:33"
+        "download_time": "13-09-2024 16:58:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -23802,6 +23802,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-13",
+        "quota_id": "365 JUICES BAR\u2666TERMINAL 3\u2666Landside\u2666#B2-27\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-13",
         "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
         "Number of interviews": 8
     },
@@ -23848,6 +23853,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-13",
+        "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -23878,7 +23888,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "ROTIBOY\u2666TERMINAL 3\u2666Landside\u2666#B2-28\u2666FBL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-13",
@@ -23888,7 +23898,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "Samsung Experience Store\u2666TERMINAL 2\u2666Airside\u2666#02-168\u2666EL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-13",
@@ -23913,7 +23923,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-13",
         "quota_id": "THEJELLYHEARTS\u2666TERMINAL 3\u2666Landside\u2666#B2-29\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-13",
