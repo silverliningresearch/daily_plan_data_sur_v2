@@ -1,9 +1,14 @@
 let completed_by_interviewer = `[
     {
+        "InterviewerID": "20 \u2013 Maria",
+        "Interview_Date": "2024-09-14",
+        "completed_interviews": 2,
+        "download_time": "14-09-2024 10:37:56"
+    },
+    {
         "InterviewerID": "29 \u2013 Werner",
         "Interview_Date": "2024-09-04",
-        "completed_interviews": 19,
-        "download_time": "14-09-2024 10:23:47"
+        "completed_interviews": 19
     },
     {
         "InterviewerID": "29 \u2013 Werner",
