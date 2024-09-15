@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-09-2024 12:50:56"
+        "download_time": "15-09-2024 13:06:30"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24108,7 +24108,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-15",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#02-K4\u2666CR\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-15",
@@ -24128,7 +24128,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-15",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-15",
@@ -24143,7 +24143,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-15",
         "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-15",
@@ -24153,7 +24153,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-15",
         "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-15",
@@ -24163,7 +24163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-15",
         "quota_id": "Travelex T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-17\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-15",
