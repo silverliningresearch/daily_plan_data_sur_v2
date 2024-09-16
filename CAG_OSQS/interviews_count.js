@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "16-09-2024 17:36:41"
+        "download_time": "16-09-2024 17:51:58"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24237,6 +24237,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-16",
+        "quota_id": "JOLLIBEAN\u2666TERMINAL 3\u2666Landside\u2666#B2-13\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-16",
         "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
         "Number of interviews": 8
     },
@@ -24258,7 +24263,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-16",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
-        "Number of interviews": 7
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-09-16",
@@ -24278,7 +24283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-16",
         "quota_id": "MR TEH TARIK EXPRESS\u2666TERMINAL 3\u2666Landside\u2666#B2-22\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-16",
@@ -24318,7 +24323,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-16",
         "quota_id": "Perfumes & Cosmetics (T2 DTC)\u2666TERMINAL 2\u2666Airside\u2666#02-174 (#026-103E)\u2666PC\u2666Min25",
-        "Number of interviews": 11
+        "Number of interviews": 12
     },
     {
         "InterviewDate": "2024-09-16",
