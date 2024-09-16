@@ -3,7 +3,7 @@ let completed_by_interviewer = `[
         "InterviewerID": "20 \u2013 Maria",
         "Interview_Date": "2024-09-14",
         "completed_interviews": 17,
-        "download_time": "16-09-2024 19:08:15"
+        "download_time": "16-09-2024 19:22:37"
     },
     {
         "InterviewerID": "29 \u2013 Werner",
