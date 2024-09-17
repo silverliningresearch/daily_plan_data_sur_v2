@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-09-2024 16:21:41"
+        "download_time": "17-09-2024 16:35:38"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24492,6 +24492,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-17",
+        "quota_id": "SAAP SAAP THAI & SAAP SAAP THAI DESSERTS\u2666TERMINAL 3\u2666Landside\u2666#B2-33\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-17",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
         "Number of interviews": 15
     },
@@ -24513,7 +24518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-17",
@@ -24538,7 +24543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "iStudio\u2666TERMINAL 4\u2666Airside\u2666#02-52\u2666EL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     }
 ]    
 
