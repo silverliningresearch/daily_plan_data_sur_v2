@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-09-2024 12:22:17"
+        "download_time": "17-09-2024 12:37:06"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24418,7 +24418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "Heavenly Wang\u2666TERMINAL 3\u2666Airside\u2666#02-K1\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-17",
@@ -24428,7 +24428,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-17",
@@ -24444,6 +24444,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-09-17",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
         "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-09-17",
+        "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-17",
