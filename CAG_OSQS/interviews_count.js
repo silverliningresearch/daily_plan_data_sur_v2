@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "17-09-2024 16:08:25"
+        "download_time": "17-09-2024 16:21:41"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24393,7 +24393,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "4FINGERS CRISPY CHICKEN & MELTISE\u2666TERMINAL 3\u2666Landside\u2666#B2-02/02A\u2666FBL\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-09-17",
@@ -24453,7 +24453,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "Lacoste\u2666TERMINAL 4\u2666Airside\u2666#02-49\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-17",
@@ -24497,6 +24497,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-17",
+        "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-17",
         "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -24508,7 +24513,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-17",
         "quota_id": "The Fashion Place\u2666TERMINAL 4\u2666Airside\u2666#02-60/61\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-17",
