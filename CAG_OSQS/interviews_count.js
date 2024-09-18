@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-09-2024 14:23:12"
+        "download_time": "18-09-2024 14:35:44"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24588,12 +24588,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "BIKANERVALA\u2666TERMINAL 3\u2666Landside\u2666#04-01\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "CENTRAL THAI\u2666TERMINAL 3\u2666Landside\u2666#03-30/31\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24644,6 +24644,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-09-18",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-18",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-09-18",
