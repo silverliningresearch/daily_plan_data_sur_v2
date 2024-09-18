@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-09-2024 12:22:00"
+        "download_time": "18-09-2024 12:36:11"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24588,7 +24588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24613,7 +24613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24628,7 +24628,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Premises B - Baggage Storage by Smarte Carte\u2666TERMINAL 1\u2666Airside\u2666#02-17\u2666BS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24669,6 +24669,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-09-18",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-18",
+        "quota_id": "WH Smith - Premises D (Air) (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#026-055-02A (#02-240)\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
