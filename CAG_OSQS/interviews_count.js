@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-09-2024 10:36:01"
+        "download_time": "18-09-2024 10:50:35"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24582,6 +24582,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-18",
+        "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-18",
         "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
         "Number of interviews": 2
     },
@@ -24622,13 +24627,33 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-18",
+        "quota_id": "Sandbar\u2666TERMINAL 1\u2666Airside\u2666#02-K26\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-18",
+        "quota_id": "Straits Food Village - Premises B (Pho Street, Subway, Kaveri)\u2666TERMINAL 2\u2666Airside\u2666#036-169\u2666FBA\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-09-18",
         "quota_id": "Tap & Brew\u2666TERMINAL 1\u2666Airside\u2666#03-52\u2666FBA\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-18",
+        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-18",
         "quota_id": "Travelex T2 DT South\u2666TERMINAL 2\u2666Airside\u2666#02-209A\u2666MC\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-18",
+        "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
