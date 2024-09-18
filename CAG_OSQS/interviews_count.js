@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "18-09-2024 15:21:15"
+        "download_time": "18-09-2024 15:36:42"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24613,7 +24613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24623,12 +24623,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-18",
@@ -24653,12 +24653,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-18",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-18",
