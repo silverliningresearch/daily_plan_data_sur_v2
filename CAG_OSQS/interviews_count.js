@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "19-09-2024 11:36:14"
+        "download_time": "19-09-2024 11:51:15"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24818,7 +24818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-19",
@@ -24833,7 +24833,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-19",
@@ -24843,6 +24843,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "Ray-Ban\u2666TERMINAL 3\u2666Airside\u2666#02-49A\u2666MP\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-19",
+        "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
