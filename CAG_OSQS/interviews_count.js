@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "19-09-2024 16:37:29"
+        "download_time": "19-09-2024 16:52:32"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24847,6 +24847,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-19",
+        "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-19",
         "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
         "Number of interviews": 8
     },
@@ -24882,6 +24887,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-19",
+        "quota_id": "Perfumes & Cosmetics (T1 ABE)\u2666TERMINAL 1\u2666Airside\u2666#01-09F\u2666PC\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-19",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
         "Number of interviews": 15
     },
@@ -24898,7 +24908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "Prosegur T3 DCI Central\u2666TERMINAL 3\u2666Landside\u2666#02-83\u2666MC\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-19",
