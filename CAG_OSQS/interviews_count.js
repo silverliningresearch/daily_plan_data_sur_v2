@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "19-09-2024 10:51:14"
+        "download_time": "19-09-2024 11:06:12"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24808,7 +24808,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "GO NOODLE HOUSE & PAPPARICH\u2666TERMINAL 2\u2666Landside\u2666#03-24 & 25\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-19",
@@ -24818,7 +24818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-19",
@@ -24828,7 +24828,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-19",
         "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-19",
