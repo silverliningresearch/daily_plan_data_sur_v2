@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "20-09-2024 11:36:19"
+        "download_time": "20-09-2024 11:51:23"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -24998,7 +24998,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-20",
         "quota_id": "Irvin's Salted Egg (Pushcart)\u2666TERMINAL 4\u2666Airside\u2666#Pushcart\u2666CCD\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-20",
@@ -25014,6 +25014,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-09-20",
         "quota_id": "LT T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-57\u2666LT\u2666Min15",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-09-20",
+        "quota_id": "Perfumes & Cosmetics (T1 Landside)\u2666TERMINAL 1\u2666Landside\u2666#02-83\u2666PC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-20",
