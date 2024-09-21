@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-09-2024 13:36:25"
+        "download_time": "21-09-2024 13:53:01"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25097,8 +25097,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-21",
+        "quota_id": "A-Roy Thai Restaurant\u2666TERMINAL 2\u2666Landside\u2666#03-14\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-21",
         "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-21",
@@ -25152,8 +25157,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-21",
-        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "quota_id": "Peach Garden\u2666TERMINAL 2\u2666Landside\u2666#03-16\u2666FBL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-21",
+        "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-21",
@@ -25163,7 +25173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-21",
         "quota_id": "Texas Chicken and PastaMania\u2666TERMINAL 2\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-09-21",
