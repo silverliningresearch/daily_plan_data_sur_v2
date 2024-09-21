@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "21-09-2024 12:08:13"
+        "download_time": "21-09-2024 12:21:58"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25097,6 +25097,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-21",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-21",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 4\u2666Airside\u2666#02-85\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -25127,6 +25132,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-21",
+        "quota_id": "GO Noodle House\u2666TERMINAL 4\u2666Landside\u2666#02-203\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-21",
         "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01 & #03-01\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
@@ -25138,6 +25148,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-21",
         "quota_id": "Ramen Keisuke Singapore and Ginza Tendon Itsuki\u2666TERMINAL 2\u2666Landside\u2666#03-15\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-21",
+        "quota_id": "STARBUCKS COFFEE\u2666TERMINAL 2\u2666Landside\u2666#02-33\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
