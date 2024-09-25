@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "25-09-2024 14:35:57"
+        "download_time": "25-09-2024 14:51:21"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25557,6 +25557,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-25",
+        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-09-25",
         "quota_id": "LT T1 DT Central\u2666TERMINAL 1\u2666Airside\u2666#02-53,02-46,02-46A\u2666LT\u2666Min25",
         "Number of interviews": 1
     },
@@ -25598,12 +25603,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-25",
         "quota_id": "Prosegur T3 Arr Mtg Hall North\u2666TERMINAL 3\u2666Landside\u2666#01-K16\u2666MC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-25",
         "quota_id": "Roger Vivier\u2666TERMINAL 1\u2666Airside\u2666#02-13AF\u2666LX\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-09-25",
@@ -25613,7 +25618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-25",
         "quota_id": "Sift & Pick \u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-09-25",
