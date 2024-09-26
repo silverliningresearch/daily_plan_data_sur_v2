@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-09-2024 12:51:33"
+        "download_time": "26-09-2024 13:06:55"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25712,6 +25712,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-09-26",
+        "quota_id": "Goldheart\u2666TERMINAL 3\u2666Airside\u2666#02-47\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-09-26",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
@@ -25733,7 +25738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-09-26",
@@ -25758,6 +25763,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "The Cocoa Trees (Premises C2) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-44\u2666CCD\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-09-26",
+        "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
         "Number of interviews": 2
     },
     {
