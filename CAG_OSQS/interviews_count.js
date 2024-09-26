@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "26-09-2024 15:08:06"
+        "download_time": "26-09-2024 15:22:05"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25718,7 +25718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "Fila Kids\u2666TERMINAL 2\u2666Airside\u2666#02-161\u2666CT\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-26",
@@ -25778,7 +25778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "Oakley\u2666TERMINAL 2\u2666Airside\u2666#02-244\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-09-26",
@@ -25818,7 +25818,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-09-26",
@@ -25833,7 +25833,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-26",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
