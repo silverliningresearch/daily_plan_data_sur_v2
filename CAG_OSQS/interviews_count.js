@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "27-09-2024 18:24:17"
+        "download_time": "27-09-2024 18:36:37"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -25853,7 +25853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-27",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-27",
@@ -25873,7 +25873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-27",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-27",
@@ -25893,7 +25893,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-09-27",
         "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-09-27",
