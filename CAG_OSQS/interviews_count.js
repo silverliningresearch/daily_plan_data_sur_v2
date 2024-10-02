@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "02-10-2024 13:07:24"
+        "download_time": "02-10-2024 13:21:51"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26127,6 +26127,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-02",
+        "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-02",
         "quota_id": "Jamie's Deli\u2666TERMINAL 1\u2666Airside\u2666#02-40N\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -26138,6 +26143,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-02",
         "quota_id": "LT T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-22\u2666LT\u2666Min15",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-02",
+        "quota_id": "Lixin Teochew Fishball Noodles\u2666TERMINAL 1\u2666Airside\u2666#02-K17\u2666FBA\u2666Min8",
         "Number of interviews": 2
     },
     {
@@ -26183,7 +26193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-02",
         "quota_id": "Uniqlo\u2666TERMINAL 1\u2666Airside\u2666#02-23\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-02",
