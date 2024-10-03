@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "03-10-2024 14:23:08"
+        "download_time": "03-10-2024 14:36:54"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26288,7 +26288,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-03",
         "quota_id": "Archipelago Craft Brew House\u2666TERMINAL 2\u2666Airside\u2666#02-157\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-10-03",
@@ -26313,7 +26313,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-03",
         "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-03",
@@ -26343,7 +26343,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-03",
         "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-10-03",
