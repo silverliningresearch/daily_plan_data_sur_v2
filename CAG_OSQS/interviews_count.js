@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "04-10-2024 18:08:33"
+        "download_time": "04-10-2024 18:23:51"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26512,6 +26512,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-04",
+        "quota_id": "Hugo Boss\u2666TERMINAL 3\u2666Airside\u2666#02-23\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-04",
         "quota_id": "KIDZTIME\u2666TERMINAL 3\u2666Landside\u2666#B2-20/21\u2666LS\u2666Min8",
         "Number of interviews": 7
     },
@@ -26552,6 +26557,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-04",
+        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-04",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -26573,7 +26583,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "Prosegur T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-65\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-10-04",
@@ -26588,7 +26598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-04",
@@ -26612,6 +26622,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-04",
+        "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-04",
         "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
         "Number of interviews": 8
     },
@@ -26628,7 +26643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-66\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-10-04",
