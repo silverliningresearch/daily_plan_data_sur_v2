@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "04-10-2024 17:22:11"
+        "download_time": "04-10-2024 17:36:57"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26528,7 +26528,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "LT T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-10/11/12\u2666LT\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-04",
@@ -26578,7 +26578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "Prosegur T4 DT South\u2666TERMINAL 4\u2666Airside\u2666#02-38\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-10-04",
@@ -26613,7 +26613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "T4 iSC Departure counter\u2666TERMINAL 4\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-10-04",
@@ -26623,7 +26623,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-04",
         "quota_id": "Travelex T4 DT North\u2666TERMINAL 4\u2666Airside\u2666#02-37\u2666MC\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-10-04",
