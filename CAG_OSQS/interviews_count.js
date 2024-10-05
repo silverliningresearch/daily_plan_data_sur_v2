@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "05-10-2024 14:36:05"
+        "download_time": "05-10-2024 14:51:07"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26678,7 +26678,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 4\u2666Landside\u2666#01-K3\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-05",
@@ -26688,7 +26688,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-05",
@@ -26708,7 +26708,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-05",
+        "quota_id": "SUSHI DELI\u2666TERMINAL 3\u2666Landside\u2666#B2-25A\u2666LS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-05",
