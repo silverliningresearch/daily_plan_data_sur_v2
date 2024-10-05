@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "05-10-2024 18:08:44"
+        "download_time": "05-10-2024 18:23:39"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -26728,12 +26728,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "Maison de Chronus (Premises A2) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-24\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-05",
@@ -26743,12 +26743,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "STARHUB\u2666TERMINAL 4\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-10-05",
@@ -26758,7 +26758,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "Sunglass Hut\u2666TERMINAL 3\u2666Airside\u2666#02-21\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-05",
@@ -26778,7 +26778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-05",
         "quota_id": "Travelex T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-02\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-05",
