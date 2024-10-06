@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-03",
         "quota_id": "EY286-AMD",
         "Number of interviews": 1,
-        "download_time": "06-10-2024 20:23:53"
+        "download_time": "06-10-2024 20:38:31"
     },
     {
         "InterviewDate": "2024-10-03",
@@ -722,6 +722,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-06",
+        "quota_id": "RJ623-AMM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-06",
         "quota_id": "EY641-BAH",
         "Number of interviews": 1
     },
@@ -762,6 +767,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-06",
+        "quota_id": "EY717-CAI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-06",
         "quota_id": "EY390-CMB",
         "Number of interviews": 2
     },
@@ -774,6 +784,11 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-06",
         "quota_id": "EY661-DOH",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-06",
+        "quota_id": "EY669-DOH",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-06",
@@ -793,7 +808,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-06",
         "quota_id": "EY274-HYD",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-06",
@@ -822,6 +837,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-06",
+        "quota_id": "EY418-KUL",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-06",
         "quota_id": "EY241-LHE",
         "Number of interviews": 1
     },
@@ -843,7 +863,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-06",
         "quota_id": "EY696-MCT",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-10-06",
