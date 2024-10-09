@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "09-10-2024 18:52:29"
+        "download_time": "09-10-2024 19:07:43"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27193,7 +27193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-09",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-10-09",
@@ -27203,7 +27203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-09",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-09",
@@ -27282,6 +27282,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-09",
+        "quota_id": "LT T1 DT East\u2666TERMINAL 1\u2666Airside\u2666#02-68\u2666LT\u2666Min15",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-09",
         "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
         "Number of interviews": 7
     },
@@ -27314,6 +27319,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-09",
         "quota_id": "Perfumes & Cosmetics (T1 DTC)\u2666TERMINAL 1\u2666Airside\u2666#02-37/38\u2666PC\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-10-09",
+        "quota_id": "Perfumes & Cosmetics (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-67\u2666PC\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-09",
