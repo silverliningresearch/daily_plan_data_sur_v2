@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "10-10-2024 11:21:22"
+        "download_time": "10-10-2024 12:01:13"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27388,7 +27388,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-10",
         "quota_id": "CHEERS\u2666TERMINAL 4\u2666Landside\u2666#01-09\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-10-10",
@@ -27412,6 +27412,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-10",
+        "quota_id": "Liquor & Tobacco (T2 Arrival South)\u2666TERMINAL 2\u2666Airside\u2666#01-176\u2666LT\u2666Min15",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
         "quota_id": "Metapod (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-150\u2666EL\u2666Min8",
         "Number of interviews": 9
     },
@@ -27423,6 +27428,21 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-10",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "Premises B - Baggage Storage by Smarte Carte (Landside)\u2666TERMINAL 4\u2666Landside\u2666#01-02\u2666BS\u2666Min8",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "Prosegur T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-21\u2666MC\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -27434,6 +27454,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-10",
         "quota_id": "Starbucks Coffee\u2666TERMINAL 4\u2666Landside\u2666#02-04\u2666FBL\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "Travelex T1 DT West\u2666TERMINAL 1\u2666Airside\u2666#02-20\u2666MC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
