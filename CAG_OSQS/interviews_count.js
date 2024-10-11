@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-10-2024 12:37:16"
+        "download_time": "11-10-2024 12:52:12"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27598,7 +27598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27609,6 +27609,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-11",
         "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-10-11",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27628,7 +27633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27648,6 +27653,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-11",
+        "quota_id": "MA MUM\u2666TERMINAL 4\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -27663,7 +27673,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27673,7 +27683,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-11",
