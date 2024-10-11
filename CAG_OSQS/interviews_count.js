@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-10-2024 13:37:23"
+        "download_time": "11-10-2024 13:52:19"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27598,7 +27598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27618,7 +27618,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27668,7 +27668,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Lynk Fragrances\u2666TERMINAL 2\u2666Landside\u2666#02-03\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27677,8 +27677,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-11",
+        "quota_id": "OLD TOWN EXPRESS, TAI CHEONG BAKERY, FLASH COFFEE & MATCHAYA\u2666TERMINAL 3\u2666Landside\u2666#B2-34\u2666FBL\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-11",
         "quota_id": "Paris Baguette\u2666TERMINAL 4\u2666Landside\u2666#01-05\u2666FBL\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27688,7 +27693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 2\u2666Landside\u2666#02-10/11 (#026-022/023)\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-11",
