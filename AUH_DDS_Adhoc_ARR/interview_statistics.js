@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-09-30",
         "quota_id": "32Q-ADJ",
         "Number of interviews": 1,
-        "download_time": "10-10-2024 19:38:08"
+        "download_time": "11-10-2024 16:46:43"
     },
     {
         "InterviewDate": "2024-09-30",
@@ -829,6 +829,71 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-09",
         "quota_id": "IX715-CNN",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "ME418-BEY",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "IX837-BLR",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "QP584-BOM",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY255-COK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY668-DOH",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY046-DUB",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY004-JFK",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY748-JNB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY064-LIS",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "5W7200-MED",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY126-MUC",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY318-RUH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "EY701-SEZ",
+        "Number of interviews": 3
     }
 ]    
 
