@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-01-03",
         "quota_id": "AF-CDG",
         "Number of interviews": 10,
-        "download_time": "10-10-2024 05:22:35"
+        "download_time": "11-10-2024 07:40:41"
     },
     {
         "InterviewDate": "2024-01-03",
@@ -10824,6 +10824,81 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-08",
         "quota_id": "PC-SAW",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-ATH",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-BCN",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-BVA",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-CTA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-IBZ",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-PMI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-RIX",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "FR-VCE",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "IB-MAD",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "JU-BEG",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "KL-AMS",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "KM-MLA",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "OS-ORD",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "PC-SAW",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-10",
+        "quota_id": "SM-HRG",
+        "Number of interviews": 4
     }
 ]    
 
