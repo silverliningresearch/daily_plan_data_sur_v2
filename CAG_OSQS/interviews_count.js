@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "11-10-2024 12:22:20"
+        "download_time": "11-10-2024 12:37:16"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27598,7 +27598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Baker's Well\u2666TERMINAL 2\u2666Landside\u2666#02-05\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27628,12 +27628,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "EU YAN SANG\u2666TERMINAL 2\u2666Landside\u2666#02-14\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Guardian\u2666TERMINAL 2\u2666Landside\u2666#02-13\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27662,13 +27662,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-11",
+        "quota_id": "Premises C - Baggage Storage by Smarte Carte\u2666TERMINAL 2\u2666Landside\u2666#01-01 (#016-024)\u2666BS\u2666Min8",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-11",
         "quota_id": "Prosegur T2 DCI Central\u2666TERMINAL 2\u2666Landside\u2666#02-16\u2666MC\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-11",
         "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-11",
@@ -27679,6 +27684,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-11",
         "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
         "Number of interviews": 9
+    },
+    {
+        "InterviewDate": "2024-10-11",
+        "quota_id": "The Cocoa Trees (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-04\u2666LS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-11",
