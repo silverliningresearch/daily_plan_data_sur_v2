@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-10-2024 13:21:17"
+        "download_time": "13-10-2024 13:36:18"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27862,6 +27862,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-13",
+        "quota_id": "Buk Chang Dong Soon Tofu\u2666TERMINAL 2\u2666Airside\u2666#02-K12\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-13",
         "quota_id": "CHOMEL\u2666TERMINAL 3\u2666Landside\u2666#02-84\u2666LS\u2666Min8",
         "Number of interviews": 7
     },
@@ -27872,8 +27877,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-13",
+        "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-13",
         "quota_id": "LIHO TEA\u2666TERMINAL 3\u2666Landside\u2666#01-23\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-13",
+        "quota_id": "LiHO TEA\u2666TERMINAL 2\u2666Airside\u2666#02-K13\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-13",
