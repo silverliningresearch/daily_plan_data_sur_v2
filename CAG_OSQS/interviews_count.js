@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "13-10-2024 14:36:18"
+        "download_time": "13-10-2024 14:51:17"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27882,6 +27882,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-13",
+        "quota_id": "FRAGRANCE\u2666TERMINAL 3\u2666Landside\u2666#02-92\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-13",
         "quota_id": "GOPIZZA\u2666TERMINAL 2\u2666Airside\u2666#02-K15\u2666FBA\u2666Min8",
         "Number of interviews": 3
     },
@@ -27903,7 +27908,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-13",
@@ -27928,7 +27933,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-13",
