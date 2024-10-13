@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-03",
         "quota_id": "EY286-AMD",
         "Number of interviews": 1,
-        "download_time": "13-10-2024 22:09:04"
+        "download_time": "13-10-2024 22:23:04"
     },
     {
         "InterviewDate": "2024-10-03",
@@ -1838,7 +1838,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "GF547-BAH",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-13",
@@ -1873,7 +1873,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "EY256-CCU",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-13",
@@ -1913,7 +1913,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "EY669-DOH",
-        "Number of interviews": 6
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-10-13",
@@ -1922,13 +1922,28 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-13",
+        "quota_id": "EY045-DUB",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-13",
         "quota_id": "EY121-FRA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-13",
+        "quota_id": "5W7157-FRU",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "EY145-GVA",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-10-13",
+        "quota_id": "EY432-HKT",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-13",
@@ -1968,6 +1983,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "EY651-KWI",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-13",
+        "quota_id": "EY241-LHE",
         "Number of interviews": 1
     },
     {
@@ -2013,7 +2033,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-13",
         "quota_id": "EY424-MNL",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-13",
