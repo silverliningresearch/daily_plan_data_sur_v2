@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-10-2024 18:09:12"
+        "download_time": "14-10-2024 18:22:37"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27978,7 +27978,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-14",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 1\u2666Landside\u2666#01-K4\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-14",
@@ -27993,7 +27993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-14",
         "quota_id": "ICHIKOKUDO HOKKAIDO RAMEN\u2666TERMINAL 3\u2666Landside\u2666#B2-58\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-14",
