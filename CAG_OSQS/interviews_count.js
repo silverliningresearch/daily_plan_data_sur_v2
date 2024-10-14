@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "14-10-2024 15:37:32"
+        "download_time": "14-10-2024 15:53:36"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -27977,13 +27977,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-14",
+        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-14",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
         "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-14",
         "quota_id": "ORCHID CAFETERIA\u2666TERMINAL 1\u2666Landside\u2666#B1-12A\u2666FBL\u2666Min25",
-        "Number of interviews": 12
+        "Number of interviews": 15
     },
     {
         "InterviewDate": "2024-10-14",
@@ -28008,7 +28013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-14",
         "quota_id": "STARHUB\u2666TERMINAL 3\u2666Landside\u2666#01-K11\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-14",
