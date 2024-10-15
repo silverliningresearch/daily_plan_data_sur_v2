@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-10-2024 11:51:40"
+        "download_time": "15-10-2024 12:07:31"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -28102,13 +28102,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-15",
+        "quota_id": "Gassan Watches\u2666TERMINAL 4\u2666Airside\u2666#02-27\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-15",
         "quota_id": "Giordano\u2666TERMINAL 2\u2666Airside\u2666#026-096 (#02-160)\u2666MP\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 6
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-10-15",
@@ -28132,8 +28137,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-15",
+        "quota_id": "The Cocoa Trees (Premises D)\u2666TERMINAL 4\u2666Airside\u2666#02-26\u2666CCD\u2666Min8",
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-10-15",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
