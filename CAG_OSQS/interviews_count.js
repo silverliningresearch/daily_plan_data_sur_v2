@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "15-10-2024 16:07:19"
+        "download_time": "15-10-2024 16:21:50"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -28118,7 +28118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "Irvins Salted Egg\u2666TERMINAL 1\u2666Airside\u2666#02-K07A\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-15",
@@ -28138,7 +28138,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2024-10-15",
@@ -28163,7 +28163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#01-13\u2666PC\u2666Min15",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-15",
@@ -28173,7 +28173,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-15",
@@ -28203,7 +28203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-15",
         "quota_id": "The Cocoa Trees (T2 DTS, beside Transfer F)\u2666TERMINAL 2\u2666Airside\u2666#02-196\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-15",
