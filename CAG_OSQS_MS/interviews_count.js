@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-06-10",
         "quota_id": "Bacha Coffee (Duplex) (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-10A\u2666CCD",
         "Number of interviews": 1,
-        "download_time": "16-10-2024 16:06:43"
+        "download_time": "16-10-2024 16:22:56"
     },
     {
         "InterviewDate": "2024-06-10",
