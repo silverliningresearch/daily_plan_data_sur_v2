@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-03",
         "quota_id": "EY286-AMD",
         "Number of interviews": 1,
-        "download_time": "16-10-2024 19:51:55"
+        "download_time": "16-10-2024 20:10:18"
     },
     {
         "InterviewDate": "2024-10-03",
@@ -2457,6 +2457,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-16",
+        "quota_id": "3L111-AMD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
         "quota_id": "EY189-ATH",
         "Number of interviews": 4
     },
@@ -2473,6 +2478,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-16",
         "quota_id": "EY404-BKK",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
+        "quota_id": "EY408-BKK",
         "Number of interviews": 1
     },
     {
@@ -2498,6 +2508,11 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-16",
         "quota_id": "IX718-CNN",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
+        "quota_id": "6E1404-COK",
         "Number of interviews": 1
     },
     {
@@ -2537,6 +2552,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-16",
+        "quota_id": "EY274-HYD",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
         "quota_id": "EY856-ICN",
         "Number of interviews": 1
     },
@@ -2572,6 +2592,11 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-16",
+        "quota_id": "3L141-MAA",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
         "quota_id": "6E1412-MAA",
         "Number of interviews": 1
     },
@@ -2592,8 +2617,13 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-16",
-        "quota_id": "EY496-SIN",
+        "quota_id": "EY351-RUH",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-16",
+        "quota_id": "EY496-SIN",
+        "Number of interviews": 2
     }
 ]    
 
