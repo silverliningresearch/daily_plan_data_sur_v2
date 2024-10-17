@@ -6,7 +6,7 @@ let interview_statistics = `[
         "DestCode": "KWI",
         "AirlineCode": "J9",
         "Number of interviews": 2,
-        "download_time": "17-10-2024 15:36:11"
+        "download_time": "17-10-2024 15:51:18"
     },
     {
         "InterviewDate": "2024-01-07",
@@ -6198,7 +6198,7 @@ let interview_statistics = `[
         "Flight": "EK336",
         "DestCode": "MNL",
         "AirlineCode": "EK",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-17",
@@ -6230,7 +6230,7 @@ let interview_statistics = `[
         "Flight": "SV559",
         "DestCode": "RUH",
         "AirlineCode": "SV",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-10-17",
