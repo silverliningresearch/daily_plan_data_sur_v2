@@ -3,7 +3,7 @@ let interview_statistics = `[
         "InterviewDate": "2024-10-03",
         "quota_id": "EY286-AMD",
         "Number of interviews": 1,
-        "download_time": "19-10-2024 23:22:48"
+        "download_time": "19-10-2024 23:37:50"
     },
     {
         "InterviewDate": "2024-10-03",
@@ -3173,7 +3173,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-19",
         "quota_id": "NA_Arrival-",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-19",
@@ -3208,11 +3208,16 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-19",
         "quota_id": "UK256-BOM",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-10-19",
         "quota_id": "EY007-BOS",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-19",
+        "quota_id": "IX348-CCJ",
         "Number of interviews": 1
     },
     {
@@ -3228,7 +3233,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-19",
         "quota_id": "EY031-CDG",
-        "Number of interviews": 16
+        "Number of interviews": 17
     },
     {
         "InterviewDate": "2024-10-19",
@@ -3283,7 +3288,7 @@ let interview_statistics = `[
     {
         "InterviewDate": "2024-10-19",
         "quota_id": "IX816-IXE",
-        "Number of interviews": 3
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-19",
@@ -3302,8 +3307,18 @@ let interview_statistics = `[
     },
     {
         "InterviewDate": "2024-10-19",
+        "quota_id": "EY747-JNB",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-19",
+        "quota_id": "EY651-KWI",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-19",
         "quota_id": "EY011-LHR",
-        "Number of interviews": 34
+        "Number of interviews": 35
     },
     {
         "InterviewDate": "2024-10-19",
