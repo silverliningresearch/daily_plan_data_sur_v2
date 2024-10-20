@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-01-31",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
         "Number of interviews": 5,
-        "download_time": "20-10-2024 18:35:49"
+        "download_time": "20-10-2024 18:50:51"
     },
     {
         "InterviewDate": "2024-01-31",
@@ -28708,7 +28708,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-20",
         "quota_id": "CHUTNEY MARY INDIAN FAST FOOD\u2666TERMINAL 2\u2666Landside\u2666#03-26 &27\u2666FBL\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-20",
@@ -28718,7 +28718,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-20",
         "quota_id": "GO NOODLE HOUSE & PAPPARICH\u2666TERMINAL 2\u2666Landside\u2666#03-24 & 25\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-10-20",
