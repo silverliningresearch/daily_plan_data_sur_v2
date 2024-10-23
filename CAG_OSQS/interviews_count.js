@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "23-10-2024 18:50:32"
+        "download_time": "23-10-2024 19:05:34"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6602,6 +6602,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-23",
+        "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-23",
         "quota_id": "Noyah La Maison & Zero Degree\u2666TERMINAL 3\u2666Landside\u2666#B2-40/40A\u2666FBL\u2666Min8",
         "Number of interviews": 1
     },
@@ -6628,7 +6633,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-23",
         "quota_id": "Stefano Ricci\u2666TERMINAL 1\u2666Airside\u2666#02-12B\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-23",
@@ -6643,7 +6648,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-23",
         "quota_id": "Tumi\u2666TERMINAL 1\u2666Airside\u2666#02-31N\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-23",
