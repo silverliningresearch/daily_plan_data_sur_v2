@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "23-10-2024 12:35:50"
+        "download_time": "23-10-2024 12:50:53"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6557,18 +6557,23 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-23",
+        "quota_id": "HOKKAIDO BAKED CHEESE TART\u2666TERMINAL 3\u2666Landside\u2666#B2-11\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-23",
         "quota_id": "International Food Hall\u2666TERMINAL 4\u2666Airside\u2666#02-228N\u2666FBA\u2666Min25",
         "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-10-23",
         "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-23",
         "quota_id": "KOPITIAM\u2666TERMINAL 3\u2666Landside\u2666#B2-03\u2666FBL\u2666Min25",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-23",
@@ -6593,7 +6598,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-23",
         "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     }
 ]    
 
