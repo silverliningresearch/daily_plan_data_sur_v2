@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-10-2024 14:35:59"
+        "download_time": "24-10-2024 14:51:11"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6678,12 +6678,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "FILA\u2666TERMINAL 4\u2666Airside\u2666#02-53/54\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Furla\u2666TERMINAL 3\u2666Airside\u2666#02-14\u2666MP\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-24",
+        "quota_id": "Hugo Boss\u2666TERMINAL 2\u2666Airside\u2666#02-232\u2666LX\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6707,6 +6712,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-24",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 2\u2666Airside\u2666#02-227\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-24",
+        "quota_id": "McDonald's\u2666TERMINAL 2\u2666Landside\u2666#01-08\u2666FBL\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-24",
         "quota_id": "Metapod\u2666TERMINAL 4\u2666Airside\u2666#02-51\u2666EL\u2666Min8",
         "Number of interviews": 2
     },
@@ -6723,7 +6738,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Paris Baguette\u2666TERMINAL 2\u2666Landside\u2666#01-04\u2666FBL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6733,7 +6748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Perfumes & Cosmetics (T3 ABN)\u2666TERMINAL 3\u2666Airside\u2666#01-28\u2666PC\u2666Min15",
-        "Number of interviews": 15
+        "Number of interviews": 17
     },
     {
         "InterviewDate": "2024-10-24",
