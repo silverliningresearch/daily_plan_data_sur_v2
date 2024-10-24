@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-10-2024 20:22:29"
+        "download_time": "24-10-2024 20:35:50"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6722,6 +6722,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-24",
+        "quota_id": "Guardian (Premises A) (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-66\u2666PH\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-24",
         "quota_id": "HEAVENLY WANG, WANG NASI LEMAK KUKUS. SPAGGIE & MEE, THE SALAD FOLK\u2666TERMINAL 2\u2666Landside\u2666#01-09\u2666FBL\u2666Min8",
         "Number of interviews": 4
     },
@@ -6749,6 +6754,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-24",
         "quota_id": "LT T3 Arrival South\u2666TERMINAL 3\u2666Airside\u2666#01-19\u2666LT\u2666Min15",
         "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2024-10-24",
+        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
