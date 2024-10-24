@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-10-2024 18:36:17"
+        "download_time": "24-10-2024 18:51:05"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6677,6 +6677,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-24",
+        "quota_id": "Charles & Keith\u2666TERMINAL 3\u2666Airside\u2666#02-53\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-24",
         "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
@@ -6703,7 +6708,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6723,7 +6728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "LACOSTE\u2666TERMINAL 3\u2666Airside\u2666#02-48\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6763,7 +6768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6847,6 +6852,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-10-24",
+        "quota_id": "Sprint-Cass (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-61\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-10-24",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
         "Number of interviews": 4
     },
@@ -6914,6 +6924,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-24",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-10-24",
+        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
