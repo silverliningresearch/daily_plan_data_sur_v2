@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-10-2024 19:21:16"
+        "download_time": "24-10-2024 19:36:03"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -6728,7 +6728,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6779,6 +6779,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-10-24",
         "quota_id": "MCM\u2666TERMINAL 2\u2666Airside\u2666#02-228\u2666LX\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-10-24",
+        "quota_id": "MLB\u2666TERMINAL 3\u2666Airside\u2666#02-46\u2666MP\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6833,7 +6838,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-10-24",
@@ -6868,7 +6873,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-10-24",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-10-24",
