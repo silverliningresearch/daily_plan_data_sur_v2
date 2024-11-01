@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "01-11-2024 14:50:07"
+        "download_time": "01-11-2024 15:05:08"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -7748,7 +7748,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-01",
         "quota_id": "CHANGI MEET & GREET\u2666TERMINAL 1\u2666Landside\u2666#01-K7\u2666CR\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-01",
@@ -7787,6 +7787,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-01",
+        "quota_id": "Prosegur T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-237\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-01",
         "quota_id": "SIXT RENT A CAR\u2666TERMINAL 1\u2666Landside\u2666#01-K5\u2666LS\u2666Min5",
         "Number of interviews": 3
     },
@@ -7794,6 +7799,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-01",
         "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-11-01",
+        "quota_id": "Smarte Carte Premises D (T2 Airside)\u2666TERMINAL 2\u2666Airside\u2666#02-242\u2666BS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-01",
