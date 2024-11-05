@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "05-11-2024 15:35:40"
+        "download_time": "05-11-2024 15:50:22"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8163,7 +8163,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-05",
         "quota_id": "A Noodle Story\u2666TERMINAL 1\u2666Airside\u2666#02-K19\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-05",
@@ -8193,7 +8193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-05",
         "quota_id": "Hainan Story Coffee & Toast\u2666TERMINAL 1\u2666Airside\u2666#02-K18\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-05",
@@ -8223,7 +8223,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-05",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-05",
@@ -8248,7 +8248,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-05",
         "quota_id": "Sift & Pick \u2666TERMINAL 3\u2666Airside\u2666#02-K13R\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-05",
