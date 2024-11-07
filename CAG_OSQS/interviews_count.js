@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "07-11-2024 12:23:02"
+        "download_time": "07-11-2024 12:35:24"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8387,12 +8387,22 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-07",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-07",
         "quota_id": "Bee Cheng Hiang (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-156 (#026-095-01)\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-07",
         "quota_id": "Burberry\u2666TERMINAL 1\u2666Airside\u2666#02-80\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-07",
+        "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -8413,7 +8423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-07",
         "quota_id": "Gucci\u2666TERMINAL 1\u2666Airside\u2666#02-79\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-07",
