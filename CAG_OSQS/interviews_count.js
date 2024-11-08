@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "08-11-2024 16:07:25"
+        "download_time": "08-11-2024 16:22:24"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8518,7 +8518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-08",
         "quota_id": "Encik Tan\u2666TERMINAL 3\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-08",
@@ -8578,7 +8578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-08",
         "quota_id": "The Cocoa Trees (T2 DTN, beside Lotte Duplex)\u2666TERMINAL 2\u2666Airside\u2666#02-166\u2666CCD\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-08",
@@ -8588,7 +8588,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-08",
         "quota_id": "The Hainan Story Bakery\u2666TERMINAL 2\u2666Airside\u2666#02-K05\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-11-08",
