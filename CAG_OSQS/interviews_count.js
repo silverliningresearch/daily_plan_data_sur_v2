@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "11-11-2024 17:50:46"
+        "download_time": "11-11-2024 18:08:12"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8803,7 +8803,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-11",
         "quota_id": "Changi Recommends (T1 Licensed Area A)\u2666TERMINAL 1\u2666Airside\u2666#02-COUNTER (near PAUL)\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-11",
@@ -8813,7 +8813,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-11",
         "quota_id": "Discover Singapore (Premises B) (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-33/34\u2666SV\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-11",
@@ -8829,6 +8829,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-11",
         "quota_id": "Pizza Hut\u2666TERMINAL 1\u2666Airside\u2666#03-K04\u2666FBA\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-11-11",
+        "quota_id": "Plaza Premium Lounge\u2666TERMINAL 1\u2666Airside\u2666#03-03\u2666HL\u2666Min20",
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-11",
@@ -8848,7 +8853,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-11",
         "quota_id": "Sprint-Cass (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-36\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-11-11",
