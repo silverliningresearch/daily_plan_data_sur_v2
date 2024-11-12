@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "12-11-2024 19:35:28"
+        "download_time": "12-11-2024 19:50:28"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8963,7 +8963,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-12",
@@ -8993,7 +8993,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Straits Food Village - Premises A\u2666TERMINAL 2\u2666Airside\u2666#03-179/180/181\u2666FBA\u2666Min25",
-        "Number of interviews": 10
+        "Number of interviews": 11
     },
     {
         "InterviewDate": "2024-11-12",
@@ -9008,12 +9008,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-12",
@@ -9028,7 +9028,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Wee Nam Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K9\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
