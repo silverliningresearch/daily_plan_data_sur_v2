@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "12-11-2024 15:05:21"
+        "download_time": "12-11-2024 15:20:22"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -8928,7 +8928,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Chef Wei\u2666TERMINAL 2\u2666Airside\u2666#02-K6\u2666FBA\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-12",
@@ -8953,7 +8953,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "LT T2 DT North\u2666TERMINAL 2\u2666Airside\u2666#02-401\u2666LT\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-12",
@@ -8968,12 +8968,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "McDonald's\u2666TERMINAL 2\u2666Airside\u2666#036-070\u2666FBA\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Old Chang Kee\u2666TERMINAL 2\u2666Airside\u2666#02-K7\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-12",
@@ -9003,7 +9003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "The Cocoa Trees (Premises B3) (T2 DTN, near E20)\u2666TERMINAL 2\u2666Airside\u2666#02-403\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-12",
@@ -9013,7 +9013,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-12",
         "quota_id": "Victoria's Secret\u2666TERMINAL 2\u2666Airside\u2666#026-093 (#02-151)\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-12",
