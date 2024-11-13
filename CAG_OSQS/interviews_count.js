@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "13-11-2024 19:20:49"
+        "download_time": "13-11-2024 19:35:24"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -9078,7 +9078,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-13",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-13",
@@ -9154,6 +9154,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-13",
         "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
         "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-11-13",
+        "quota_id": "Travelex T1 Arr Mtg West\u2666TERMINAL 1\u2666Landside\u2666#01-K24\u2666MC\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-13",
