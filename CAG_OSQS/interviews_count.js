@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "13-11-2024 13:50:23"
+        "download_time": "13-11-2024 14:07:01"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -9032,6 +9032,16 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-13",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 1\u2666Landside\u2666#03-18\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-13",
+        "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-13",
         "quota_id": "Bacha Coffee\u2666TERMINAL 4\u2666Airside\u2666#02-31\u2666CCD\u2666Min8",
         "Number of interviews": 8
     },
@@ -9053,7 +9063,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-13",
         "quota_id": "KASHKA\u2666TERMINAL 4\u2666Airside\u2666#02-44\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-11-13",
+        "quota_id": "LeNu Noodle Bar & Congee Specialist\u2666TERMINAL 3\u2666Airside\u2666#02-28\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-13",
+        "quota_id": "Old Chang Kee\u2666TERMINAL 3\u2666Airside\u2666#02-K2\u2666FBA\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-13",
@@ -9063,7 +9083,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-13",
         "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-13",
@@ -9074,6 +9094,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-13",
         "quota_id": "Sunglass Hut\u2666TERMINAL 4\u2666Airside\u2666#02-43\u2666MP\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-11-13",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-13",
