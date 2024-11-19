@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "19-11-2024 13:07:48"
+        "download_time": "19-11-2024 13:23:16"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -9647,6 +9647,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-19",
+        "quota_id": "LT T2 Arrival North\u2666TERMINAL 2\u2666Airside\u2666#01-151\u2666LT\u2666Min15",
+        "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-11-19",
         "quota_id": "LT T2 Duplex\u2666TERMINAL 2\u2666Airside\u2666#02-167 & #03-189\u2666LT\u2666Min25",
         "Number of interviews": 11
     },
@@ -9672,6 +9677,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-19",
+        "quota_id": "Prosegur T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K8\u2666MC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-19",
         "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
         "Number of interviews": 8
     },
@@ -9684,6 +9694,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-19",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-11-19",
+        "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7\u2666MC\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
