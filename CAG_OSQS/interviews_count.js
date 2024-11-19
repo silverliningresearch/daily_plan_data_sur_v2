@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "19-11-2024 13:50:45"
+        "download_time": "19-11-2024 14:08:18"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -9637,13 +9637,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-19",
+        "quota_id": "BABA NYONYA\u2666TERMINAL 3\u2666Landside\u2666#03-33\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-19",
         "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-19",
         "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-19",
@@ -9673,12 +9678,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-19",
         "quota_id": "Perfumes & Cosmetics (T2 ABN)\u2666TERMINAL 2\u2666Airside\u2666#01-150\u2666PC\u2666Min15",
-        "Number of interviews": 8
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-11-19",
         "quota_id": "Perfumes & Cosmetics (T2 ABS)\u2666TERMINAL 2\u2666Airside\u2666#01-177\u2666PC\u2666Min15",
-        "Number of interviews": 9
+        "Number of interviews": 10
     },
     {
         "InterviewDate": "2024-11-19",
@@ -9708,7 +9713,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-19",
         "quota_id": "Travelex T3 DT South\u2666TERMINAL 3\u2666Airside\u2666#02-K7T\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-19",
