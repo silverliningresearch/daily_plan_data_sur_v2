@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-11-2024 17:08:09"
+        "download_time": "24-11-2024 17:23:44"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10193,7 +10193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-24",
         "quota_id": "Prosegur T1 Arr Mtg Hall West\u2666TERMINAL 1\u2666Landside\u2666#01-K25\u2666MC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-24",
@@ -10209,6 +10209,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-24",
         "quota_id": "The Cocoa Trees (T1 DTE Kiosk)\u2666TERMINAL 1\u2666Airside\u2666#02-K46\u2666CCD\u2666Min8",
         "Number of interviews": 7
+    },
+    {
+        "InterviewDate": "2024-11-24",
+        "quota_id": "Travelex T1 Arr Mtg Hall East\u2666TERMINAL 1\u2666Landside\u2666#01-K26\u2666MC\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-24",
