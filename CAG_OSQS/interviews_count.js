@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "25-11-2024 15:51:22"
+        "download_time": "25-11-2024 16:08:10"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10253,7 +10253,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-25",
         "quota_id": "Eu Yan Sang\u2666TERMINAL 2\u2666Airside\u2666#02-246\u2666PH\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-25",
@@ -10283,7 +10283,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-25",
         "quota_id": "Perfumes & Cosmetics (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-400 (#027-027E)\u2666PC\u2666Min15",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-25",
@@ -10302,6 +10302,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-25",
+        "quota_id": "Tommy Hilfiger\u2666TERMINAL 2\u2666Airside\u2666#026-055-01A\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-25",
         "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
         "Number of interviews": 1
     },
@@ -10313,7 +10318,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-25",
         "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     }
 ]    
 
