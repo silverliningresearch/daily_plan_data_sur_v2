@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "25-11-2024 14:07:59"
+        "download_time": "25-11-2024 14:23:40"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10237,6 +10237,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-25",
+        "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-25",
         "quota_id": "Braun Buffel\u2666TERMINAL 2\u2666Airside\u2666#02-245\u2666MP\u2666Min8",
         "Number of interviews": 2
     },
@@ -10253,7 +10258,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-25",
         "quota_id": "Maison Christian Dior/ Diptyque/ Byredo\u2666TERMINAL 2\u2666Airside\u2666#026-100-03\u2666PC\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-11-25",
@@ -10277,8 +10282,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-25",
+        "quota_id": "Tumi\u2666TERMINAL 2\u2666Airside\u2666#026-100\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-25",
         "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-11-25",
+        "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
