@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "26-11-2024 12:24:07"
+        "download_time": "26-11-2024 12:35:43"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10382,6 +10382,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-26",
+        "quota_id": "LT T4 Arrival North\u2666TERMINAL 4\u2666Airside\u2666#01-12\u2666LT\u2666Min15",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-11-26",
         "quota_id": "LT T4 DT South (walkthrough)\u2666TERMINAL 4\u2666Airside\u2666#02-25\u2666LT\u2666Min25",
         "Number of interviews": 11
     },
@@ -10407,13 +10412,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-26",
+        "quota_id": "Rolex\u2666TERMINAL 3\u2666Airside\u2666#02-13\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-26",
         "quota_id": "SATS PPG Blossom Lounge\u2666TERMINAL 4\u2666Airside\u2666#02-225&226\u2666HL\u2666Min20",
         "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-26",
         "quota_id": "T3 iSC Departure counter\u2666TERMINAL 3\u2666Airside\u2666NA\u2666PS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     }
 ]    
 
