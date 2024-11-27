@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "27-11-2024 20:23:42"
+        "download_time": "27-11-2024 20:36:44"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10543,7 +10543,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-27",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-11-27",
@@ -10554,6 +10554,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-27",
         "quota_id": "Gassan Watches (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-208\u2666LX\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-11-27",
+        "quota_id": "Gassan Watches\u2666TERMINAL 1\u2666Airside\u2666#02-54\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-27",
@@ -10608,7 +10613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-27",
         "quota_id": "Moncler\u2666TERMINAL 2\u2666Airside\u2666#02-225-03\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-27",
@@ -10633,7 +10638,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-27",
         "quota_id": "Polo Ralph Lauren\u2666TERMINAL 2\u2666Airside\u2666#02-225-04\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-27",
