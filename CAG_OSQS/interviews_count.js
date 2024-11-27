@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "27-11-2024 19:11:27"
+        "download_time": "27-11-2024 19:23:45"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10498,7 +10498,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-27",
         "quota_id": "Bottega Veneta\u2666TERMINAL 2\u2666Airside\u2666#02-224\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-11-27",
@@ -10584,6 +10584,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-11-27",
         "quota_id": "LT T1 Arrival East\u2666TERMINAL 1\u2666Airside\u2666#01-10F\u2666LT\u2666Min15",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-11-27",
+        "quota_id": "LT T1 Arrival West\u2666TERMINAL 1\u2666Airside\u2666#01-23E\u2666LT\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-11-27",
@@ -10688,7 +10693,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-27",
         "quota_id": "Zegna\u2666TERMINAL 2\u2666Airside\u2666#02-217\u2666LX\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-11-27",
