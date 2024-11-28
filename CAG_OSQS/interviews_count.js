@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "28-11-2024 20:07:53"
+        "download_time": "28-11-2024 20:23:51"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10758,7 +10758,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-28",
         "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-28",
@@ -10768,7 +10768,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-28",
         "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-11-28",
@@ -10788,7 +10788,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-28",
         "quota_id": "Perfumes & Cosmetics (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-194 (#026-116)\u2666PC\u2666Min15",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-28",
@@ -10808,12 +10808,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-28",
         "quota_id": "Sprint-Cass (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-186\u2666EL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-11-28",
         "quota_id": "Sunglass Hut\u2666TERMINAL 2\u2666Airside\u2666#02-189\u2666MP\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-28",
