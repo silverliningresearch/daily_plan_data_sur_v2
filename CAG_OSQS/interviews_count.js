@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "29-11-2024 13:06:49"
+        "download_time": "29-11-2024 13:23:32"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -10867,8 +10867,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-11-29",
-        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD\u2666Min8",
+        "quota_id": "AJI ICHI\u2666TERMINAL 4\u2666Landside\u2666#02-201\u2666FBL\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-29",
+        "quota_id": "ANDES BY ASTONS\u2666TERMINAL 4\u2666Landside\u2666#02-202\u2666FBL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-11-29",
+        "quota_id": "Bacha Coffee (DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-236\u2666CCD\u2666Min8",
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-11-29",
@@ -10933,7 +10943,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-11-29",
         "quota_id": "iStudio\u2666TERMINAL 2\u2666Airside\u2666#02-238\u2666EL\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-11-29",
