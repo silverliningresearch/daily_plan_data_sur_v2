@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "02-12-2024 15:23:08"
+        "download_time": "02-12-2024 15:35:50"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11198,7 +11198,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-02",
         "quota_id": "Hudsons Cafe\u2666TERMINAL 3\u2666Airside\u2666#02-60\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-02",
@@ -11218,7 +11218,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-02",
         "quota_id": "Perfumes & Cosmetics (T4 DTN, beside Texas Chicken)\u2666TERMINAL 4\u2666Airside\u2666#02-87\u2666PC\u2666Min15",
-        "Number of interviews": 12
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2024-12-02",
@@ -11234,6 +11234,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-02",
         "quota_id": "The Coffee Bean & Tea Leaf\u2666TERMINAL 3\u2666Airside\u2666#02-K4\u2666FBA\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-02",
+        "quota_id": "The Kitchen by Wolfgang Puck\u2666TERMINAL 3\u2666Airside\u2666#02-42\u2666FBA\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
