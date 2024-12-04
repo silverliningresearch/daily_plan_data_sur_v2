@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "04-12-2024 19:09:03"
+        "download_time": "04-12-2024 19:25:36"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11328,7 +11328,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-04",
         "quota_id": "Discover Singapore (Premises A) (T1 DTE)\u2666TERMINAL 1\u2666Airside\u2666#02-70\u2666SV\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-04",
@@ -11338,7 +11338,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-04",
         "quota_id": "Guardian\u2666TERMINAL 1\u2666Airside\u2666#02-69\u2666PH\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-04",
