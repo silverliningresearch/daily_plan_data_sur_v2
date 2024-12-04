@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "04-12-2024 16:24:55"
+        "download_time": "04-12-2024 16:37:50"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11312,6 +11312,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-04",
+        "quota_id": "Balenciaga\u2666TERMINAL 1\u2666Airside\u2666#02-81\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-04",
         "quota_id": "CRAVE\u2666TERMINAL 2\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
         "Number of interviews": 8
     },
@@ -11367,6 +11372,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-04",
+        "quota_id": "Saint Laurent\u2666TERMINAL 1\u2666Airside\u2666#02-82\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-04",
         "quota_id": "Sprint-Cass (T3 DTS)\u2666TERMINAL 3\u2666Airside\u2666#02-30\u2666EL\u2666Min8",
         "Number of interviews": 8
     },
@@ -11378,7 +11388,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-04",
         "quota_id": "adidas Originals\u2666TERMINAL 1\u2666Airside\u2666#02-73\u2666MP\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     }
 ]    
 
