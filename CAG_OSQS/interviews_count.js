@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "05-12-2024 16:38:47"
+        "download_time": "05-12-2024 16:51:56"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11423,7 +11423,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-05",
         "quota_id": "Curry Times\u2666TERMINAL 4\u2666Airside\u2666#02-81/82\u2666FBA\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-05",
@@ -11438,7 +11438,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-05",
         "quota_id": "Heavenly Wang\u2666TERMINAL 4\u2666Airside\u2666#02-80\u2666FBA\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-05",
@@ -11468,7 +11468,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-05",
         "quota_id": "T3 iSC Arrival counter\u2666TERMINAL 3\u2666Landside\u2666NA\u2666PS\u2666Min5",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-05",
@@ -11488,7 +11488,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-05",
         "quota_id": "Texas Chicken\u2666TERMINAL 4\u2666Airside\u2666#02-86\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-05",
