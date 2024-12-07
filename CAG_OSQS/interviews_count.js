@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "07-12-2024 12:23:27"
+        "download_time": "07-12-2024 12:38:20"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11578,7 +11578,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "CLOUD 9 STUDIO (SHORT TERM TENANCY)\u2666TERMINAL 3\u2666Landside\u2666#B2-44\u2666LS\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-07",
+        "quota_id": "KAWATA HOUSE OF SOCKS\u2666TERMINAL 3\u2666Landside\u2666#B2-43\u2666LS\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-07",
@@ -11593,6 +11598,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "SZAN\u2666TERMINAL 3\u2666Landside\u2666#B2-37\u2666LS\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-12-07",
+        "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
         "Number of interviews": 1
     },
     {
