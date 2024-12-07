@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "07-12-2024 16:52:27"
+        "download_time": "07-12-2024 17:08:12"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11578,7 +11578,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "8 BY BOTTLES & BOTTLES\u2666TERMINAL 3\u2666Landside\u2666#B2-51A\u2666LS\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-07",
@@ -11598,12 +11598,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "PENIWERN\u2666TERMINAL 3\u2666Landside\u2666#B2-38\u2666LS\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "SUGAR\u2666TERMINAL 3\u2666Landside\u2666#B2-48\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-07",
@@ -11613,7 +11613,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-07",
         "quota_id": "THE BODY SHOP\u2666TERMINAL 3\u2666Landside\u2666#B2-47\u2666LS\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-07",
