@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "08-12-2024 15:09:22"
+        "download_time": "08-12-2024 15:24:11"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11643,7 +11643,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-08",
         "quota_id": "Bee Cheng Hiang\u2666TERMINAL 2\u2666Landside\u2666#02-20\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-08",
@@ -11688,7 +11688,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-08",
         "quota_id": "LEVURE NATURELLE\u2666TERMINAL 2\u2666Landside\u2666#02-22\u2666LS\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-08",
@@ -11703,7 +11703,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-08",
         "quota_id": "Sunnystep\u2666TERMINAL 4\u2666Airside\u2666#02-68\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-08",
@@ -11723,7 +11723,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-08",
         "quota_id": "WH Smith (T2 Landside)\u2666TERMINAL 2\u2666Landside\u2666#02-23\u2666OW\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-08",
