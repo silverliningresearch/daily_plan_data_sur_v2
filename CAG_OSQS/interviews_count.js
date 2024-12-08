@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "08-12-2024 08:08:37"
+        "download_time": "08-12-2024 08:23:43"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11637,6 +11637,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-08",
+        "quota_id": "Bengawan Solo\u2666TERMINAL 4\u2666Airside\u2666#02-84\u2666CCD\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-12-08",
         "quota_id": "Discover Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-73/74/75/76/77\u2666SV\u2666Min8",
         "Number of interviews": 1
     },
@@ -11652,13 +11657,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-08",
+        "quota_id": "Taste Singapore\u2666TERMINAL 4\u2666Airside\u2666#02-72\u2666CCD\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-08",
         "quota_id": "WH Smith - Premises J (Air)\u2666TERMINAL 4\u2666Airside\u2666#02-59\u2666OW\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-08",
         "quota_id": "ZAKKASG\u2666TERMINAL 4\u2666Airside\u2666#02-67\u2666CT\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     }
 ]    
 
