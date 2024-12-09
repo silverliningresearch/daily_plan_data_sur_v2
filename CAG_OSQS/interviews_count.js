@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "09-12-2024 11:35:59"
+        "download_time": "09-12-2024 11:51:05"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11757,7 +11757,17 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-09",
+        "quota_id": "Chloe\u2666TERMINAL 2\u2666Airside\u2666#02-210\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-09",
         "quota_id": "Crave\u2666TERMINAL 1\u2666Airside\u2666#02-K19A\u2666FBA\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-09",
+        "quota_id": "Gassan Watches (T2 DTN)\u2666TERMINAL 2\u2666Airside\u2666#02-226\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
@@ -11768,7 +11778,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-09",
         "quota_id": "Heavenly Wang\u2666TERMINAL 1\u2666Airside\u2666#02-K8\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 7
     },
     {
         "InterviewDate": "2024-12-09",
@@ -11778,7 +11788,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-09",
         "quota_id": "Kering Eyewear\u2666TERMINAL 2\u2666Airside\u2666#02-203\u2666MP\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-09",
@@ -11798,6 +11808,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-09",
         "quota_id": "Tory Burch\u2666TERMINAL 2\u2666Airside\u2666#02-213\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-09",
+        "quota_id": "WH Smith (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-207\u2666OW\u2666Min8",
         "Number of interviews": 1
     }
 ]    
