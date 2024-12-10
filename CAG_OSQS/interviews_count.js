@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "10-12-2024 12:39:04"
+        "download_time": "10-12-2024 12:51:18"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -11858,12 +11858,12 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-10",
         "quota_id": "BAKERY CUISINE\u2666TERMINAL 4\u2666Landside\u2666#02-11\u2666LS\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-10",
         "quota_id": "BEE CHENG HIANG\u2666TERMINAL 4\u2666Landside\u2666#02-12\u2666LS\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-10",
@@ -11897,13 +11897,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-10",
+        "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Landside\u2666#02-09\u2666PC\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-10",
         "quota_id": "Pomellato\u2666TERMINAL 2\u2666Airside\u2666#02-212\u2666LX\u2666Min8",
         "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-10",
         "quota_id": "Prosegur T4 DCI Central\u2666TERMINAL 4\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-10",
