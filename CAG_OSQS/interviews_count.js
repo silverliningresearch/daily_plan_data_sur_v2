@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "11-12-2024 13:24:42"
+        "download_time": "11-12-2024 13:38:00"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12003,7 +12003,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-11",
         "quota_id": "Discover Singapore (Premises D) (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-191\u2666SV\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-11",
@@ -12024,6 +12024,16 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-11",
         "quota_id": "Liquor & Tobacco (T2 DTS)\u2666TERMINAL 2\u2666Airside\u2666#02-197\u2666LT\u2666Min15",
         "Number of interviews": 15
+    },
+    {
+        "InterviewDate": "2024-12-11",
+        "quota_id": "Marc Jacobs\u2666TERMINAL 1\u2666Airside\u2666#02-58\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-11",
+        "quota_id": "Omega\u2666TERMINAL 1\u2666Airside\u2666#02-60\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-11",
@@ -12058,6 +12068,11 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-11",
         "quota_id": "Tory Burch\u2666TERMINAL 1\u2666Airside\u2666#02-57\u2666LX\u2666Min8",
+        "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-11",
+        "quota_id": "Travelex T2 Arrival Baggage Claim Hall South\u2666TERMINAL 2\u2666Airside\u2666#01-178\u2666MC\u2666Min8",
         "Number of interviews": 3
     },
     {
