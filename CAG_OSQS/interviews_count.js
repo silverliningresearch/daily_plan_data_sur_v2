@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "12-12-2024 15:41:32"
+        "download_time": "12-12-2024 15:54:26"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -12148,7 +12148,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "Breo\u2666TERMINAL 1\u2666Airside\u2666#02-K46A\u2666EL\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2024-12-12",
@@ -12158,7 +12158,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 3\u2666Landside\u2666#01-K22\u2666CR\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-12",
@@ -12178,7 +12178,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "Fragrance\u2666TERMINAL 1\u2666Airside\u2666#02-42N\u2666CCD\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-12",
@@ -12193,7 +12193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "Mango Tree Kitchen / Archipelago\u2666TERMINAL 1\u2666Airside\u2666#02-39N\u2666FBA\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-12",
@@ -12213,17 +12213,17 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "Taste Singapore (Premises A3)\u2666TERMINAL 1\u2666Airside\u2666#02-K23\u2666CCD\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "The Cocoa Trees (T1 DTW)\u2666TERMINAL 1\u2666Airside\u2666#02-35N\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-12",
         "quota_id": "The Cocoa Trees\u2666TERMINAL 1\u2666Airside\u2666#02-63\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-12",
