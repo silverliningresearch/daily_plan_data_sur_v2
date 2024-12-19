@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "19-12-2024 19:53:36"
+        "download_time": "19-12-2024 20:08:36"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13193,7 +13193,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
-        "Number of interviews": 13
+        "Number of interviews": 14
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13203,7 +13203,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Ambassador Transit Lounge\u2666TERMINAL 3\u2666Airside\u2666#03-14\u2666HL\u2666Min20",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13253,7 +13253,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Prosegur T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K9\u2666MC\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-19",
@@ -13273,7 +13273,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-19",
         "quota_id": "Travelex T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-K10\u2666MC\u2666Min8",
-        "Number of interviews": 8
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-19",
