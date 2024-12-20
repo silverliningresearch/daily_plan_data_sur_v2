@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "20-12-2024 15:53:53"
+        "download_time": "20-12-2024 16:08:20"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13308,7 +13308,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13333,7 +13333,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Gucci\u2666TERMINAL 3\u2666Airside\u2666#02-15/16\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13373,7 +13373,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Oakley\u2666TERMINAL 4\u2666Airside\u2666#02-47\u2666MP\u2666Min8",
-        "Number of interviews": 5
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13383,7 +13383,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13408,7 +13408,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 3\u2666Airside\u2666#02-18\u2666LX\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-20",
@@ -13418,7 +13418,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-20",
         "quota_id": "acme de la vie\u2666TERMINAL 4\u2666Airside\u2666#02-45\u2666MP\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     }
 ]    
 
