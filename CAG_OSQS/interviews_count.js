@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "21-12-2024 13:24:31"
+        "download_time": "21-12-2024 13:40:03"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13457,8 +13457,13 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-21",
-        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
+        "quota_id": "Bottega Veneta\u2666TERMINAL 3\u2666Airside\u2666#02-19\u2666LX\u2666Min8",
         "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-21",
+        "quota_id": "Changi Recommends (T3 Licensed Area C)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER C (near Skytrain station to A15-21)\u2666CR\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-21",
@@ -13502,8 +13507,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-21",
+        "quota_id": "Michael Kors\u2666TERMINAL 3\u2666Airside\u2666#02-22\u2666LX\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-21",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
         "Number of interviews": 10
+    },
+    {
+        "InterviewDate": "2024-12-21",
+        "quota_id": "Prada\u2666TERMINAL 3\u2666Airside\u2666#02-17\u2666LX\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-21",
