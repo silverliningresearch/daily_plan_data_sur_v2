@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "22-12-2024 12:53:15"
+        "download_time": "22-12-2024 13:08:25"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13577,6 +13577,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-22",
+        "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 2\u2666Landside\u2666#01-05 (beside iSC counter near lifts)\u2666CR\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-22",
         "quota_id": "CHANGI RECOMMENDS\u2666TERMINAL 4\u2666Landside\u2666#01-K1\u2666CR\u2666Min8",
         "Number of interviews": 1
     },
@@ -13603,7 +13608,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-22",
         "quota_id": "Perfumes & Cosmetics\u2666TERMINAL 4\u2666Airside\u2666#02-24\u2666PC\u2666Min25",
-        "Number of interviews": 4
+        "Number of interviews": 9
     },
     {
         "InterviewDate": "2024-12-22",
