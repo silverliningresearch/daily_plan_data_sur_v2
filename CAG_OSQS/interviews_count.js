@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-12-2024 13:09:57"
+        "download_time": "24-12-2024 13:25:32"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13747,6 +13747,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-24",
+        "quota_id": "Ambassador Transit Hotel\u2666TERMINAL 3\u2666Airside\u2666#03-15\u2666HL\u2666Min20",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-24",
         "quota_id": "Bacha Coffee (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-52\u2666CCD\u2666Min8",
         "Number of interviews": 2
     },
@@ -13758,12 +13763,22 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
+    },
+    {
+        "InterviewDate": "2024-12-24",
+        "quota_id": "Lego\u2666TERMINAL 3\u2666Airside\u2666#02-55\u2666CT\u2666Min8",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
         "Number of interviews": 8
+    },
+    {
+        "InterviewDate": "2024-12-24",
+        "quota_id": "Natureland\u2666TERMINAL 3\u2666Landside\u2666#01-18\u2666LS\u2666Min8",
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-24",
