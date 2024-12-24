@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "24-12-2024 11:10:20"
+        "download_time": "24-12-2024 11:26:39"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -13758,22 +13758,27 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "Kaboom\u2666TERMINAL 3\u2666Airside\u2666#02-57A\u2666CT\u2666Min8",
-        "Number of interviews": 1
+        "Number of interviews": 3
     },
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "Mr. Bucket Chocolaterie\u2666TERMINAL 3\u2666Airside\u2666#02-K14\u2666CCD\u2666Min8",
-        "Number of interviews": 2
+        "Number of interviews": 6
     },
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "Perfumes & Cosmetics (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-58\u2666PC\u2666Min15",
-        "Number of interviews": 1
+        "Number of interviews": 2
     },
     {
         "InterviewDate": "2024-12-24",
         "quota_id": "TWG Tea (T3 DTN)\u2666TERMINAL 3\u2666Airside\u2666#02-K12\u2666CCD\u2666Min8",
         "Number of interviews": 6
+    },
+    {
+        "InterviewDate": "2024-12-24",
+        "quota_id": "iStudio\u2666TERMINAL 3\u2666Airside\u2666#02-54\u2666EL\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
