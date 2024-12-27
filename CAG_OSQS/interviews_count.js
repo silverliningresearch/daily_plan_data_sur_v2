@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "27-12-2024 12:25:37"
+        "download_time": "27-12-2024 12:39:54"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14057,6 +14057,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-27",
+        "quota_id": "Asian Artistry\u2666TERMINAL 2\u2666Airside\u2666#02-153\u2666JW\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-27",
         "quota_id": "BURGER KING\u2666TERMINAL 1\u2666Landside\u2666#03-23\u2666FBL\u2666Min8",
         "Number of interviews": 9
     },
@@ -14092,13 +14097,18 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-27",
+        "quota_id": "Ray-Ban\u2666TERMINAL 2\u2666Airside\u2666#02-152 (#026-094)\u2666MP\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-27",
         "quota_id": "STARHUB\u2666TERMINAL 1\u2666Landside\u2666#01-K8\u2666CR\u2666Min8",
         "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-27",
         "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
-        "Number of interviews": 6
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2024-12-27",
@@ -14108,7 +14118,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2024-12-27",
         "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
-        "Number of interviews": 4
+        "Number of interviews": 5
     },
     {
         "InterviewDate": "2024-12-27",
