@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "27-12-2024 11:54:55"
+        "download_time": "27-12-2024 12:09:43"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14072,6 +14072,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-27",
+        "quota_id": "Dyson Pop-Up\u2666TERMINAL 2\u2666Airside\u2666#02-174A\u2666EL\u2666Min8",
+        "Number of interviews": 1
+    },
+    {
+        "InterviewDate": "2024-12-27",
         "quota_id": "Jones The Grocer\u2666TERMINAL 2\u2666Landside\u2666#02-01 & #03-01\u2666FBL\u2666Min8",
         "Number of interviews": 3
     },
@@ -14092,6 +14097,11 @@ let interview_statistics  = `[
     },
     {
         "InterviewDate": "2024-12-27",
+        "quota_id": "Saboten\u2666TERMINAL 1\u2666Landside\u2666#03-21\u2666FBL\u2666Min8",
+        "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-12-27",
         "quota_id": "TERRACE CHINESE KITCHEN\u2666TERMINAL 1\u2666Landside\u2666#03-22\u2666FBL\u2666Min8",
         "Number of interviews": 8
     },
@@ -14099,6 +14109,11 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-27",
         "quota_id": "Travelex T1 DCI Central\u2666TERMINAL 1\u2666Landside\u2666#02-01\u2666MC\u2666Min8",
         "Number of interviews": 4
+    },
+    {
+        "InterviewDate": "2024-12-27",
+        "quota_id": "UOB Gold\u2666TERMINAL 2\u2666Airside\u2666#02-K19\u2666JW\u2666Min8",
+        "Number of interviews": 1
     }
 ]    
 
