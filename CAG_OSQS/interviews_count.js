@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "29-12-2024 11:51:56"
+        "download_time": "29-12-2024 12:08:48"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14324,6 +14324,16 @@ let interview_statistics  = `[
         "InterviewDate": "2024-12-29",
         "quota_id": "Burger King\u2666TERMINAL 3\u2666Airside\u2666#03-13\u2666FBA\u2666Min8",
         "Number of interviews": 3
+    },
+    {
+        "InterviewDate": "2024-12-29",
+        "quota_id": "Changi Recommends (T3 Licensed Area B)\u2666TERMINAL 3\u2666Airside\u2666#02-COUNTER B (near Skytrain station to T1)\u2666CR\u2666Min8",
+        "Number of interviews": 2
+    },
+    {
+        "InterviewDate": "2024-12-29",
+        "quota_id": "LT T3 DT North\u2666TERMINAL 3\u2666Airside\u2666#02-65\u2666LT\u2666Min15",
+        "Number of interviews": 1
     },
     {
         "InterviewDate": "2024-12-29",
