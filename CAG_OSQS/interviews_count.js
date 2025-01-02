@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "02-01-2025 16:37:31"
+        "download_time": "02-01-2025 16:53:24"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14488,7 +14488,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-02",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-01-02",
@@ -14508,7 +14508,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-02",
         "quota_id": "Louis Vuitton\u2666TERMINAL 1\u2666Airside\u2666#02-50\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-01-02",
@@ -14518,7 +14518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-02",
         "quota_id": "Tiffany & Co.\u2666TERMINAL 1\u2666Airside\u2666#02-45\u2666LX\u2666Min8",
-        "Number of interviews": 3
+        "Number of interviews": 4
     },
     {
         "InterviewDate": "2025-01-02",
