@@ -3,7 +3,7 @@ let interview_statistics  = `[
         "InterviewDate": "2024-08-30",
         "quota_id": "Beyond The Vines\u2666TERMINAL 1\u2666Airside\u2666#02-K25\u2666MP\u2666Min8",
         "Number of interviews": 4,
-        "download_time": "02-01-2025 21:13:07"
+        "download_time": "02-01-2025 21:26:42"
     },
     {
         "InterviewDate": "2024-08-30",
@@ -14488,7 +14488,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-02",
         "quota_id": "Christian Dior\u2666TERMINAL 1\u2666Airside\u2666#02-44 & #03-44-MZ\u2666LX\u2666Min8",
-        "Number of interviews": 7
+        "Number of interviews": 8
     },
     {
         "InterviewDate": "2025-01-02",
@@ -14518,7 +14518,7 @@ let interview_statistics  = `[
     {
         "InterviewDate": "2025-01-02",
         "quota_id": "Perfumes & Cosmetics (T1 DTW #02-43N)\u2666TERMINAL 1\u2666Airside\u2666#02-43N\u2666PC\u2666Min15",
-        "Number of interviews": 12
+        "Number of interviews": 13
     },
     {
         "InterviewDate": "2025-01-02",
